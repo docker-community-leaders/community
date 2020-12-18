@@ -14,7 +14,6 @@ Table of Contents
 **Purpose**
 
 -	[Introduction](#introduction)
--	[Scope](#scope)
 - [Become a Docker Captain](#how-to-become-a-docker-captain)
 - [Become a Docker Community Leader](#hw-to-become-a-docker-comunity-leader)
 - [How to join Docker Community Slack](#how-to-join-docker-community-slack)
@@ -24,14 +23,11 @@ Table of Contents
    - [Twitter](#twitter)
    - [YouTube](#YouTube)
 - [Office Hours](#office-hours)
-- [YouTube](#youtube)
 - [Resources](#resources)
 
 
 
-# Mission and Vision
-
-# Scope
+# Introduction
 
 # How to become a Docker Captain
 
