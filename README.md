@@ -2,10 +2,36 @@
 
 Welcome to the Docker Community repo! This repo aims to centralize content (HOW-TOs, scripts, slides, events etc) curated by Docker Captains, Docker Community Leaders. The main objective is to help members of the Docker community who share similar interests to learn from & collaborate with each other during events. 
 
+This is a community oriented and run repository, which is maintained by Docker community members. This is the perfect place to host projects, proofs of concept, documentation, and more...
 
-[![Slack Chat](https://img.shields.io/badge/Chat-Slack-ff69b4.svg "Join us. You're welcome!")](http://dockr.ly/slack) ⇦ Join us today!
+
+[![Slack Chat](https://img.shields.io/badge/Chat-Slack-ff69b4.svg "Join us. You're welcome!")](http://dockr.ly/slack) ⇦ Join Docker Community Slack today!
+
+Please help by joining the Slack channel (we like to talk about Docker in general, even if you only have questions — discussion helps the community and guides improvements) and contributing to the guide. This guide is open to contributions, so unlike a blog, it can keep improving. Like any open source effort, we combine efforts but also review to ensure high quality.
+
+Table of Contents
+-----------------
+
+**Purpose**
+
+-	[Introduction](#introduction)
+-	[Scope](#scope)
+- [Become a Docker Captain](#enroll)
+- [How to join Docker Community Slack](#slack)
+- [Contributors](#contributors)
+- [Resources](#resources)
 
 
+
+# Mission and Vision
+
+# Scope
+
+# Enroll
+
+# Slack
+
+# Contributors
 
 # Resources
 
