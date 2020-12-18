@@ -7,7 +7,6 @@ This is a community oriented and run repository, which is maintained by Docker c
 
 [![Slack Chat](https://img.shields.io/badge/Chat-Slack-ff69b4.svg "Join us. You're welcome!")](http://dockr.ly/slack) ⇦ Join Docker Community Slack today!
 
-Please help by joining the Slack channel (we like to talk about Docker in general, even if you only have questions — discussion helps the community and guides improvements) and contributing to the guide. This guide is open to contributions, so unlike a blog, it can keep improving. Like any open source effort, we combine efforts but also review to ensure high quality.
 
 Table of Contents
 -----------------
@@ -30,6 +29,8 @@ Table of Contents
 # Enroll
 
 # Slack
+
+Please help by joining the Slack channel (we like to talk about Docker in general, even if you only have questions — discussion helps the community and guides improvements) and contributing to the guide. This guide is open to contributions, so unlike a blog, it can keep improving. Like any open source effort, we combine efforts but also review to ensure high quality.
 
 # Contributors
 
