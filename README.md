@@ -75,7 +75,7 @@ There are two active Docker commnity groups - Docker Captains and Docker Communi
 
 
 
-# How to join Docker Community Slackefforts but also review to ensure high quality.
+# How to join Docker Community Slack
 
 Please help by joining the Slack channel (we like to talk about Docker in general, even if you only have questions — discussion helps the community and guides improvements) and contributing to the guide. This guide is open to contributions, so unlike a blog, it can keep improving. Like any open source effort, we combine 
 
