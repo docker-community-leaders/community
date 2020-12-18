@@ -21,6 +21,10 @@ Table of Contents
 - [Contribute a blog](#contribute-a-blog)
 - [Contributors](#contributors)
 - [Social Media](#social-media)
+   - [Twitter](#twitter)
+   - [YouTube](#YouTube)
+- [Office Hours](#office-hours)
+- [YouTube](#youtube)
 - [Resources](#resources)
 
 
@@ -54,8 +58,14 @@ Please help by joining the Slack channel (we like to talk about Docker in genera
   
 # Social Media
 
+### Twitter
+
 - [@dockercommunity](http://twitter.com/dockercommunity) 
    - Owned by Docker Community Leaders
+   
+   
+### YouTube(https://www.youtube.com/user/dockerrun)
+Check out our YouTube page for videos of recorded talks from DockerCon, webinars and other meetups.
 
 # Resources
 
