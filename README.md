@@ -127,7 +127,9 @@ The Play with Docker classroom brings you labs and tutorials that help you get h
 
 If you want to contribute a lab, check out this [GitHub repo](https://github.com/play-with-docker) and get started.
 
+# Contributors
 
+| [<img src="https://avatars1.githubusercontent.com/u/313480?s=400&v=4" width="48px;" alt="Ajeet Singh Raina"/><br /><sub><b> Ajeet Singh Raina</b></sub>](https://github.com/ajeetraina)<br /> | [<img src="https://avatars1.githubusercontent.com/u/70955865?s=400&u=8d70a62714c42a9c4c8038788c03a7ac7e809ed5&v=4" width="48px;" alt="William Quiviger"/><br /><sub><b> Ajeet Singh Raina</b></sub>](https://github.com/williamquiviger)<br />
 
 
 
