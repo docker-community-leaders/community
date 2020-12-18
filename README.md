@@ -18,7 +18,9 @@ Table of Contents
 - [Become a Docker Captain](#how-to-become-a-docker-captain)
 - [Become a Docker Community Leader](#hw-to-become-a-docker-comunity-leader)
 - [How to join Docker Community Slack](#how-to-join-docker-community-slack)
+- [Contribute a blog](#contribute-a-blog)
 - [Contributors](#contributors)
+- [Social Media](#social-media)
 - [Resources](#resources)
 
 
@@ -40,7 +42,19 @@ Table of Contents
 
 Please help by joining the Slack channel (we like to talk about Docker in general, even if you only have questions — discussion helps the community and guides improvements) and contributing to the guide. This guide is open to contributions, so unlike a blog, it can keep improving. Like any open source effort, we combine efforts but also review to ensure high quality.
 
+# Contribute a Community blog
+
+- [Blogging Guidelines]()
+
+
+
 # Contributors
+
+<tbd>
+  
+# Social Media
+
+- [@dockercommunity](httpw://twitter.com/dockercommunity)
 
 # Resources
 
