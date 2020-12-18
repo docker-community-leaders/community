@@ -54,7 +54,7 @@ Please help by joining the Slack channel (we like to talk about Docker in genera
   
 # Social Media
 
-- [@dockercommunity](httpw://twitter.com/dockercommunity)
+- [@dockercommunity](http://twitter.com/dockercommunity)
 
 # Resources
 
