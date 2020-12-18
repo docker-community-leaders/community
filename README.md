@@ -1,6 +1,11 @@
-# Docker Community
+# Docker Community Repository
 
-Welcome to the Docker Community repo! This repo aims to centralize content (HOW-TOs, scripts, slides, etc) curated by the Docker Team for the Docker Community. The main objective is to help members of the Docker community who share similar interests to learn from & collaborate with each other during events. 
+Welcome to the Docker Community repo! This repo aims to centralize content (HOW-TOs, scripts, slides, events etc) curated by Docker Captains, Docker Community Leaders. The main objective is to help members of the Docker community who share similar interests to learn from & collaborate with each other during events. 
+
+
+[![Slack Chat](https://img.shields.io/badge/Chat-Slack-ff69b4.svg "Join us. You're welcome!")](http://dockr.ly/slack) ⇦ Join us today!
+
+
 
 # Resources
 
