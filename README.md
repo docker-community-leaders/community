@@ -37,9 +37,8 @@ Table of Contents
 - [Social Media](#social-media)
    - [Twitter](#twitter)
    - [YouTube](#YouTube)
-     - [Playlists]
+     - [Playlists](https://www.youtube.com/c/DockerIo/playlists)
        - [Docker Workshops](https://www.youtube.com/watch?v=GXAD8qfkuJk&list=PLkA60AVN3hh-JW2m06J6LfmEku5FCLOCJ)
-       
    - [LinkedIn](#linkedin)
 - [Office Hours](#office-hours)
 - [Docker Forums]()
