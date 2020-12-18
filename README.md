@@ -14,8 +14,11 @@ Table of Contents
 **Purpose**
 
 -	[Introduction](#introduction)
-- [Become a Docker Captain](#how-to-become-a-docker-captain)
-- [Become a Docker Community Leader](#hw-to-become-a-docker-comunity-leader)
+- [Community Groups]()
+   - [Docker Captains]()
+      - [Become a Docker Captain](#how-to-become-a-docker-captain)
+   - [Docker Community Leaders]()
+      - [Join Docker Community Leader Program](#join-docker-community-leader-program)
 - [How to join Docker Community Slack](#how-to-join-docker-community-slack)
 - [Contribute a blog](#contribute-a-blog)
 - [Contributors](#contributors)
@@ -31,12 +34,18 @@ Table of Contents
 
 # How to become a Docker Captain
 
-<tbd>
+- [Projects Maintained by Docker Captains](https://github.com/docker-captains/about#projects-we-maintain)
+- [Search a Captain](https://www.docker.com/community/captains)
+- [Docker by the Captains](https://github.com/docker-captains/dockerbythecaptains)
+- [2020 Blog Metrics]()
 
 
-# How to become a Docker Community Leader
+# Join Docker Community Leader Program
 
-<tbd>
+- [Search a Community Leader](https://github.com/docker-community-leaders)
+- [Projects Maintained by Community Leaders]()
+- [2020 Blog Metrics]()
+
 
 # How to join Docker Community Slack
 
@@ -62,6 +71,11 @@ Please help by joining the Slack channel (we like to talk about Docker in genera
    
 ### YouTube(https://www.youtube.com/user/dockerrun)
 Check out our YouTube page for videos of recorded talks from DockerCon, webinars and other meetups.
+
+
+### Office Hours
+
+
 
 # Resources
 
