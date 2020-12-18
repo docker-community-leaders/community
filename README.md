@@ -15,8 +15,9 @@ Table of Contents
 
 -	[Introduction](#introduction)
 -	[Scope](#scope)
-- [Become a Docker Captain](#enroll)
-- [How to join Docker Community Slack](#slack)
+- [Become a Docker Captain](#how-to-become-a-docker-captain)
+- [Become a Docker Community Leader](#hw-to-become-a-docker-comunity-leader)
+- [How to join Docker Community Slack](#how-to-join-docker-community-slack)
 - [Contributors](#contributors)
 - [Resources](#resources)
 
@@ -26,9 +27,16 @@ Table of Contents
 
 # Scope
 
-# Enroll
+# How to become a Docker Captain
 
-# Slack
+<tbd>
+
+
+# How to become a Docker Community Leader
+
+<tbd>
+
+# How to join Docker Community Slack
 
 Please help by joining the Slack channel (we like to talk about Docker in general, even if you only have questions — discussion helps the community and guides improvements) and contributing to the guide. This guide is open to contributions, so unlike a blog, it can keep improving. Like any open source effort, we combine efforts but also review to ensure high quality.
 
