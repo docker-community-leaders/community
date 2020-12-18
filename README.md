@@ -21,11 +21,12 @@ Table of Contents
       - [Join Docker Community Leader Program](#join-docker-community-leader-program)
 - [How to join Docker Community Slack](#how-to-join-docker-community-slack)
 - [Contribute a blog](#contribute-a-blog)
-- [Contributors](#contributors)
 - [Social Media](#social-media)
    - [Twitter](#twitter)
    - [YouTube](#YouTube)
+   - [LinkedIn](#linkedin)
 - [Office Hours](#office-hours)
+- [Docker Forums]()
 - [Resources](#resources)
 
 
@@ -47,9 +48,9 @@ Table of Contents
 - [2020 Blog Metrics]()
 
 
-# How to join Docker Community Slack
+# How to join Docker Community Slackefforts but also review to ensure high quality.
 
-Please help by joining the Slack channel (we like to talk about Docker in general, even if you only have questions — discussion helps the community and guides improvements) and contributing to the guide. This guide is open to contributions, so unlike a blog, it can keep improving. Like any open source effort, we combine efforts but also review to ensure high quality.
+Please help by joining the Slack channel (we like to talk about Docker in general, even if you only have questions — discussion helps the community and guides improvements) and contributing to the guide. This guide is open to contributions, so unlike a blog, it can keep improving. Like any open source effort, we combine 
 
 # Contribute a Community blog
 
@@ -73,9 +74,14 @@ Please help by joining the Slack channel (we like to talk about Docker in genera
 Check out our YouTube page for videos of recorded talks from DockerCon, webinars and other meetups.
 
 
-### Office Hours
+# Office Hours
 
 
+# Docker Forums
+
+This is a public forum for users to discuss questions and explore current design patterns and best practices about Docker and related projects in the Docker Ecosystem.To participate, just log in with your Docker Hub account. Make sure to also review our [Community Guidelines](https://forums.docker.com/guidelines), [Terms of Service](https://www.docker.com/legal/docker-terms-service), and [Privacy Policy](https://www.docker.com/docker-privacy-policy).
+
+- [Docker Community Forum](https://forums.docker.com/)
 
 # Resources
 
