@@ -14,10 +14,10 @@ Table of Contents
 **Purpose**
 
 -	[Introduction](#introduction)
-- [Community Groups]()
-   - [Docker Captains]()
+- [Community Groups](#community-groups)
+   - [Docker Captains](#docker-captains)
       - [Become a Docker Captain](#how-to-become-a-docker-captain)
-   - [Docker Community Leaders]()
+   - [Docker Community Leaders](#docker-community-leaders)
       - [Join Docker Community Leader Program](#join-docker-community-leader-program)
 - [How to join Docker Community Slack](#how-to-join-docker-community-slack)
 - [Contribute a blog](#contribute-a-blog)
@@ -33,20 +33,30 @@ Table of Contents
 
 # Introduction
 
-# How to become a Docker Captain
+# Community Groups
+
+There are two active Docker commnity groups - Docker Captains and Docker Community Leaders
+
+## Docker Captains
 
 - [Projects Maintained by Docker Captains](https://github.com/docker-captains/about#projects-we-maintain)
 - [Search a Captain](https://www.docker.com/community/captains)
 - [Docker by the Captains](https://github.com/docker-captains/dockerbythecaptains)
-- [2020 Blog Metrics]()
+- [Blog Contributions & Metrics]()
+  - [2020]
+  - [2019]
+  - [2018]
 
 
-# Join Docker Community Leader Program
+## Docker Community Leaders
 
+- [Projects Maintained by Docker Captains](https://github.com/docker-community-leaders/about#projects-we-maintain)
 - [Search a Community Leader](https://github.com/docker-community-leaders)
-- [Projects Maintained by Community Leaders]()
-- [2020 Blog Metrics]()
-- [
+- [Blogs Contributions & Metrics]()
+  - [2020]
+  - [2019]
+  - [2018]
+
 
 
 # How to join Docker Community Slackefforts but also review to ensure high quality.
