@@ -1,4 +1,5 @@
-# Ready to start your own Docker Meetup Chapter?
+# How to Quickstart your own Docker Meetup Chapter?
+
 Docker Chapter events are organized by community members who are interested in talking and learning about Docker. Anyone can start a Docker Chapter as long as there isn’t already a Docker Chapter group in your city. We simply ask our organizers to comply with our Code of Conduct and work with them to ensure everyone in the community is feeling welcome!
 Interested in launching a Docker Chapter Group?
 Fill out [this form](https://docker.mobilize.io/entities/2371/registrations) to get started and have our team reach out and create the user group on events.docker.com! Our community team would be happy to work with you on solving some of the challenges associated with organizing community events in your area.
