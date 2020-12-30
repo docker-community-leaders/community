@@ -126,9 +126,10 @@ Follow us on [Twitter](https://twitter.com/docker), like Docker on [Facebook](ht
 Check out our YouTube page for videos of recorded talks from DockerCon, webinars and other meetups.
 
 
+## Community Events
+
 ### Office Hours
 
-## Community Events
 
 ### Office Hours
 
@@ -144,26 +145,39 @@ Check out our YouTube page for videos of recorded talks from DockerCon, webinars
 ### Podcasts
 
 
-## Community Engaements
+## 📒 Community Handbooks
 
-## Docker Forums
+- [Docker Meetup FAQs](https://github.com/docker-community-leaders/community/blob/master/Community-Leaders/Resources/Docker-Meetup-FAQ.md)
+- [Docker Meetup Guides](https://github.com/docker-community-leaders/community/blob/master/Community-Leaders/Resources/Docker-Meetup-Guide.md)
+- [Speaker Guidelines](https://github.com/docker-community-leaders/community/blob/master/Community-Leaders/Resources/Speaker-Guidelines.md)
+- [Sponsor Guidelines](https://github.com/docker-community-leaders/community/blob/master/Community-Leaders/Resources/Sponsorship-Guidelines.md)
+- [How to sponsor an event](https://events.docker.com/get-involved/sponsor-an-event/)
+- [How to contribute a blog](#contribute-a-community-blog)
+- [Docker Community Leader Handbook](https://docs.google.com/document/d/1-KoSxZj8T0HvwLQsZ6VJdwoTM44AP_ze74fmRrbaW30/edit#heading=h.9vircgqau0w)
+
+
+## Press Materials
+
+### Swags
+
+
+### Logos
+
+
+## Community Engagements
+
+### Docker Forums
 
 This is a public forum for users to discuss questions and explore current design patterns and best practices about Docker and related projects in the Docker Ecosystem.To participate, just log in with your Docker Hub account. Make sure to also review our [Community Guidelines](https://forums.docker.com/guidelines), [Terms of Service](https://www.docker.com/legal/docker-terms-service), and [Privacy Policy](https://www.docker.com/docker-privacy-policy).
 
-- [Docker Community Forum](https://forums.docker.com/)
-
-# [Docker Docs](https://docs.docker.com/)
-Get all the info on the different Docker projects with our docs.
-
-# [Docker Weekly](https://www.docker.com/newsletter-subscription)
-Get the latest Docker news straight to your inbox! This weekly newsletter highlights content from the community along with the latest Docker news.
 
 
-# [Docker Blog](https://blog.docker.com/)
-The Docker Blog is a great resource to find content! We post the latest Docker news including new releases and events like DockerCon there.
 
 
-# [Play with Docker Classroom](http://training.play-with-docker.com/)
+## Education Resources
+
+
+### [Play with Docker Classroom](http://training.play-with-docker.com/)
 
 The Play with Docker classroom brings you labs and tutorials that help you get hands-on experience using Docker. In this classroom you will find a mix labs and tutorials that will help Docker users, including SysAdmins, IT Pros, and Developers. There is a mix of hands-on tutorials right in the browser, instructions on setting up and using Docker in your own environment, and resources about best practices for developing and deploying your own applications.
 
