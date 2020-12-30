@@ -57,11 +57,6 @@ For more information about this project, visit https://docker.com/community
 - [Stackoverflow](#stackoverflow)
 
 
-## [Contributors](#contributors)
-
-- [List of contributors](#contributors)
-
-
 ## Community Groups
 
 There are two active Docker commnity groups - Docker Captains and Docker Community Leaders
