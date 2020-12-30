@@ -48,6 +48,7 @@ For more information about this project, visit https://docker.com/community
 ## ❄ Press Materials
 
 -  [Swags](#swags)
+-  [Logos](#logos)
 
 ## 💬 Community Engagements
 
