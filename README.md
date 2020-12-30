@@ -18,16 +18,17 @@ For more information about this project, visit https://docker.com/community
 -  📆 [Community Events](#community-events)
 -  📒 [Community Handbooks](#community-handbooks)
 -  ❄ [Press Materials](#press-materials)
+-  💬  [Community Engagements](#community-engagements)
 -  📚 [Education Resources](#education-resources)
 
 
-## Community Groups
+## 👪 Community Groups
 
  - [Docker Captains](#docker-captains)
  - [Docker Community Leaders](#docker-community-leaders)
  
  
-## Communications
+## ☎  Communications
 
 - [Join Docker Community Slack](#how-to-join-docker-community-slack)
 - [Contribute a blog](#contribute-a-blog)
@@ -35,25 +36,26 @@ For more information about this project, visit https://docker.com/community
 - [Community Meeting Recordings](#community-meetings)
 
 
-## Community Events
+## 📆  Community Events
 
 - [Office Hours](#office-hours)
 - [YouTube LIVE Coding](#youtube-live-coding)
 
-## Community Handbooks
+## 📒 Community Handbooks
 
 -  [List of Handbooks](#list-of-handbooks)
 
-## Community Engagements
+## ❄ Press Materials
 
-- [Docker Forums]()
+## 💬 Community Engagements
+
+- [Docker Forums](#docker-forums)
+- [Discord](#discord)
+- [Stackoverflow](#stackoverflow)
 
 
 ## [Contributors](#contributors)
 
-
-
-# Introduction
 
 # Community Groups
 
