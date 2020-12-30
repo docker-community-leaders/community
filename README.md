@@ -94,7 +94,7 @@ There are two active Docker commnity groups - Docker Captains and Docker Communi
 ### Docker Community Leaders
 
 - [Nominate for a Community Leader](https://docs.google.com/forms/d/1Ct4hGIvKfwMHDYtAYkvF8tjwfa-d2ic8pfCrHFOwWTU/edit)
-- [Projects Maintained by Docker Captains](https://github.com/docker-community-leaders/about#projects-we-maintain)
+- [Projects Maintained by Community Leaders](https://github.com/docker-community-leaders/about#projects-we-maintain)
 - [Search a Community Leader](https://github.com/docker-community-leaders)
 - [Blogs Contributions]()
   - [2021]()
