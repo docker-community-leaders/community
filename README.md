@@ -23,33 +23,33 @@ For more information about this project, visit https://docker.com/community
 
 ## Community Groups
 
-   - [Docker Captains](#docker-captains)
-     - [Nominate for a Docker Captain]()
-     - [Projects Maintained by Docker Captains](https://github.com/docker-captains/about#projects-we-maintain)
-     - [Search a Captain](https://www.docker.com/community/captains)
-     - [Docker by the Captains](https://github.com/docker-captains/dockerbythecaptains)
-     - [Blog Contributions & Metrics]()
-         - [2021]()
-         - [2020]()
-   - [Docker Community Leaders](#docker-community-leaders)
-     - [Join Docker Community Leader Program](#join-docker-community-leader-program)
-     - [Projects Maintained by Docker Captains](https://github.com/docker-community-leaders/about#projects-we-maintain)
-     - [Search a Community Leader](https://github.com/docker-community-leaders)
-     - [Blogs Contributions & Metrics]()
-         - [2021]()
-         - [2020]()
-- [How to join Docker Community Slack](#how-to-join-docker-community-slack)
+ - [Docker Captains](#docker-captains)
+ - [Docker Community Leaders](#docker-community-leaders)
+ 
+ 
+## Communications
+
+- [Join Docker Community Slack](#how-to-join-docker-community-slack)
 - [Contribute a blog](#contribute-a-blog)
 - [Social Media](#social-media)
-   - [Twitter](#twitter)
-   - [YouTube](#YouTube)
-     - [Playlists](https://www.youtube.com/c/DockerIo/playlists)
-       - [Docker Workshops](https://www.youtube.com/watch?v=GXAD8qfkuJk&list=PLkA60AVN3hh-JW2m06J6LfmEku5FCLOCJ)
-   - [LinkedIn](#linkedin)
+- [Community Meeting Recordings](#community-meetings)
+
+
+## Community Events
+
 - [Office Hours](#office-hours)
+- [YouTube LIVE Coding](#youtube-live-coding)
+
+## Community Handbooks
+
+-  [List of Handbooks](#list-of-handbooks)
+
+## Community Engagements
+
 - [Docker Forums]()
-- [Resources](#resources)
-- [Contributors](#contributors)
+
+
+## [Contributors](#contributors)
 
 
 
