@@ -53,6 +53,7 @@ For more information about this project, visit https://docker.com/community
 - [Sponsor Guidelines](https://github.com/docker-community-leaders/community/blob/master/Community-Leaders/Resources/Sponsorship-Guidelines.md)
 - [How to sponsor an event](https://events.docker.com/get-involved/sponsor-an-event/)
 - [How to contribute a blog](#contribute-a-community-blog)
+- [Docker Community Leader Handbook](https://docs.google.com/document/d/1-KoSxZj8T0HvwLQsZ6VJdwoTM44AP_ze74fmRrbaW30/edit#heading=h.9vircgqau0w)
 
 
 ## ❄ Press Materials
