@@ -38,7 +38,6 @@ For more information about this project, visit https://docker.com/community
 
 ## 📆 Community Events
 
-
 - [Office Hours](#office-hours)
 - [Meetups](#meetups)
 - [Webinars](#webinars)
@@ -53,7 +52,6 @@ For more information about this project, visit https://docker.com/community
 - [Speaker Guidelines](https://github.com/docker-community-leaders/community/blob/master/Community-Leaders/Resources/Speaker-Guidelines.md)
 - [Sponsor Guidelines](https://github.com/docker-community-leaders/community/blob/master/Community-Leaders/Resources/Sponsorship-Guidelines.md)
 - [How to sponsor an event](https://events.docker.com/get-involved/sponsor-an-event/)
-
 - [How to contribute a blog](#contribute-a-community-blog)
 
 
