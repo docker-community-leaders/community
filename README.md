@@ -10,8 +10,8 @@ For more information about this project, visit https://docker.com/community
 [![Slack Chat](https://img.shields.io/badge/Chat-Slack-ff69b4.svg "Join us. You're welcome!")](http://dockr.ly/slack) ⇦ Join Docker Community Slack today!
 
 
-Table of Contents
------------------
+## Table of Contents
+
 
 -  [Community Groups](#community-groups)
 -  [Communications](#communications)
@@ -21,7 +21,8 @@ Table of Contents
 -  [Education Resources](#education-resources)
 
 
-- [Community Groups](#community-groups)
+## Community Groups
+
    - [Docker Captains](#docker-captains)
      - [Nominate for a Docker Captain]()
      - [Projects Maintained by Docker Captains](https://github.com/docker-captains/about#projects-we-maintain)
