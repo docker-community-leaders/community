@@ -51,13 +51,13 @@ For more information about this project, visit https://docker.com/community
 
 ## 📒 Community Handbooks
 
-- [Docker Meetup FAQs](https://github.com/docker-community-leaders/community/blob/master/Community-Leaders/Resources/Docker-Meetup-FAQ.md)
-- [Docker Meetup Guides](https://github.com/docker-community-leaders/community/blob/master/Community-Leaders/Resources/Docker-Meetup-Guide.md)
-- [Speaker Guidelines](https://github.com/docker-community-leaders/community/blob/master/Community-Leaders/Resources/Speaker-Guidelines.md)
-- [Sponsor Guidelines](https://github.com/docker-community-leaders/community/blob/master/Community-Leaders/Resources/Sponsorship-Guidelines.md)
-- [How to sponsor an event](https://events.docker.com/get-involved/sponsor-an-event/)
+- [Docker Meetup FAQs](#docker-meetup-faqs)
+- [Docker Meetup Guides](#docker-meetup-guides)
+- [Speaker Guidelines](#speaker-guidelines)
+- [Sponsor Guidelines](#sponsorship-guidelines)
+- [How to sponsor an event](#sponsor-an-event/)
 - [How to contribute a blog](#contribute-a-community-blog)
-- [Docker Community Leader Handbook](https://docs.google.com/document/d/1-KoSxZj8T0HvwLQsZ6VJdwoTM44AP_ze74fmRrbaW30/edit#heading=h.9vircgqau0w)
+- [Docker Community Leader Handbook](#docker-community-leader-handbook)
 
 
 ## ❄ Press Materials
