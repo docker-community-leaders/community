@@ -20,8 +20,9 @@ For more information about this project, visit https://docker.com/community
 -  ❄  [Press Materials](#press-materials)
 -  💬 [Community Engagements](#community-engagements)
 -  📚 [Education Resources](#education-resources)
+<br>
 
-🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 
+🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 
 
 
 ## 👪 Community Groups
