@@ -17,8 +17,8 @@ For more information about this project, visit https://docker.com/community
 -  ☎  [Communications](#communications)
 -  📆 [Community Events](#community-events)
 -  📒 [Community Handbooks](#community-handbooks)
--  ❄ [Press Materials](#press-materials)
--  💬  [Community Engagements](#community-engagements)
+-  ❄  [Press Materials](#press-materials)
+-  💬 [Community Engagements](#community-engagements)
 -  📚 [Education Resources](#education-resources)
 
 
@@ -28,7 +28,7 @@ For more information about this project, visit https://docker.com/community
  - [Docker Community Leaders](#docker-community-leaders)
  
  
-## ☎  Communications
+## ☎ Communications
 
 - [Join Docker Community Slack](#how-to-join-docker-community-slack)
 - [Contribute a blog](#contribute-a-blog)
@@ -47,6 +47,8 @@ For more information about this project, visit https://docker.com/community
 
 ## ❄ Press Materials
 
+-  [Swags](#swags)
+
 ## 💬 Community Engagements
 
 - [Docker Forums](#docker-forums)
@@ -57,11 +59,11 @@ For more information about this project, visit https://docker.com/community
 ## [Contributors](#contributors)
 
 
-# Community Groups
+## Community Groups
 
 There are two active Docker commnity groups - Docker Captains and Docker Community Leaders
 
-## Docker Captains
+### Docker Captains
 
 - [Nominate for a Docker Captain]()
 - [Projects Maintained by Docker Captains](https://github.com/docker-captains/about#projects-we-maintain)
@@ -73,7 +75,7 @@ There are two active Docker commnity groups - Docker Captains and Docker Communi
   - [2018]
 
 
-## Docker Community Leaders
+### Docker Community Leaders
 
 - [Projects Maintained by Docker Captains](https://github.com/docker-community-leaders/about#projects-we-maintain)
 - [Search a Community Leader](https://github.com/docker-community-leaders)
@@ -83,17 +85,18 @@ There are two active Docker commnity groups - Docker Captains and Docker Communi
   - [2018]
 
 
+## Communications
 
-# How to join Docker Community Slack
+### How to join Docker Community Slack
 
 Please help by joining the Slack channel (we like to talk about Docker in general, even if you only have questions — discussion helps the community and guides improvements) and contributing to the guide. This guide is open to contributions, so unlike a blog, it can keep improving. Like any open source effort, we combine 
 
-# Contribute a Community blog
+### Contribute a Community blog
 
 - [Blogging Guidelines]()
 
   
-# Social Media
+## Social Media
 
 Follow us on [Twitter](https://twitter.com/docker), like Docker on [Facebook](https://www.facebook.com/docker.run) and follow Docker on [LinkedIn](https://www.linkedin.com/company/docker)
 
@@ -107,10 +110,12 @@ Follow us on [Twitter](https://twitter.com/docker), like Docker on [Facebook](ht
 Check out our YouTube page for videos of recorded talks from DockerCon, webinars and other meetups.
 
 
-# Office Hours
+### Office Hours
 
 
-# Docker Forums
+## Community Engaements
+
+## Docker Forums
 
 This is a public forum for users to discuss questions and explore current design patterns and best practices about Docker and related projects in the Docker Ecosystem.To participate, just log in with your Docker Hub account. Make sure to also review our [Community Guidelines](https://forums.docker.com/guidelines), [Terms of Service](https://www.docker.com/legal/docker-terms-service), and [Privacy Policy](https://www.docker.com/docker-privacy-policy).
 
@@ -133,7 +138,7 @@ The Play with Docker classroom brings you labs and tutorials that help you get h
 
 If you want to contribute a lab, check out this [GitHub repo](https://github.com/play-with-docker) and get started.
 
-# Contributors
+## Contributors
 
 | [<img src="https://avatars1.githubusercontent.com/u/313480?s=400&v=4" width="48px;" alt="Ajeet Singh Raina"/><br /><sub><b> Ajeet Singh Raina</b></sub>](https://github.com/ajeetraina)<br /> |  [<img src="https://avatars1.githubusercontent.com/u/70955865?s=400&u=8d70a62714c42a9c4c8038788c03a7ac7e809ed5&v=4" width="48px;" alt="William Quiviger"/><br /><sub><b> William Quiviger</b></sub>](https://github.com/williamquiviger)<br /> |
 
