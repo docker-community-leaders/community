@@ -13,12 +13,12 @@ For more information about this project, visit https://docker.com/community
 ## Table of Contents
 
 
--  [Community Groups](#community-groups)
--  [Communications](#communications)
--  [Community Events](#community-events)
--  [Community Handbooks](#community-handbooks)
--  [Press Materials](#press-materials)
--  [Education Resources](#education-resources)
+-  👪 [Community Groups](#community-groups)
+-  ☎  [Communications](#communications)
+-  📆 [Community Events](#community-events)
+-  📒 [Community Handbooks](#community-handbooks)
+-  ❄ [Press Materials](#press-materials)
+-  📚 [Education Resources](#education-resources)
 
 
 ## Community Groups
