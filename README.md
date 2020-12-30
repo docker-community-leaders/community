@@ -38,8 +38,13 @@ For more information about this project, visit https://docker.com/community
 
 ## 📆 Community Events
 
+
 - [Office Hours](#office-hours)
-- [YouTube LIVE Coding](#youtube-live-coding)
+- [Meetups](#meetups)
+- [Webinars](#webinars)
+- [Live Shows](#live-shows)
+- [Roadshows](#roadshows)
+- [Podcasts](#podcasts)
 
 ## 📒 Community Handbooks
 
@@ -110,11 +115,18 @@ Check out our YouTube page for videos of recorded talks from DockerCon, webinars
 
 ## Community Events
 
-- [Meetups]
-- [Webinars]
-- [Live Shows]
-- [Roadshows]
-- [Podcasts]
+### Office Hours
+
+### Meetups
+
+
+### Webinars
+
+### Live Shows
+
+### Roadshows
+
+### Podcasts
 
 
 ## Community Engaements
