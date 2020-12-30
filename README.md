@@ -59,6 +59,8 @@ For more information about this project, visit https://docker.com/community
 
 ## [Contributors](#contributors)
 
+- [List of contributors](#contributors)
+
 
 ## Community Groups
 
