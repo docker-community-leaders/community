@@ -24,6 +24,7 @@ For more information about this project, visit https://docker.com/community
 
 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 
 
+<br>
 
 ## 👪 Community Groups
 
@@ -69,9 +70,11 @@ For more information about this project, visit https://docker.com/community
 - [Docker Forums](#docker-forums)
 - [Discord](#discord)
 - [Stackoverflow](#stackoverflow)
+<br>
+🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 
 
-🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 
 
+<br>
 
 ## Community Groups
 
