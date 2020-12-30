@@ -36,14 +36,14 @@ For more information about this project, visit https://docker.com/community
 - [Community Meeting Recordings](#community-meetings)
 
 
-## 📆  Community Events
+## 📆 Community Events
 
 - [Office Hours](#office-hours)
 - [YouTube LIVE Coding](#youtube-live-coding)
 
 ## 📒 Community Handbooks
 
--  [List of Handbooks](#list-of-handbooks)
+- [List of Handbooks](#list-of-handbooks)
 
 ## ❄ Press Materials
 
@@ -92,7 +92,7 @@ Please help by joining the Slack channel (we like to talk about Docker in genera
 - [Blogging Guidelines]()
 
   
-## Social Media
+### Social Media
 
 Follow us on [Twitter](https://twitter.com/docker), like Docker on [Facebook](https://www.facebook.com/docker.run) and follow Docker on [LinkedIn](https://www.linkedin.com/company/docker)
 
@@ -140,10 +140,3 @@ If you want to contribute a lab, check out this [GitHub repo](https://github.com
 
 
 
-
-
-
-
-
-
- 
