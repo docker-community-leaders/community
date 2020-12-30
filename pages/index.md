@@ -127,8 +127,8 @@ Follow us on [Twitter](https://twitter.com/docker), like Docker on [Facebook](ht
    - Owned by Docker Community Leaders
    
    
-### YouTube(https://www.youtube.com/user/dockerrun)
-Check out our YouTube page for videos of recorded talks from DockerCon, webinars and other meetups.
+### YouTube 
+Check out our [YouTube page](https://www.youtube.com/user/dockerrun) for videos of recorded talks from DockerCon, webinars and other meetups.
 
 
 ## Community Events
