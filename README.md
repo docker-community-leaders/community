@@ -31,7 +31,7 @@ For more information about this project, visit https://docker.com/community
 ## ☎ Communications
 
 - [Join Docker Community Slack](#how-to-join-docker-community-slack)
-- [Contribute a blog](#contribute-a-blog)
+- [Contribute a blog](#contribute-a-community-blog)
 - [Social Media](#social-media)
 - [Community Meeting Recordings](#community-meetings)
 
