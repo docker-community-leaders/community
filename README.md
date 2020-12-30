@@ -145,7 +145,7 @@ Check out our YouTube page for videos of recorded talks from DockerCon, webinars
 ### Podcasts
 
 
-## 📒 Community Handbooks
+## Community Handbooks
 
 - [Docker Meetup FAQs](https://github.com/docker-community-leaders/community/blob/master/Community-Leaders/Resources/Docker-Meetup-FAQ.md)
 - [Docker Meetup Guides](https://github.com/docker-community-leaders/community/blob/master/Community-Leaders/Resources/Docker-Meetup-Guide.md)
