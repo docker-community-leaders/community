@@ -73,8 +73,8 @@ There are two active Docker commnity groups - Docker Captains and Docker Communi
 - [Search a Captain](https://www.docker.com/community/captains)
 - [Docker by the Captains](https://github.com/docker-captains/dockerbythecaptains)
 - [Blog Contributions](https://github.com/docker-captains/about#captains-blogstwitter)
-  - [2021]
-  - [2020]
+  - [2021]()
+  - [2020]()
 - [Blog Metrics](#blog-metrics)
 
 ### Docker Community Leaders
@@ -82,8 +82,8 @@ There are two active Docker commnity groups - Docker Captains and Docker Communi
 - [Projects Maintained by Docker Captains](https://github.com/docker-community-leaders/about#projects-we-maintain)
 - [Search a Community Leader](https://github.com/docker-community-leaders)
 - [Blogs Contributions]()
-  - [2021]
-  - [2020]
+  - [2021]()
+  - [2020]()
 - [Blog Metrics](#blog-metrics)
 
 ## Communications
