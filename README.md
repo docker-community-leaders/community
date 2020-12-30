@@ -78,7 +78,7 @@ There are two active Docker commnity groups - Docker Captains and Docker Communi
 
 ### Docker Captains
 
-- [Nominate for a Docker Captain](https://www.docker.com/community/captains)
+- [Nominate for a Docker Captain](https://forms.gle/ztbGCQe16FQF1ruU8)
 - [Projects Maintained by Docker Captains](https://github.com/docker-captains/about#projects-we-maintain)
 - [Search a Captain](https://www.docker.com/community/captains)
 - [Docker by the Captains](https://github.com/docker-captains/dockerbythecaptains)
