@@ -1,98 +1,190 @@
-# Docsy Jekyll Theme
+# Docker Community Repository
 
-[![CircleCI](https://circleci.com/gh/vsoch/docsy-jekyll/tree/master.svg?style=svg)](https://circleci.com/gh/vsoch/docsy-jekyll/tree/master)
-<a href="https://jekyll-themes.com/docsy-jekyll/">
-    <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
-</a>
+🐳 🐳 🐳  <br> Welcome to the Docker Community repo! 
 
-![https://raw.githubusercontent.com/vsoch/docsy-jekyll/master/assets/img/docsy-jekyll.png](https://raw.githubusercontent.com/vsoch/docsy-jekyll/master/assets/img/docsy-jekyll.png)
+This repo aims to centralize content (HOW-TOs, scripts, slides, events etc) curated by Docker User Groups. The main objective is to help members of the Docker community who share similar interests to learn from & collaborate with each other during events. This is a community oriented and run repository, which is maintained by Docker community members. This is the perfect place to host projects, proofs of concept, documentation, and more...
 
-This is a [starter template](https://vsoch.github.com/docsy-jekyll/) for a Docsy jekyll theme, based
-on the Beautiful [Docsy](https://github.com/google/docsy) that renders with Hugo. This version is intended for
-native deployment on GitHub pages. The original [Apache License](https://github.com/vsoch/docsy-jekyll/blob/master/LICENSE) is included.
+For more information about this project, visit https://docker.com/community
 
-## Changes
 
-The site is intended for purely documentation, so while the front page banner
-is useful for business or similar, this author (@vsoch) preferred to have
-the main site page go directly to the Documentation view. Posts
-are still provided via a feed.
+[![Slack Chat](https://img.shields.io/badge/Chat-Slack-ff69b4.svg "Join us. You're welcome!")](http://dockr.ly/slack) ⇦ Join Docker Community Slack today!
 
-## Usage
 
-### 1. Get the code
+## Table of Contents
 
-You can clone the repository right to where you want to host the docs:
 
-```bash
-git clone https://github.com/vsoch/docsy-jekyll.git docs
-cd docs
-```
+-  👪 [Community Groups](#community-groups)
+-  ☎  [Communications](#communications)
+-  📆 [Community Events](#community-events)
+-  📒 [Community Handbooks](#community-handbooks)
+-  ❄  [Press Materials](#press-materials)
+-  💬 [Community Engagements](#community-engagements)
+-  📚 [Education Resources](#education-resources)
+<br>
 
-### 2. Customize
 
-To edit configuration values, customize the [_config.yml](https://github.com/vsoch/docsy-jekyll/blob/master/_config.yml).
-To add pages, write them into the [pages](https://github.com/vsoch/docsy-jekyll/blob/master/pages) folder. 
-You define urls based on the `permalink` attribute in your pages,
-and then add them to the navigation by adding to the content of [_data/toc.myl](https://github.com/vsoch/docsy-jekyll/blob/master/_data/toc.yml).
-The top navigation is controlled by [_data/navigation.yml](https://github.com/vsoch/docsy-jekyll/blob/master/_data/navigation.yml)
 
-### 3. Options
+<br>
 
-Most of the configuration values in the [_config.yml](https://github.com/vsoch/docsy-jekyll/blob/master/_config.yml) are self explanatory,
-and for more details, see the [getting started page](https://vsoch.github.io/docsy-jekyll/docs/getting-started)
-rendered on the site.
+## 👪 Community Groups
 
-### 4. Serve
+ - [Docker Captains](#docker-captains)
+ - [Docker Community Leaders](#docker-community-leaders)
+ 
+ 
+## ☎ Communications
 
-Depending on how you installed jekyll:
+- [Join Docker Community Slack](#how-to-join-docker-community-slack)
+- [Contribute a blog](#contribute-a-community-blog)
+- [Social Media](#social-media)
+- [Community Meeting Recordings](#community-meetings)
 
-```bash
-jekyll serve
-# or
-bundle exec jekyll serve
-```
 
-### 5. Run as a container in dev or prod
+## 📆 Community Events
 
-#### Software Dependencies
+- [Office Hours](#office-hours)
+- [Meetups](#meetups)
+- [Webinars](#webinars)
+- [Live Shows](#live-shows)
+- [Roadshows](#roadshows)
+- [Podcasts](#podcasts)
 
-If you want to run docsy jekyll via a container for development (dev) or production (prod) you can use containers. This approach requires installing [docker-ce](https://docs.docker.com/engine/install/ubuntu/) and [docker-compose](https://docs.docker.com/compose/install/). 
+## 📒 Community Handbooks
 
-#### Customization
+- [Docker Meetup FAQs](#docker-meetup-faqs)
+- [Docker Meetup Guides](#docker-meetup-guides)
+- [Speaker Guidelines](#speaker-guidelines)
+- [Sponsor Guidelines](#sponsorship-guidelines)
+- [How to sponsor an event](#sponsor-an-event/)
+- [How to contribute a blog](#contribute-a-community-blog)
+- [Docker Community Leader Handbook](#docker-community-leader-handbook)
 
-Note that the [docker-compose.yml](docker-compose.yml) file is using the [jekyll/jekyll:3.8](https://hub.docker.com/r/jekyll/jekyll/tags) image. If you want to make your build more reproducible, you can specify a particular version for jekyll (tag). Note that at the development time of writing this documentation, the latest was tag 4.0.0,
-and it [had a bug](https://github.com/fastai/fastpages/issues/267#issuecomment-620612896) that prevented the server from deploying.
 
-If you are deploying a container to production, you should remove the line to
-mount the bundles directory to the host in the docker-compose.yml. Change:
+## ❄ Press Materials
 
-```yaml
-    volumes: 
-      - "./:/srv/jekyll"
-      - "./vendor/bundle:/usr/local/bundle"
-      # remove "./vendor/bundle:/usr/local/bundle" volume when deploying in production
-```
+-  [Swags](#swags)
+-  [Logos](#logos)
 
-to:
+## 💬 Community Engagements
 
-```yaml
-    volumes: 
-      - "./:/srv/jekyll"
-```
+- [Docker Forums](#docker-forums)
+- [Discord](#discord)
+- [Stackoverflow](#stackoverflow)
+<br>
 
-This additional volume is optimal for development so you can cache the bundle dependencies,
-but should be removed for production. 
 
-#### Start Container
+<br>
 
-Once your docker-compose to download the base container and bring up the server:
+## Community Groups
 
-```bash
-docker-compose up -d
-```
+There are two active Docker commnity groups - Docker Captains and Docker Community Leaders
 
-You can then open your browser to [http://localhost:4000](http://localhost:4000)
-to see the server running.
+### Docker Captains
 
-> Node : changes `baseurl: ""` in _config.yml  when you are running in local and prod according to the requirement.
+- [Nominate for a Docker Captain](https://forms.gle/ztbGCQe16FQF1ruU8)
+- [Projects Maintained by Docker Captains](https://github.com/docker-captains/about#projects-we-maintain)
+- [Search a Captain](https://www.docker.com/community/captains)
+- [Docker by the Captains](https://github.com/docker-captains/dockerbythecaptains)
+- [Blog Contributions](https://github.com/docker-captains/about#captains-blogstwitter)
+  - [2021]()
+  - [2020]()
+- [Blog Metrics](#blog-metrics)
+
+### Docker Community Leaders
+
+- [Nominate for a Community Leader](https://docs.google.com/forms/d/1Ct4hGIvKfwMHDYtAYkvF8tjwfa-d2ic8pfCrHFOwWTU/edit)
+- [Projects Maintained by Community Leaders](https://github.com/docker-community-leaders/about#projects-we-maintain)
+- [Search a Community Leader](https://github.com/docker-community-leaders)
+- [Blogs Contributions]()
+  - [2021]()
+  - [2020]()
+- [Blog Metrics](#blog-metrics)
+
+## Communications
+
+### How to join Docker Community Slack
+
+Please help by joining the Slack channel (we like to talk about Docker in general, even if you only have questions — discussion helps the community and guides improvements) and contributing to the guide. This guide is open to contributions, so unlike a blog, it can keep improving. Like any open source effort, we combine 
+
+### Contribute a Community blog
+
+- [Blogging Guidelines]()
+
+  
+### Social Media
+
+Follow us on [Twitter](https://twitter.com/docker), like Docker on [Facebook](https://www.facebook.com/docker.run) and follow Docker on [LinkedIn](https://www.linkedin.com/company/docker)
+
+### Twitter
+
+- [@dockercommunity](http://twitter.com/dockercommunity) 
+   - Owned by Docker Community Leaders
+   
+   
+### YouTube(https://www.youtube.com/user/dockerrun)
+Check out our YouTube page for videos of recorded talks from DockerCon, webinars and other meetups.
+
+
+## Community Events
+
+#### Office Hours
+#### Office Hours
+#### Meetups
+#### Webinars
+#### Live Shows
+#### Roadshows
+#### Podcasts
+
+## Community Handbooks
+
+### Technical Handbooks
+
+ - [How to conduct Docker 101 Workshop?]()
+ - [How to conduct Docker Desktop workshop?]()
+ - [How to conduct Kubernetes 101 workshops]()
+ 
+
+### Events Handbooks
+
+- [Docker Meetup FAQs](https://github.com/docker-community-leaders/community/blob/master/Community-Leaders/Resources/Docker-Meetup-FAQ.md)
+- [Docker Meetup Guides](https://github.com/docker-community-leaders/community/blob/master/Community-Leaders/Resources/Docker-Meetup-Guide.md)
+- [Speaker Guidelines](https://github.com/docker-community-leaders/community/blob/master/Community-Leaders/Resources/Speaker-Guidelines.md)
+- [Sponsor Guidelines](https://github.com/docker-community-leaders/community/blob/master/Community-Leaders/Resources/Sponsorship-Guidelines.md)
+- [How to sponsor an event](https://events.docker.com/get-involved/sponsor-an-event/)
+- [How to contribute a blog](#contribute-a-community-blog)
+- [Docker Community Leader Handbook](https://docs.google.com/document/d/1-KoSxZj8T0HvwLQsZ6VJdwoTM44AP_ze74fmRrbaW30/edit#heading=h.9vircgqau0w)
+
+
+## Press Materials
+
+### Swags
+
+
+### Logos
+
+
+## Community Engagements
+
+### Docker Forums
+
+This is a public forum for users to discuss questions and explore current design patterns and best practices about Docker and related projects in the Docker Ecosystem.To participate, just log in with your Docker Hub account. Make sure to also review our [Community Guidelines](https://forums.docker.com/guidelines), [Terms of Service](https://www.docker.com/legal/docker-terms-service), and [Privacy Policy](https://www.docker.com/docker-privacy-policy).
+
+
+
+
+
+## Education Resources
+
+
+### [Play with Docker Classroom](http://training.play-with-docker.com/)
+
+The Play with Docker classroom brings you labs and tutorials that help you get hands-on experience using Docker. In this classroom you will find a mix labs and tutorials that will help Docker users, including SysAdmins, IT Pros, and Developers. There is a mix of hands-on tutorials right in the browser, instructions on setting up and using Docker in your own environment, and resources about best practices for developing and deploying your own applications.
+
+If you want to contribute a lab, check out this [GitHub repo](https://github.com/play-with-docker) and get started.
+
+## Contributors
+
+| [<img src="https://avatars1.githubusercontent.com/u/313480?s=400&v=4" width="48px;" alt="Ajeet Singh Raina"/><br /><sub><b> Ajeet Singh Raina</b></sub>](https://github.com/ajeetraina)<br /> |  [<img src="https://avatars1.githubusercontent.com/u/70955865?s=400&u=8d70a62714c42a9c4c8038788c03a7ac7e809ed5&v=4" width="48px;" alt="William Quiviger"/><br /><sub><b> William Quiviger</b></sub>](https://github.com/williamquiviger)<br /> |
+
+
+
