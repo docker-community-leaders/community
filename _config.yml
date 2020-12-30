@@ -34,9 +34,9 @@ github_user: "docker-community-leaders"
 github_repo: "alphasite"
 
 # Optional
-twitter: vsoch
-linkedin: vsochat
-dockerhub: vanessa
+twitter: docker
+linkedin: docker
+dockerhub: docker
 
 # Should there be feedback buttons at the bottom of pages?
 feedback: true
