@@ -146,6 +146,15 @@ Check out our YouTube page for videos of recorded talks from DockerCon, webinars
 
 ## Community Handbooks
 
+### Technical Handbooks
+
+ - [How to conduct Docker 101 Workshop?]()
+ - [How to conduct Docker Desktop workshop?]()
+ - [How to conduct Kubernetes 101 workshops]()
+ 
+
+### Events Handbooks
+
 - [Docker Meetup FAQs](https://github.com/docker-community-leaders/community/blob/master/Community-Leaders/Resources/Docker-Meetup-FAQ.md)
 - [Docker Meetup Guides](https://github.com/docker-community-leaders/community/blob/master/Community-Leaders/Resources/Docker-Meetup-Guide.md)
 - [Speaker Guidelines](https://github.com/docker-community-leaders/community/blob/master/Community-Leaders/Resources/Speaker-Guidelines.md)
