@@ -22,7 +22,7 @@ For more information about this project, visit https://docker.com/community
 -  📚 [Education Resources](#education-resources)
 <br>
 
-🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 
+
 
 <br>
 
@@ -71,7 +71,6 @@ For more information about this project, visit https://docker.com/community
 - [Discord](#discord)
 - [Stackoverflow](#stackoverflow)
 <br>
-🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳 🐳  
 
 
 <br>
