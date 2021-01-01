@@ -1,6 +1,6 @@
 ---
 title: Event HandBooks
-permalink: /handbooks/resources/meetup/guide/
+permalink: /resources/meetup/guide/
 ---
 
 

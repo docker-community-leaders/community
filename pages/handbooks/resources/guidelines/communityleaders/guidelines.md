@@ -1,6 +1,6 @@
 ---
 title: Community Leaders Guidelines HandBooks
-permalink: /handbooks/resources/guidelines/communityleaders/
+permalink: /resources/guidelines/communityleaders/
 ---
 
 
