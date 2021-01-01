@@ -5,12 +5,6 @@ permalink: /handbooks/docker101/
 
 # Docker 101 Beginners Level Workshop
 
-### Infrastructure Required
-
-## Docker WorkShop for Beginners 
-
-![](https://raw.githubusercontent.com/collabnix/dockerlabs/master/workshop/docker/dockerlabs.png)
-
 
 
 ### Pre-requisite:
