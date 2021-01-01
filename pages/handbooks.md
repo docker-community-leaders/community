@@ -13,8 +13,13 @@ permalink: /handbooks/
  - [Kubernetes 101 tutorials](handbooks/k8s101/k8s101.md)
  
 
-### Events Handbooks
+### Events Handbooks for Community Leaders
 
+
+
+
+- [How to conduct a Docker Meetup event?](resources/conduct-a-meetup.md) 
+- [How to conduct a Docker Virtual event?(resources/conduct-a-virtual-meetup.md)
 - [Docker Meetup FAQs](resources/Docker-Meetup-FAQ.md)
 - [Docker Meetup Guides](resources/Docker-Meetup-Guide.md)
 - [Speaker Guidelines](resources/Speaker-Guidelines.md)
