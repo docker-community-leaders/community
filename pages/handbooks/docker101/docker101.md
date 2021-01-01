@@ -8,6 +8,4 @@ permalink: /handbooks/docker101/
 ### Technical Handbooks
 
  - [How to conduct Docker 101 Workshop?]()
- - [How to conduct Docker Desktop workshop?]()
- - [How to conduct Kubernetes 101 workshops]()
 
