@@ -1,6 +1,6 @@
 ---
 title: Event HandBooks
-permalink: /handbooks/resources/
+permalink: /handbooks/resources/sponsorship/speaker/
 ---
 
 # Speaker Guidelines

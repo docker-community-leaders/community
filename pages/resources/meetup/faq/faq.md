@@ -1,6 +1,6 @@
 ---
 title: Meetup FAQs
-permalink: /handbooks/resources/meetup/
+permalink: /handbooks/resources/meetup/faq/
 ---
 
 
