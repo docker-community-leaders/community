@@ -90,9 +90,3 @@ permalink: /handbooks/docker101/
  
 
 
-
-
-
-
-### 
-
