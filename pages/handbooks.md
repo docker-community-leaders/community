@@ -18,8 +18,6 @@ permalink: /handbooks/
 
 
 
-- [How to conduct a Docker Meetup event?](handbooks/resources/conduct-a-meetup.md) 
-- [How to conduct a Docker Virtual event?](handbooks/resources/conduct-a-virtual-meetup.md)
 - [Community Leader Guidelines](handbooks/resources/guidelines/communityleaders/guidelines.md)
 - [Conduct a Meetup](handbooks/resources/meetup/conduct-a-meetup/conduct-a-meetup.md)
 - [How to quickstart your own Meetup Chapter?](handbooks/resources/meetup/faq/faq.md)
