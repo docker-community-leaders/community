@@ -3,13 +3,14 @@ title: HandBooks
 permalink: /handbooks/
 ---
 
-# List of Handbooks for Community Leaders
+# List of Handbooks for Docker Community
 
-### Technical Handbooks
 
- - [How to conduct Docker 101 Workshop?](handbooks/docker101/docker101.md)
- - [How to conduct Docker Desktop workshop?](handbooks/dockerdesktop/dockerdesktop.md)
- - [How to conduct Kubernetes 101 workshops](handbooks/k8s101/k8s101.md)
+### Tutorials & Workshops
+
+ - [Docker 101 tutorials?](handbooks/docker101/docker101.md)
+ - [Docker Desktop tutorials?](handbooks/dockerdesktop/dockerdesktop.md)
+ - [Kubernetes 101 tutorials](handbooks/k8s101/k8s101.md)
  
 
 ### Events Handbooks
