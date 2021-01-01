@@ -8,16 +8,16 @@ permalink: /handbooks/
 ### Technical Handbooks
 
  - [How to conduct Docker 101 Workshop?](handbooks/docker101/docker101.md)
- - [How to conduct Docker Desktop workshop?]()
- - [How to conduct Kubernetes 101 workshops]()
+ - [How to conduct Docker Desktop workshop?](handbook/dockerdesktop/dockerdesktop.md)
+ - [How to conduct Kubernetes 101 workshops](handbook/k8s101/k8s101.md)
  
 
 ### Events Handbooks
 
-- [Docker Meetup FAQs](https://github.com/docker-community-leaders/community/blob/master/Community-Leaders/Resources/Docker-Meetup-FAQ.md)
-- [Docker Meetup Guides](https://github.com/docker-community-leaders/community/blob/master/Community-Leaders/Resources/Docker-Meetup-Guide.md)
-- [Speaker Guidelines](https://github.com/docker-community-leaders/community/blob/master/Community-Leaders/Resources/Speaker-Guidelines.md)
-- [Sponsor Guidelines](https://github.com/docker-community-leaders/community/blob/master/Community-Leaders/Resources/Sponsorship-Guidelines.md)
+- [Docker Meetup FAQs](resources/Docker-Meetup-FAQ.md)
+- [Docker Meetup Guides](resources/Docker-Meetup-Guide.md)
+- [Speaker Guidelines](resources/Speaker-Guidelines.md)
+- [Sponsor Guidelines](resources/Sponsorship-Guidelines.md)
 - [How to sponsor an event](https://events.docker.com/get-involved/sponsor-an-event/)
 - [Docker Community Leader Handbook](https://docs.google.com/document/d/1-KoSxZj8T0HvwLQsZ6VJdwoTM44AP_ze74fmRrbaW30/edit#heading=h.9vircgqau0w)
 
