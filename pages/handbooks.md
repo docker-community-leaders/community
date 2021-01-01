@@ -8,8 +8,8 @@ permalink: /handbooks/
 ### Technical Handbooks
 
  - [How to conduct Docker 101 Workshop?](handbooks/docker101/docker101.md)
- - [How to conduct Docker Desktop workshop?](handbook/dockerdesktop/dockerdesktop.md)
- - [How to conduct Kubernetes 101 workshops](handbook/k8s101/k8s101.md)
+ - [How to conduct Docker Desktop workshop?](handbooks/dockerdesktop/dockerdesktop.md)
+ - [How to conduct Kubernetes 101 workshops](handbooks/k8s101/k8s101.md)
  
 
 ### Events Handbooks
