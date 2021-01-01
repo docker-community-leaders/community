@@ -19,7 +19,7 @@ permalink: /handbooks/
 
 
 - [How to conduct a Docker Meetup event?](resources/conduct-a-meetup.md) 
-- [How to conduct a Docker Virtual event?(resources/conduct-a-virtual-meetup.md)
+- [How to conduct a Docker Virtual event?](resources/conduct-a-virtual-meetup.md)
 - [Docker Meetup FAQs](resources/Docker-Meetup-FAQ.md)
 - [Docker Meetup Guides](resources/Docker-Meetup-Guide.md)
 - [Speaker Guidelines](resources/Speaker-Guidelines.md)
