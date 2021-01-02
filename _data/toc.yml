@@ -5,19 +5,16 @@
       url: "docs/getting-started"
       children:
         - title: Features
-          url: "docs/getting-started#getting-started"
+          url: "docs/getting-started#contributors-guide"
         - title: Development
-          url: "docs/getting-started#development"
+          url: "docs/getting-started#code-of-conduct"
         - title: Customization
-          url: "docs/getting-started#customization"
-    - title: "Extras"
-      url: "docs/extras"
+          url: "docs/getting-started#cheatsheet"
+    - title: "Community Leaders"
+      url: "docs/leaders"
       children:
-        - title: Quizzes
-          url: "docs/extras/example-quiz"
+        - title: Profile
+          url: "docs/leaders/profiles"
         - title: Tags Page
           url: "tags"
-    - title: "About"
-      url: "about"
-    - title: "News"
-      url: "news"
+    
