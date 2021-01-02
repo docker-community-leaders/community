@@ -6,6 +6,9 @@ permalink: /blogs/
 
 ## Blogs by Docker Captains
 
+- [How to use Docker Security Scan Locally](https://brianchristner.io/how-to-use-docker-scan/)
+- [Learn Docker in a Month: your week 4 guide](https://blog.sixeyed.com/learn-docker-in-a-month-your-week-4-guide/)
+
 
 
 
