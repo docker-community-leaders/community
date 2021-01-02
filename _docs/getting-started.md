@@ -1,8 +1,5 @@
 ---
 title: Getting Started
-tags: 
- - jekyll
- - github
 description: Getting Started
 ---
 
