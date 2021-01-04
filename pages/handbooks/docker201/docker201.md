@@ -39,7 +39,7 @@ permalink: /handbooks/docker201/
 - [A Simple Wordpress Application running on Single Node using Docker Compose](https://github.com/collabnix/dockerlabs/blob/master/intermediate/workshop/DockerCompose/single-node-wordpress.md)
 
 
-# Docker Swarm
+## Docker Swarm
 
 ### Introduction to Docker Swarm
 
