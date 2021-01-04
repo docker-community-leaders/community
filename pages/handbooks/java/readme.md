@@ -1,4 +1,10 @@
-= Docker for Java Developers
+---
+title: Docker101 HandBooks
+permalink: /handbooks/java/
+---
+
+
+## Docker for Java Developers
 
 This tutorial offers Java developers an intro-level and self-paced hands-on workshop with Docker.
 
