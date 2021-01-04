@@ -1,5 +1,5 @@
 ---
-title: Docker101 HandBooks
+title: Java HandBooks
 permalink: /handbooks/java/
 ---
 
