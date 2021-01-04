@@ -65,7 +65,6 @@ For more information about this project, visit https://docker.com/community
 - [How to contribute a blog](#contribute-a-community-blog)
 - [Docker Community Leader Handbook](#docker-community-leader-handbook)
 
-
 ## ❄ Press Materials
 
 -  [Swags](#swags)
@@ -76,10 +75,7 @@ For more information about this project, visit https://docker.com/community
 - [Docker Forums](#docker-forums)
 - [Discord](#discord)
 - [Stackoverflow](#stackoverflow)
-<br>
 
-
-<br>
 
 ## Community Groups
 
