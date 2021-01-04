@@ -19,7 +19,7 @@ Create a new directory, for example `docker-jdk9`.
 In that directory, create a new text file `jdk-9-debian-slim.Dockerfile`.
 Use the following contents:
 
-
+```
 ## A JDK 9 with Debian slim
 FROM debian:stable-slim
 ## Download from http://jdk.java.net/9/
@@ -32,7 +32,7 @@ CMD ["jshell", "-J-XX:+UnlockExperimentalVMOptions", \
                "-J-XX:+UseCGroupMemoryLimitForHeap", \
                "-R-XX:+UnlockExperimentalVMOptions", \
                "-R-XX:+UseCGroupMemoryLimitForHeap"]
-
+```
 
 This image uses `debian` slim as the base image and installs the OpenJDK build
 of JDK for linux x64 (see the link:ch01-setup.adoc[setup section] for how to download this into the
@@ -44,11 +44,13 @@ process (the frontend Java process managing user input and the backend Java
 process managing compilation).  This option will ensure container memory
 constraints are honored.
 
-Build the image using the command:
+### Build the image using the command:
 
-  docker image build -t jdk-9-debian-slim -f jdk-9-debian-slim.Dockerfile .
+```
+docker image build -t jdk-9-debian-slim -f jdk-9-debian-slim.Dockerfile .
+```
 
-List the images available using `docker image ls`:
+### List the images available using `docker image ls`:
 
 ```
 REPOSITORY              TAG                 IMAGE ID            CREATED             SIZE
@@ -61,25 +63,28 @@ now.  The large difference in size is attributed to JDK 9, which is larger
 in size than JDK 8 because it also explicitly provides Java modules that we
 shall see more of later on in this chapter.
 
-Run the container using the command:
+### Run the container using the command:
 
-  docker container run -m=200M -it --rm jdk-9-debian-slim
+```
+docker container run -m=200M -it --rm jdk-9-debian-slim
+```
 
 to see the output:
 
-[source, text]
-----
+```
 INFO: Created user preferences directory.
 |  Welcome to JShell -- Version 9
 |  For an introduction type: /help intro
 
 jshell>
-----
+```
 
-Query the available memory of the Java process by typing the following
+ Query the available memory of the Java process by typing the following
 expression into the Java REPL:
 
-  Runtime.getRuntime().maxMemory() / (1 << 20)
+```
+Runtime.getRuntime().maxMemory() / (1 << 20)
+```
 
 to see the output:
 
@@ -108,12 +113,13 @@ Type `Ctrl` + `D` to exit out of `jshell`.
 
 To list all the Java modules distributed with JDK 9 run the following command:
 
-    docker container run -m=200M -it --rm jdk-9-debian-slim java --list-modules
+```
+docker container run -m=200M -it --rm jdk-9-debian-slim java --list-modules
+```
 
 This will show an output:
 
-[source, text]
-----
+```
 java.activation@9
 java.base@9
 java.compiler@9
@@ -224,7 +230,7 @@ CMD ["jshell", "-J-XX:+UnlockExperimentalVMOptions", \
                "-J-XX:+UseCGroupMemoryLimitForHeap", \
                "-R-XX:+UnlockExperimentalVMOptions", \
                "-R-XX:+UseCGroupMemoryLimitForHeap"]
-----
+```
 
 This image uses `alpine` 3.6 as the base image and installs the OpenJDK build
 of JDK for Alpine Linux x64 (see the link:ch01-setup.adoc[Setup Environments]
@@ -238,14 +244,13 @@ Build the image using the command:
 
 List the images available using `docker image ls`:
 
-[source, text]
-----
+```
 REPOSITORY              TAG                 IMAGE ID            CREATED             SIZE
 jdk-9-debian-slim       latest              023f6999d94a        4 hours ago         400MB
 jdk-9-alpine            latest              f5a57382f240        4 hours ago         356MB
 debian                  stable-slim         d30525fb4ed2        4 days ago          55.3MB
 alpine                  3.6                 7328f6f8b418        3 months ago        3.97MB
-----
+```
 
 Notice the difference in image sizes.  Alpine Linux by design has been carefully
 crafted to produce a minimal running OS image. A cost of such a design is
