@@ -28,11 +28,11 @@ permalink: /handbooks/
  
 ### Developer Corners
 
-- [Docker workshop for Java Developers](handbooks/java/readme.adoc)
-- [Docker workshop for Python Developers](handbooks/python/readme.adoc)
-- [Docker workshop for Ruby Developers](handbooks/ruby/readme.adoc)
-- [Docker workshop for Go Developers](handbooks/go/readme.adoc)
-- [Docker workshop for NodeJS developers](handbooks/nodejs/readme.adoc)
+- [Docker workshop for Java Developers](handbooks/java/readme.md)
+- [Docker workshop for Python Developers](handbooks/python/readme.md)
+- [Docker workshop for Ruby Developers](handbooks/ruby/readme.md)
+- [Docker workshop for Go Developers](handbooks/go/readme.md)
+- [Docker workshop for NodeJS developers](handbooks/nodejs/readme.md)
  
 
 ## Events Handbooks 
