@@ -26,19 +26,13 @@ permalink: /handbooks/
  - [Kubernetes workshop for Intermediate](handbooks/k8s201/k8s201.md)
  - [Kubernetes workshop for Advance Users](handbooks/k8s301/k8s301.md)
  
-### Docker workshop for Java Developers
- 
- 
-### Docker workshop for Python Developers
- 
- 
-### Docker workshop for Ruby Developers
- 
- 
-### Docker workshop for Go Developers
- 
- 
-### Docker workshop for NodeJS developers
+### Developer Corners
+
+- [Docker workshop for Java Developers](handbooks/java/readme.adoc)
+- [Docker workshop for Python Developers](handbooks/python/readme.adoc)
+- [Docker workshop for Ruby Developers](handbooks/ruby/readme.adoc)
+- [Docker workshop for Go Developers](handbooks/go/readme.adoc)
+- [Docker workshop for NodeJS developers](handbooks/nodejs/readme.adoc)
  
 
 ## Events Handbooks 
