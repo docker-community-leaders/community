@@ -5,18 +5,14 @@ permalink: /handbooks/java/chapters/
 
 
 
-:toc:
+## Build a Docker Image with JDK 9
 
-:imagesdir: images
-
-= Build a Docker Image with JDK 9
-
-*PURPOSE*: This chapter explains how to create a Docker image with JDK 9.
+This chapter explains how to create a Docker image with JDK 9.
 
 The link:ch03-build-image.adoc[prior chapter] explained how, in general, to build a Docker image with Java.
 This chapter expands on this topic and focuses on JDK 9 features.
 
-== Create a Docker Image using JDK 9
+## Create a Docker Image using JDK 9
 
 Create a new directory, for example `docker-jdk9`.
 
