@@ -19,21 +19,20 @@ Create a new directory, for example `docker-jdk9`.
 In that directory, create a new text file `jdk-9-debian-slim.Dockerfile`.
 Use the following contents:
 
-[source, text]
-----
-# A JDK 9 with Debian slim
+
+## A JDK 9 with Debian slim
 FROM debian:stable-slim
-# Download from http://jdk.java.net/9/
-# ADD http://download.java.net/java/GA/jdk9/9/binaries/openjdk-9_linux-x64_bin.tar.gz /opt
+## Download from http://jdk.java.net/9/
+## ADD http://download.java.net/java/GA/jdk9/9/binaries/openjdk-9_linux-x64_bin.tar.gz /opt
 ADD openjdk-9_linux-x64_bin.tar.gz /opt
-# Set up env variables
+## Set up env variables
 ENV JAVA_HOME=/opt/jdk-9
 ENV PATH=$PATH:$JAVA_HOME/bin
 CMD ["jshell", "-J-XX:+UnlockExperimentalVMOptions", \
                "-J-XX:+UseCGroupMemoryLimitForHeap", \
                "-R-XX:+UnlockExperimentalVMOptions", \
                "-R-XX:+UseCGroupMemoryLimitForHeap"]
-----
+
 
 This image uses `debian` slim as the base image and installs the OpenJDK build
 of JDK for linux x64 (see the link:ch01-setup.adoc[setup section] for how to download this into the
@@ -51,12 +50,11 @@ Build the image using the command:
 
 List the images available using `docker image ls`:
 
-[source, text]
-----
+```
 REPOSITORY              TAG                 IMAGE ID            CREATED             SIZE
 jdk-9-debian-slim       latest              023f6999d94a        4 hours ago         400MB
 debian                  stable-slim         d30525fb4ed2        4 days ago          55.3MB
-----
+```
 
 Other images may be shown as well but we are interested in these two images for
 now.  The large difference in size is attributed to JDK 9, which is larger
@@ -85,11 +83,10 @@ expression into the Java REPL:
 
 to see the output:
 
-[source, text]
-----
+```
 jshell> Runtime.getRuntime().maxMemory() / (1 << 20)
 $1 ==> 100
-----
+```
 
 Notice that the Java process is honoring memory constraints (see the `--memory`
 of `docker container run`) and will not allocate memory beyond that specified for the
