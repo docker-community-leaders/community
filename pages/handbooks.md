@@ -20,25 +20,25 @@ permalink: /handbooks/
  - [Docker Desktop workshop for Advance Users](handbooks/dockerdesktop/301.md)
  
  
- #### Kubernetes Workshops
+#### Kubernetes Workshops
  
  - [Kubernetes workshop for Beginners](handbooks/k8s101/k8s101.md)
  - [Kubernetes workshop for Intermediate](handbooks/k8s201/k8s201.md)
  - [Kubernetes workshop for Advance Users](handbooks/k8s301/k8s301.md)
  
- #### Docker workshop for Java Developers
+#### Docker workshop for Java Developers
  
  
- #### Docker workshop for Python Developers
+#### Docker workshop for Python Developers
  
  
- #### Docker workshop for Ruby Developers
+#### Docker workshop for Ruby Developers
  
  
- #### Docker workshop for Go Developers
+#### Docker workshop for Go Developers
  
  
- #### Docker workshop for NodeJS developers
+#### Docker workshop for NodeJS developers
  
 
 ### Events Handbooks 
