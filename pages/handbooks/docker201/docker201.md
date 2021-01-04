@@ -3,7 +3,7 @@ title: Docker201 HandBooks
 permalink: /handbooks/docker201/
 ---
 
-# Docker 201 Intermediate Level Workshop
+# Docker workshop for Intermediate 
 
 ### Docker Compose
 
