@@ -1,6 +1,6 @@
 ---
 title: Java HandBooks
-permalink: /handbooks/java/chapters/
+permalink: /handbooks/java/chapters/chap01/
 ---
 
 
