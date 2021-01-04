@@ -8,11 +8,14 @@ permalink: /handbooks/java/
 
 This tutorial offers Java developers an intro-level and self-paced hands-on workshop with Docker.
 
-* link:chapters/ch01-setup.md[Setup Environments]
-* link:chapters/ch02-basic-concepts.md[Docker Basic Concepts]
-* Building
-** link:chapters/ch03-build-image.md[Build a Docker Image]
-** link:chapters/ch03-build-image-java-9.md[Build a Docker Image for Java 9]
+- [Setup Environments](handbooks/java/chapters/ch01-setup.md)
+- [Docker Basic Concepts](handbooks/java/chapters/ch02-basic-concepts.md)
+
+###  Building
+
+- [Build a Docker Image](handbooks/java/chapters/ch03-build-image.md)
+- [Build a Docker Image for Java 9](handbooks/java/ch03-build-image-java-9.md)
+
 * link:chapters/ch04-run-container.md[Run a Docker Container]
 * link:chapters/ch05-compose.md[Multi-container application using Docker Compose]
 * link:chapters/ch06-swarm.md[Multi-container application using Compose and Swarm Mode]
