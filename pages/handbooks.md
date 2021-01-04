@@ -3,7 +3,7 @@ title: HandBooks
 permalink: /handbooks/
 ---
 
-# List of Handbooks for Docker Community
+# List of Handbooks for Community Leaders
 
 
 ### Technical
