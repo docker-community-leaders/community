@@ -8,25 +8,25 @@ permalink: /handbooks/java/
 
 This tutorial offers Java developers an intro-level and self-paced hands-on workshop with Docker.
 
-* link:chapters/ch01-setup.adoc[Setup Environments]
-* link:chapters/ch02-basic-concepts.adoc[Docker Basic Concepts]
+* link:chapters/ch01-setup.md[Setup Environments]
+* link:chapters/ch02-basic-concepts.md[Docker Basic Concepts]
 * Building
-** link:chapters/ch03-build-image.adoc[Build a Docker Image]
-** link:chapters/ch03-build-image-java-9.adoc[Build a Docker Image for Java 9]
-* link:chapters/ch04-run-container.adoc[Run a Docker Container]
-* link:chapters/ch05-compose.adoc[Multi-container application using Docker Compose]
-* link:chapters/ch06-swarm.adoc[Multi-container application using Compose and Swarm Mode]
+** link:chapters/ch03-build-image.md[Build a Docker Image]
+** link:chapters/ch03-build-image-java-9.md[Build a Docker Image for Java 9]
+* link:chapters/ch04-run-container.md[Run a Docker Container]
+* link:chapters/ch05-compose.md[Multi-container application using Docker Compose]
+* link:chapters/ch06-swarm.md[Multi-container application using Compose and Swarm Mode]
 * Java IDEs
-** link:chapters/ch07-netbeans.adoc[Docker Tooling in NetBeans]
-** link:chapters/ch07-intellij.adoc[Docker Tooling in IntelliJ IDEA]
-** link:chapters/ch07-eclipse.adoc[Docker Tooling in Eclipse]
+** link:chapters/ch07-netbeans.md[Docker Tooling in NetBeans]
+** link:chapters/ch07-intellij.md[Docker Tooling in IntelliJ IDEA]
+** link:chapters/ch07-eclipse.md[Docker Tooling in Eclipse]
 * Multi-container application on multi-host
-** link:chapters/ch08-aws.adoc[Docker for AWS]
-** link:chapters/ch08-azure.adoc[Docker for Azure] (coming)
-** link:chapters/ch08-cloud.adoc[Docker Cloud]
+** link:chapters/ch08-aws.md[Docker for AWS]
+** link:chapters/ch08-azure.md[Docker for Azure] (coming)
+** link:chapters/ch08-cloud.md[Docker Cloud]
 * link:chapters/ch09-cicd.adoc[CI/CD using Docker]
-* link:chapters/ch10-monitoring.adoc[Monitoring Docker Containers with Prometheus and Grafana]
-* link:chapters/ch11-bigdata.adoc[Big Data Processing with Docker and Hadoop]
-* link:chapters/appa-common-commands.adoc[Common Docker Commands]
-* link:chapters/appb-troubleshooting.adoc[Troubleshooting]
-* link:chapters/appc-references.adoc[References]
+* link:chapters/ch10-monitoring.md[Monitoring Docker Containers with Prometheus and Grafana]
+* link:chapters/ch11-bigdata.md[Big Data Processing with Docker and Hadoop]
+* link:chapters/appa-common-commands.md[Common Docker Commands]
+* link:chapters/appb-troubleshooting.md[Troubleshooting]
+* link:chapters/appc-references.md[References]
