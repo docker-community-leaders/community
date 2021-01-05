@@ -114,12 +114,14 @@ This is a public forum for users to discuss questions and explore current design
 
 
 
-### Swags
+### Press Materials
+
+#### Swags
 
 - tbd - 
 
 
-### Logs
+#### Logos
 
 - tbd -
 
