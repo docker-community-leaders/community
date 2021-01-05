@@ -23,7 +23,7 @@ For more information about this project, visit https://docker.com/community
 -  ☎  [Communications](#communications)
 -  📆 [Community Events](#community-events)
 -  💬 [Community Engagements](#community-engagements)
--  📚 [Community Resources](#education-resources)
+-  📚 [Community Resources](#community-resources)
 
 
 
@@ -105,8 +105,13 @@ This is a public forum for users to discuss questions and explore current design
 
 ### Swags
 
+- tbd - 
+
 
 ### Logs
+
+- tbd -
+
 
 ### [Play with Docker Classroom](http://training.play-with-docker.com/)
 
