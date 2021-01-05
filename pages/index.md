@@ -22,60 +22,9 @@ For more information about this project, visit https://docker.com/community
 -  👪 [Community Groups](#community-groups)
 -  ☎  [Communications](#communications)
 -  📆 [Community Events](#community-events)
--  📒 [Community Handbooks](#community-handbooks)
 -  💬 [Community Engagements](#community-engagements)
 -  📚 [Community Resources](#education-resources)
-<br>
 
-
-
-<br>
-
-## 👪 Community Groups
-
- - [Docker Captains](#docker-captains)
- - [Docker Community Leaders](#docker-community-leaders)
- 
- 
-## ☎ Communications
-
-- [Join Docker Community Slack](#how-to-join-docker-community-slack)
-- [Contribute a blog](#contribute-a-community-blog)
-- [Social Media](#social-media)
-- [Community Meeting Recordings](#community-meetings)
-
-
-## 📆 Community Events
-
-- [Office Hours](#office-hours)
-- [Meetups](#meetups)
-- [Webinars](#webinars)
-- [Live Shows](#live-shows)
-- [Roadshows](#roadshows)
-- [Podcasts](#podcasts)
-
-## 📒 Community Handbooks
-
-- [Docker Meetup FAQs](#docker-meetup-faqs)
-- [Docker Meetup Guides](#docker-meetup-guides)
-- [Speaker Guidelines](#speaker-guidelines)
-- [Sponsor Guidelines](#sponsorship-guidelines)
-- [How to sponsor an event](#sponsor-an-event/)
-- [How to contribute a blog](#contribute-a-community-blog)
-- [Docker Community Leader Handbook](#docker-community-leader-handbook)
-
-
-## 💬 Community Engagements
-
-- [Docker Forums](#docker-forums)
-- [Discord](#discord)
-- [Stackoverflow](#stackoverflow)
-
-
-##  Community Resources
-
--  [Swags](#swags)
--  [Logos](#logos)
 
 
 ## Community Groups
@@ -137,6 +86,7 @@ Check out our [YouTube page](https://www.youtube.com/user/dockerrun) for videos 
 #### Live Shows
 #### Roadshows
 #### Podcasts
+
 
 
 
