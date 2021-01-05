@@ -160,7 +160,7 @@ If you want to contribute a lab, check out this [GitHub repo](https://github.com
 
 ## Contributors
 
-| [<img src="https://avatars1.githubusercontent.com/u/313480?s=400&v=4" width="48px;" alt="Ajeet Singh Raina"/><br /><sub><b> Ajeet Singh Raina</b></sub>](https://github.com/ajeetraina)<br /> |  [<img src="https://avatars1.githubusercontent.com/u/70955865?s=400&u=8d70a62714c42a9c4c8038788c03a7ac7e809ed5&v=4" width="48px;" alt="William Quiviger"/><br /><sub><b> William Quiviger</b></sub>](https://github.com/williamquiviger)<br /> |[<img src="https://avatars2.githubusercontent.com/u/21982562?s=460&u=92cb973fcb6584f20126f7f83f000f455b91b20d&v=4" width="48px;" alt="Sangam Birdar"/><br /><sub><b> Sangam Biradar</b></sub>](https://github.com/sangam14)<br /> |
+| [<img src="https://avatars1.githubusercontent.com/u/313480?s=400&v=4" width="48px;" alt="Ajeet Singh Raina"/><br /><sub><b> Ajeet Singh Raina</b></sub>](https://github.com/ajeetraina)<br /> |  [<img src="https://avatars1.githubusercontent.com/u/70955865?s=400&u=8d70a62714c42a9c4c8038788c03a7ac7e809ed5&v=4" width="48px;" alt="William Quiviger"/><br /><sub><b> William Quiviger</b></sub>](https://github.com/williamquiviger)<br /> |[<img src="https://avatars2.githubusercontent.com/u/21982562?s=460&u=92cb973fcb6584f20126f7f83f000f455b91b20d&v=4" width="48px;" alt="Sangam Birdar"/><br /><sub><b> Sangam Biradar</b></sub>](https://github.com/sangam14)<br /> |[<img src="https://avatars3.githubusercontent.com/u/28539256?s=460&u=2ca1dfaeee956cd3ea13409e86d4ffe417e9949d&v=4" width="48px;" alt="Gaurav Gahlot"/><br /><sub><b> Gaurav Gahlot</b></sub>](https://github.com/gauravgahlot)<br /> |
 
 
 
