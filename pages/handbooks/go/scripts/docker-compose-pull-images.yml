@@ -1,0 +1,7 @@
+version: '3'
+services:
+  alpine:
+    image: alpine:3.11
+  golang:
+    image: golang:1.15-alpine
+  
