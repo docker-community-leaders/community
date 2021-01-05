@@ -13,7 +13,7 @@ Docker lets you quickly assemble applications from components and eliminates the
 Docker lets you test and deploy your code into production as fast as possible.
 Docker simplifies software delivery by making it easy to build and share images that contain your application’s entire environment, or _application operating system_.
 
-## What does it mean by an application operating system ?**
+### What does it mean by an application operating system ?
 
 Your application typically requires specific versions for your operating system, application server, runtime, and database server, may require to tune the configuration files, and similarly multiple other dependencies.
 The application may need binding to specific ports and certain amount of memory.
@@ -23,7 +23,7 @@ You can certainly provide an installation script that will download and install 
 Docker simplifies this process by allowing to create an image that contains your application and infrastructure together, managed as one component.
 These images are then used to create Docker containers which run on the container virtualization platform, provided by Docker.
 
-## Main Components
+### Main Components
 
 Docker has three main components:
 
@@ -44,7 +44,7 @@ The Engine then downloads the image from Docker Store, or whichever registry is 
 Multiple images can be downloaded from the registry and installed on the Engine.
 Client uses the `run` run the container.
 
-##  Docker Image
+### Docker Image
 
 We've already seen that Docker images are read-only templates from which Docker containers are launched.
 Each image consists of a series of layers.
@@ -54,6 +54,7 @@ One of the reasons Docker is so lightweight is because of these layers.
 When you change a Docker image—for example, update an application to a new version— a new layer gets built.
 Thus, rather than replacing the whole image or entirely rebuilding, as you may do with a virtual machine, only that layer is added or updated.
 Now you don't need to distribute a whole new image, just the update, making distributing Docker images faster and simpler.
+
 Every image starts from a base image, for example `ubuntu`, a base Ubuntu image, or `fedora`, a base Fedora image.
 You can also use images of your own as the basis for a new image, for example if you have a base Apache image you could use this as the base of all your web application images.
 
@@ -70,7 +71,7 @@ Each instruction creates a new layer in our image. Instructions include actions 
 These instructions are stored in a file called a Dockerfile.
 Docker reads this Dockerfile when you request a build of an image, executes the instructions, and returns a final image.
 
-## Docker Container
+### Docker Container
 
 A container consists of an operating system, user-added files, and meta-data.
 As we've seen, each container is built from an image.
@@ -78,13 +79,13 @@ That image tells Docker what the container holds, what process to run when the c
 The Docker image is read-only.
 When Docker runs a container from an image, it adds a read-write layer on top of the image (using a union file system as we saw earlier) in which your application can then run.
 
-## Docker Engine
+### Docker Engine
 
 Docker Host is created as part of installing Docker on your machine.
 Once your Docker host has been created, it then allows you to manage images and containers.
 For example, the image can be downloaded and containers can be started, stopped and restarted.
 
-## Docker Client
+### Docker Client
 
 The client communicates with the Docker Host and let's you work with images and containers.
 
