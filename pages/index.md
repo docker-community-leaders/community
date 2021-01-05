@@ -23,9 +23,8 @@ For more information about this project, visit https://docker.com/community
 -  ☎  [Communications](#communications)
 -  📆 [Community Events](#community-events)
 -  📒 [Community Handbooks](#community-handbooks)
--  ❄  [Press Materials](#press-materials)
 -  💬 [Community Engagements](#community-engagements)
--  📚 [Education Resources](#education-resources)
+-  📚 [Community Resources](#education-resources)
 <br>
 
 
@@ -65,16 +64,18 @@ For more information about this project, visit https://docker.com/community
 - [How to contribute a blog](#contribute-a-community-blog)
 - [Docker Community Leader Handbook](#docker-community-leader-handbook)
 
-## ❄ Press Materials
-
--  [Swags](#swags)
--  [Logos](#logos)
 
 ## 💬 Community Engagements
 
 - [Docker Forums](#docker-forums)
 - [Discord](#discord)
 - [Stackoverflow](#stackoverflow)
+
+
+##  Community Resources
+
+-  [Swags](#swags)
+-  [Logos](#logos)
 
 
 ## Community Groups
@@ -149,8 +150,13 @@ This is a public forum for users to discuss questions and explore current design
 
 
 
-## Education Resources
+## Community Resources
 
+
+### Swags
+
+
+### Logs
 
 ### [Play with Docker Classroom](http://training.play-with-docker.com/)
 
