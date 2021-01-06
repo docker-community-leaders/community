@@ -17,17 +17,17 @@ This workshop is designed for a BYOL (Bring Your Own Laptop) style hands-on-lab.
 _NOTE_: An older version of the operating system may be used.
 The installation instructions would differ slightly in that case and are explained in the next section.
 
-Amazon Web Services credentials with the https://docs.docker.com/docker-for-aws/iam-permissions/[following permissions].
+Amazon Web Services credentials with the [following permissions](https://docs.docker.com/docker-for-aws/iam-permissions/).
 This is only needed for some parts of the workshop.
 
 ### Install Docker
 
 Docker runs natively on Mac, Windows and Linux.
-This lab will use https://www.docker.com/community-edition[Docker Community Edition (CE)].
-Download the Docker CE edition for your machine from the https://store.docker.com/search?type=edition&offering=community[Docker Store]. 
+This lab will use [Docker Community Edition (CE)](https://www.docker.com/community-edition).
+Download the Docker CE edition for your machine from the [Docker Store](https://store.docker.com/search?type=edition&offering=community).
 
 _NOTE_: Docker CE requires a fairly recent operating system version.
-If your machine does not meet the requirements, then you need to install https://www.docker.com/products/docker-toolbox[Docker Toolbox]. 
+If your machine does not meet the requirements, then you need to install [Docker Toolbox](https://www.docker.com/products/docker-toolbox).
 
 This workshop is tested with Docker Community Edition `17.09.0-ce-rc2, build 363a3e7` on Mac OS X `10.12.5`.
 
@@ -36,9 +36,10 @@ This workshop is tested with Docker Community Edition `17.09.0-ce-rc2, build 363
 This tutorial uses a few Docker images and software.
 Let's download them before we start the tutorial.
 
-Download the file from https://raw.githubusercontent.com/docker/labs/master/developer-tools/java/scripts/docker-compose-pull-images.yml and use the following command to pull the required images:
+Download the file from [docker-compose-pull-images.yml](https://raw.githubusercontent.com/docker/labs/master/developer-tools/java/scripts/docker-compose-pull-images.yml) and use the following command to pull the required images:
 
 ```
+curl -O https://raw.githubusercontent.com/docker/labs/master/developer-tools/java/scripts/docker-compose-pull-images.yml
 docker-compose -f docker-compose-pull-images.yml pull --parallel
 ```
 
@@ -50,13 +51,12 @@ So prefix all commands with `sudo`.
 The software in this section is specific to certain parts of the workshop.
 Install them only if you plan to attempt them.
 
-- Install https://git-scm.com//[git].
-- Install Docker Cloud CLI following the https://docs.docker.com/docker-cloud/installing-cli/[instructions].
-- Download Java IDE based upon your choice and install.
-   -  https://netbeans.org/downloads/[NetBeans 8.2] (`"Java SE"` version)
-   - https://www.jetbrains.com/idea/download/[IntelliJ IDEA Community or Ultimate]
-   - http://www.eclipse.org/downloads/eclipse-packages/[Eclipse IDE for Java EE Developers]
-- Download https://maven.apache.org/download.cgi[Maven] and install.
-- Download the OpenJDK build of http://download.java.net/java/GA/jdk9/9/binaries/openjdk-9_linux-x64_bin.tar.gz[JDK 9 for Linux x64].
-  (See also the http://jdk.java.net/9/[OpenJDK JDK 9 download page].)
-- Download the early-access Open JDK build of http://jdk.java.net/9/ea[JDK 9 for Alpine Linux].
+- Install [git](https://git-scm.com/)
+- Install Docker Cloud CLI following the [instructions](https://docs.docker.com/docker-cloud/installing-cli/)
+- Download and install Java IDE of your choice:
+   - [NetBeans 8.2 `Java SE` version](https://netbeans.org/downloads/)
+   - [IntelliJ IDEA Community or Ultimate](https://www.jetbrains.com/idea/download/)
+   - [Eclipse IDE for Java EE Developers](https://www.eclipse.org/downloads/eclipse-packages/)
+- Download and install [Maven] (https://maven.apache.org/download.cgi)
+- Download the OpenJDK build of [JDK 9 for Linux x64](https://download.java.net/java/GA/jdk9/9/binaries/openjdk-9_linux-x64_bin.tar.gz)
+- Download the early-access Open JDK build of [JDK 9 for Alpine Linux](https://jdk.java.net/9/)
