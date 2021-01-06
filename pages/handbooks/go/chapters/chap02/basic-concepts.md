@@ -50,18 +50,19 @@ We've already seen that Docker images are read-only templates from which Docker 
 Each image consists of a series of layers.
 Docker makes use of union file systems to combine these layers into a single image.
 Union file systems allow files and directories of separate file systems, known as branches, to be transparently overlaid, forming a single coherent file system.
+
 One of the reasons Docker is so lightweight is because of these layers.
 When you change a Docker image—for example, update an application to a new version— a new layer gets built.
 Thus, rather than replacing the whole image or entirely rebuilding, as you may do with a virtual machine, only that layer is added or updated.
 Now you don't need to distribute a whole new image, just the update, making distributing Docker images faster and simpler.
-
 Every image starts from a base image, for example `ubuntu`, a base Ubuntu image, or `fedora`, a base Fedora image.
 You can also use images of your own as the basis for a new image, for example if you have a base Apache image you could use this as the base of all your web application images.
 
 _NOTE_: By default, Docker obtains these base images from Docker Store.
 
 Docker images are then built from these base images using a simple, descriptive set of steps we call instructions.
-Each instruction creates a new layer in our image. Instructions include actions like:
+Each instruction creates a new layer in our image.
+Instructions include actions like:
 
 - Run a command
 - Add a file or directory
@@ -103,7 +104,8 @@ Docker version 19.03.13, build 4484c46d9d
 
 _NOTE_: The exact version may differ based upon how recently the installation was performed.
 
-The exact version of Client and Server can be seen using `docker version` command. This shows the output as:
+The exact version of Client and Server can be seen using `docker version` command.
+This shows the output as:
 
 ```
 Client: Docker Engine - Community
@@ -136,4 +138,3 @@ Server: Docker Engine - Community
 ```
 
 The complete set of commands can be seen using `docker --help`.
-
