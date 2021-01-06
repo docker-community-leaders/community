@@ -1,4 +1,4 @@
 ---
-title: Feedly
+title: feedly
 permalink: /CLtweets/
 ---
