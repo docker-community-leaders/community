@@ -80,14 +80,28 @@ Check out our [YouTube page](https://www.youtube.com/user/dockerrun) for videos 
 ## Community Events
 
 #### Office Hours
-#### Office Hours
+
+- Coming Soon
+
 #### Meetups
+
+- [Docker Events](https://events.docker.com)
+
 #### Webinars
+
+- Coming Soon
+
 #### Live Shows
+
+- Coming Soon
+
 #### Roadshows
+
+- Coming Soon
+
 #### Podcasts
 
-
+- Coming Soon
 
 
 ## Community Engagements
