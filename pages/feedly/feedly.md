@@ -3,5 +3,5 @@ title: Feedly
 permalink: /feedly/
 ---
 
-<a class="twitter-timeline" href="https://twitter.com/dockercommunity?ref_src=twsrc%5Etfw">Tweets by dockercommunity</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/dockercommunity/lists/docker-community-leaders-16220?ref_src=twsrc%5Etfw">A Twitter List by dockercommunity</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
