@@ -11,3 +11,7 @@ This tutorial offers Go developers an intro-level and self-paced hands-on worksh
 - [Setup Environments](chapters/chap01/setup.md)
 - [Docker Basic Concepts](chapters/chap02/basic-concepts.md)
 
+### Building
+
+- [Build a Docker Image](chapters/chap03/build-image.md)
+
