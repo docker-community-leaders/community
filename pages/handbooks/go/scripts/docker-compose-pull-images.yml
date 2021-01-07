@@ -2,6 +2,10 @@ version: '3'
 services:
   alpine:
     image: alpine:3.11
+  busybox:
+    image: busybox
   golang:
     image: golang:1.15-alpine
+  ubuntu:
+    image: ubuntu
   
