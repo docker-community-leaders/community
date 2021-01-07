@@ -1,5 +1,5 @@
 ---
-title: Feedly
+title: Tweets
 permalink: /feedly/
 ---
 
