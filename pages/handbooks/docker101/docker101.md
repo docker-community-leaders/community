@@ -15,9 +15,9 @@ permalink: /handbooks/docker101/
 
 
 - [Running Hello World Example](/helloworld/README.md) 
-- [Working with Docker Image](/beginners/workingwithdockerimage.html)
+- [Working with Docker Image](/beginners/workingwithdockerimage.md)
 - [Saving Images and Containers as Tar Files for Sharing](/beginners/saving-images-as-tar/)
-- [Building Your First Alpine Docker Image and Push it to DockerHub](/beginners/building-your-first-alpine-container.html)
+- [Building Your First Alpine Docker Image and Push it to DockerHub](/beginners/building-your-first-alpine-container)
 
 
 
