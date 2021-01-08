@@ -9,7 +9,7 @@ permalink: /handbooks/docker101/
 
 ### Pre-requisite:
 
-- [Creating Your DockerHub Account]dockerhub/dockerhub.md)
+- [Creating Your DockerHub Account](dockerhub/dockerhub.md)
 
 ### Getting Started with Docker Image
 
