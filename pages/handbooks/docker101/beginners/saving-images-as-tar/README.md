@@ -1,3 +1,10 @@
+---
+title: Saving Images as tar
+permalink: /handbooks/docker101/beginners/saving-images-as-tar/
+---
+
+
+
 # Saving Images and Containers as Tar Files for Sharing
 
 Imagine a scenario where you have built Docker images and containers that you would be interested to keep and share it with your other collaborators or colleagues. The below methods shall help you achieve it.
