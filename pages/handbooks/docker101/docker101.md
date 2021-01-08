@@ -23,9 +23,9 @@ permalink: /handbooks/docker101/
 
 ## Accessing & Managing Docker Container
 
-- [Accessing the Container Shell](/beginners/accessing-the-container.html)<br>
-- [Running a Command inside running Container](/beginners/running-command-inside-running-container.html)<br>
-- [Managing Docker Containers](/beginners/managing-containers.html)<br>
+- [Accessing the Container Shell](/beginners/accessing-the-container/README.md)<br>
+- [Running a Command inside running Container](/beginners/running-command-inside-running-container/README.md)<br>
+- [Managing Docker Containers](/beginners/managing-containers/README.md)<br>
 
 
 ## Getting Started with Dockerfile
