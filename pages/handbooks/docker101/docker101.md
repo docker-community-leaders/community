@@ -9,14 +9,14 @@ permalink: /handbooks/docker101/
 
 ### Pre-requisite:
 
-- [Creating Your DockerHub Account](https://github.com/collabnix/dockerlabs/blob/master/workshop/docker/dockerhub.md)
+- [Creating Your DockerHub Account](docker101/dockerhub/dockerhub.md)
 
 ### Getting Started with Docker Image
 
 
 - [Running Hello World Example](docker101/helloworld/README.md) 
   - [Slides](http://dockerlabs.collabnix.com/presentation/docker_workshop_1.html#/)
-- [Working with Docker Image](https://collabnix.github.io/dockerlabs/beginners/workingwithdockerimage.html)
+- [Working with Docker Image](docker101/beginners/workingwithdockerimage.html)
 
 
 
