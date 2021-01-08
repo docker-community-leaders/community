@@ -14,7 +14,7 @@ permalink: /handbooks/docker101/
 ### Getting Started with Docker Image
 
 
-- [Running Hello World Example](https://collabnix.github.io/dockerlabs/beginners/helloworld/) 
+- [Running Hello World Example](https://docker-community-leaders/alphasite/handbooks/docker101/helloworld/) 
   - [Slides](http://dockerlabs.collabnix.com/presentation/docker_workshop_1.html#/)
 - [Working with Docker Image](https://collabnix.github.io/dockerlabs/beginners/workingwithdockerimage.html)
 
