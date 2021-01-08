@@ -181,4 +181,4 @@ $ docker inspect 4ab
 [Ajeet Singh Raina](ajeetraina@gmail.com)
 
 
-[Next: Working with Docker Images](https://collabnix.github.io/dockerlabs/beginners/workingwithdockerimage.html)
+[Next: Working with Docker Images](/beginners/workingwithdockerimage/workingwithdockerimage.md)
