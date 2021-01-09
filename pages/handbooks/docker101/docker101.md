@@ -5,6 +5,12 @@ permalink: /handbooks/docker101/
 
 # Docker 101 Beginners Level Workshop
 
+### Housekeeping 
+
+- [Setting up Event Registration Page]()
+- [Sending Confirmation Email for workshop]()
+- [Checklists Preparation for Docker Workshop]()
+
 
 
 ### Pre-requisite:
