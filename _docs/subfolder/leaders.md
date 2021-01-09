@@ -3,13 +3,10 @@ title: Docker Community Leaders
 description: List of Docker Community Leaders
 ---
 
-# List of Docker Community Leaders
+# Follow Community Leaders Tweets
 
-This is an example of a page that doesn't have a permalink defined, and
+ This is an example of a page that doesn't have a permalink defined, and
 is not included in the table of contents (`_data/toc.yml`).
-
-
-
 
 
 
