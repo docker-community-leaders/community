@@ -29,9 +29,9 @@ baseurl: "/alphasite" # the subpath of your site, e.g. /blog
 url: "https://docker-community-leaders.github.io" # the base hostname & protocol for your site
 
 # Social (First three Required)
-repo: "https://github.com/docker-community-leaders/alphasite"
+repo: "https://github.com/docker-community-leaders/community"
 github_user: "docker-community-leaders"
-github_repo: "alphasite"
+github_repo: "community"
 
 # Optional
 twitter: docker
