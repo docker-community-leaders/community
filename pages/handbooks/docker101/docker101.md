@@ -5,7 +5,7 @@ permalink: /handbooks/docker101/
 
 # Docker 101 Beginners Level Workshop
 
-### Before the workshop
+## Before the workshop
 
 - [Plan an event agenda](/housekeeping/plan-an-event-agenda/README.md)
 - [Set up Event Registration Page](/housekeeping/event/README.md)
@@ -16,7 +16,7 @@ permalink: /handbooks/docker101/
 
 
 
-### Pre-requisite:
+## Pre-requisite:
 
 - [Creating Your DockerHub Account](dockerhub/dockerhub.md) - 10 min
 
@@ -30,14 +30,14 @@ permalink: /handbooks/docker101/
 
 
 
-## Accessing & Managing Docker Container - 1 hour
+###  Accessing & Managing Docker Container - 1 hour
 
 - [Accessing the Container Shell](/beginners/accessing-the-container/README.md)<br>
 - [Running a Command inside running Container](/beginners/running-command-inside-running-container/README.md)<br>
 - [Managing Docker Containers](/beginners/managing-containers/README.md)<br>
 
 
-## Getting Started with Dockerfile - 3 hours
+### Getting Started with Dockerfile - 3 hours
 
 - [What is Dockerfile](/beginners/dockerfile/Writing-dockerfile.html#what-is-a-dockerfile)<br>
 - [Understanding Layering Concept with Dockerfile](/beginners/dockerfile/Layering-Dockerfile.html)
@@ -62,7 +62,7 @@ permalink: /handbooks/docker101/
 - [Writing Dockerfile with Hello Python Script Added](https://dockerlabs.collabnix.com/beginners/dockerfile/lab_dockerfile_python.html)<br>
 
 
-## Creating Private Docker Registry - 30 min
+### Creating Private Docker Registry - 30 min
 
 - [Building a Private Docker Registry](https://dockerlabs.collabnix.com/beginners/build-private-docker-registry.html)
 - [Building a Private Docker Registry with UI](https://dockerlabs.collabnix.com/beginners/portus/)
@@ -73,7 +73,7 @@ permalink: /handbooks/docker101/
 - [Managing volumes through Docker CLI](https://collabnix.github.io/dockerlabs/beginners/volume/managing-volumes-via-docker-cli.html)<br>
 - [Creating Volume Mount from **docker run** command & sharing same Volume Mounts among multiple containers](https://collabnix.github.io/dockerlabs/beginners/volume/creating-volume-mount-from-dockercli.html)<br>
 
-## Docker Networking - 1 hour
+### Docker Networking - 1 hour
 
  - [The docker network Command](http://dockerlabs.collabnix.com/beginners/using-docker-network.html)<br>
  - [Lab #1: Listing the Networks](http://dockerlabs.collabnix.com/networking/A1-network-basics.html#step-2-list-networks)
