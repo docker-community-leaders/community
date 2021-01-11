@@ -11,6 +11,8 @@ permalink: /handbooks/docker101/
 - [Set up Event Registration Page]()
 - [Sending Confirmation Email for workshop]()
 - [Prepare Checklists for Docker Workshop]()
+- [Community Leader Survey]()
+- [Attendee Survey]()
 
 
 
