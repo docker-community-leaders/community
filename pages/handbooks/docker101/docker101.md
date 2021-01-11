@@ -18,26 +18,26 @@ permalink: /handbooks/docker101/
 
 ### Pre-requisite:
 
-- [Creating Your DockerHub Account](dockerhub/dockerhub.md)
+- [Creating Your DockerHub Account](dockerhub/dockerhub.md) - 10 min
 
-### Getting Started with Docker Image
+### Getting Started with Docker Image - 1 hour
 
 
-- [Running Hello World Example](/helloworld/README.md) 
-- [Working with Docker Image](/beginners/workingwithdockerimage/workingwithdockerimage.md)
+- [Running Hello World Example](/helloworld/README.md)  
+- [Working with Docker Image](/beginners/workingwithdockerimage/workingwithdockerimage.md) 
 - [Saving Images and Containers as Tar Files for Sharing](/beginners/saving-images-as-tar/README.md)
 - [Building Your First Alpine Docker Image and Push it to DockerHub](/building/building-your-first-alpine-container.md)
 
 
 
-## Accessing & Managing Docker Container
+## Accessing & Managing Docker Container - 1 hour
 
 - [Accessing the Container Shell](/beginners/accessing-the-container/README.md)<br>
 - [Running a Command inside running Container](/beginners/running-command-inside-running-container/README.md)<br>
 - [Managing Docker Containers](/beginners/managing-containers/README.md)<br>
 
 
-## Getting Started with Dockerfile
+## Getting Started with Dockerfile - 3 hours
 
 - [What is Dockerfile](/beginners/dockerfile/Writing-dockerfile.html#what-is-a-dockerfile)<br>
 - [Understanding Layering Concept with Dockerfile](/beginners/dockerfile/Layering-Dockerfile.html)
@@ -62,18 +62,18 @@ permalink: /handbooks/docker101/
 - [Writing Dockerfile with Hello Python Script Added](https://dockerlabs.collabnix.com/beginners/dockerfile/lab_dockerfile_python.html)<br>
 
 
-## Creating Private Docker Registry
+## Creating Private Docker Registry - 30 min
 
 - [Building a Private Docker Registry](https://dockerlabs.collabnix.com/beginners/build-private-docker-registry.html)
 - [Building a Private Docker Registry with UI](https://dockerlabs.collabnix.com/beginners/portus/)
 
 
-### Docker Volumes
+### Docker Volumes - 30 min
 
 - [Managing volumes through Docker CLI](https://collabnix.github.io/dockerlabs/beginners/volume/managing-volumes-via-docker-cli.html)<br>
 - [Creating Volume Mount from **docker run** command & sharing same Volume Mounts among multiple containers](https://collabnix.github.io/dockerlabs/beginners/volume/creating-volume-mount-from-dockercli.html)<br>
 
-## Docker Networking
+## Docker Networking - 1 hour
 
  - [The docker network Command](http://dockerlabs.collabnix.com/beginners/using-docker-network.html)<br>
  - [Lab #1: Listing the Networks](http://dockerlabs.collabnix.com/networking/A1-network-basics.html#step-2-list-networks)
