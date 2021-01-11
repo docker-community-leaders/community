@@ -7,7 +7,7 @@ permalink: /handbooks/docker101/
 
 ### Before the workshop
 
-- [Plan an event agenda]()
+- [Plan an event agenda](/housekeeping/plan-an-event-agenda/README.md)
 - [Set up Event Registration Page]()
 - [Sending Confirmation Email for workshop]()
 - [Prepare Checklists for Docker Workshop]()
