@@ -8,11 +8,11 @@ permalink: /handbooks/docker101/
 ### Before the workshop
 
 - [Plan an event agenda](/housekeeping/plan-an-event-agenda/README.md)
-- [Set up Event Registration Page]()
-- [Sending Confirmation Email for workshop]()
-- [Prepare Checklists for Docker Workshop]()
-- [Community Leader Survey]()
-- [Attendee Survey]()
+- [Set up Event Registration Page](/housekeeping/event/README.md)
+- [Sending Confirmation Email for workshop](/housekeeping/email/README.md)
+- [Prepare Checklists for Docker Workshop](/housekeeping/checklist/README.md)
+- [Community Leader Survey](/housekeeping/clsurvey/README.md)
+- [Attendee Survey](/housekeeping/attendeesurvey/README.md)
 
 
 
