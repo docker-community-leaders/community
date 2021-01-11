@@ -3,7 +3,16 @@ title: Docker101 HandBooks
 permalink: /handbooks/docker101/
 ---
 
-# Docker 101 Beginners Level Workshop
+## About this Handbook
+
+This is a community leader handbook to run Docker 101 workshop. This will cover every aspect of conducting workshop starting from setting up an event page till the completion of the successful workshop. 
+
+### Key Characteristics of this handbook
+
+- Audience - 5 to 100
+- Technical Skills Required - Basic knowledge of Linux, Basic concepts of Docker
+- Length - 8 hours
+
 
 ## Before the workshop
 
@@ -13,6 +22,7 @@ permalink: /handbooks/docker101/
 - [Prepare Checklists for Docker Workshop](/housekeeping/checklist/README.md)
 - [Community Leader Survey](/housekeeping/clsurvey/README.md)
 - [Attendee Survey](/housekeeping/attendeesurvey/README.md)
+
 
 ## Recommended Agenda
 
