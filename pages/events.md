@@ -1,4 +1,5 @@
 
+
 ### First tabs
 
 {% tabs log %}
@@ -44,7 +45,3 @@ hello:
 {% endtab %}
 
 {% endtabs %}
-
-
- 
-
