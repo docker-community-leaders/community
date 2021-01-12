@@ -15,3 +15,28 @@ permalink: /blogs/
 ## Blogs by Docker Community Leaders
 
 - [Introducing Hub-tool - A New Hub CLI under Docker Desktop 3.0.0](https://dev.to/docker/5-minutes-to-docker-hub-tool-12o) - Ajeet Singh Raina
+
+
+
+
+{% codetabs %}
+
+{% codetab C %}
+```c
+printf("Hello, world!");
+```
+{% endcodetab %}
+
+{% codetab Go %}
+```go
+fmt.Println("Hello, world!")
+```
+{% endcodetab %}
+
+{% codetab Python %}
+```python
+print("Hello, world!")
+```
+{% endcodetab %}
+
+{% endcodetabs %}
