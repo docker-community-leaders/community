@@ -16,7 +16,7 @@ This is a community leader handbook to run Docker 101 workshop. This will cover 
 
 ## Where/When/Who?
 
-- [Identify an event venue](/housekeeping/identify-an-event-venue/README.md)
+- [Identify an event venue](/housekeeping/venue/README.md)
 - [Plan an event agenda](/housekeeping/plan-an-event-agenda/README.md)
 - [Set up Event Registration Page](/housekeeping/event/README.md)
 - [Sending Confirmation Email for workshop](/housekeeping/email/README.md)
