@@ -3,7 +3,7 @@ title: Docker101 HandBooks
 permalink: /handbooks/docker101/
 ---
 
-## About this Handbook
+## What is this handbook all about?
 
 This is a community leader handbook to run Docker 101 workshop. This will cover every aspect of conducting workshop starting from setting up an event page till the completion of the successful workshop. 
 
@@ -14,8 +14,9 @@ This is a community leader handbook to run Docker 101 workshop. This will cover 
 - Length - 8 hours
 
 
-## Before the workshop
+## Where/When/Who?
 
+- [Identify an event venue](/housekeeping/identify-an-event-venue/README.md)
 - [Plan an event agenda](/housekeeping/plan-an-event-agenda/README.md)
 - [Set up Event Registration Page](/housekeeping/event/README.md)
 - [Sending Confirmation Email for workshop](/housekeeping/email/README.md)
