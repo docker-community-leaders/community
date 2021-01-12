@@ -3,30 +3,28 @@ title: Docker101 HandBooks
 permalink: /handbooks/docker101/housekeeping/venue/
 ---
 
-# What to Consider When Searching for a Venue
+# Things to consider when searching for a venue
 
-Choosing a venue for a workshop is the one decision that will have the largest impact on your event. The date of the event, catering options, and attendees’ pleasant experiences … all are partly affected by which venue you select.
-
-For a successful workshop, here are few important considerations, community leaders should consider when searching for a venue:
+Choosing a venue for a workshop has the largest impact on your event. Hence, it is essential to plan and decide on the dates, place and amenities for a successful workshop. Here are few important considerations, community leaders should consider when searching for a venue:
 
 
 
-##  Book a venue 
+##  Book a venue 2-3 months in advance
 
-Book a venue at least 4-6 months in advance so that you will have enough time to plan other critical things, such as catering, event brochures, and websites.
+Book a venue at least 2-3 months in advance so that you will have enough time to plan for critical things, such as venue space, event page, and websites.
 
 
 ## Find a location
 
-Look out for a venue within a reasonable distance from most attendees’ homes or places of work. Ensure that there is a proper WiFi connectivity in the premises.
+Try your best to look out for a venue within a reasonable distance from most attendees’ homes or places of work. Ensure that there is a proper WiFi connectivity in the premises.
 
 ## Parking
 
-You can reserve nearby parking lots for your attendees and either include the cost in the ticket prices, or have attendees pay when they park.
+It's always good to reserve nearby parking lots for your attendees. It is equally important to either include the cost in the ticket prices, or have attendees pay when they park.
 
 ## Capacity and Minimums
 
-You’ll need to know the room capacity of the venues for a few reasons.
+It is important to be able to make an estimation based on the number of registration for an event. Hence, capacity planning is an essential thing to plan beforehand.
 
 ## Cost(optional)
 
