@@ -20,7 +20,7 @@ gem "github-pages", group: :jekyll_plugins
 
 group :jekyll_plugins do
   
-  gem "jekyll-tabs"
+  gem 'jekyll-code-tabs', '~> 1.1'
 end
 
 # If you have any plugins, put them here!
