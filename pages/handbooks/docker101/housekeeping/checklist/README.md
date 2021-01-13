@@ -6,4 +6,4 @@ permalink: /handbooks/docker101/housekeeping/checklist/
 # TBD
 
 
-[Step 7 - Post-Event FollowUp](../postevent/)
+[Step 6 - Post-Event FollowUp](../postevent/)
