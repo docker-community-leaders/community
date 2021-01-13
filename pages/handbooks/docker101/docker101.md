@@ -16,14 +16,14 @@ This is a community leader handbook to run Docker 101 workshop. This will cover 
 
 ## Where/When/Who?
 
-- [Identify an event venue](/housekeeping/venue/README.md)
-- [Plan an event agenda](/housekeeping/plan-an-event-agenda/README.md)
-- [Set up Event Registration Page](/housekeeping/event/README.md)
-- [Sending Confirmation Email for workshop](/housekeeping/email/README.md)
-- [Prepare Checklists for Docker Workshop](/housekeeping/checklist/README.md)
-- [Post Event Follow-up](/housekeeping/postevent/README.md)
-- [Community Leader Survey](/housekeeping/clsurvey/README.md)
-- [Attendee Survey](/housekeeping/attendeesurvey/README.md)
+- Step 1 - [Identify an event venue](/housekeeping/venue/README.md)
+- Step 2 - [Plan an event agenda](/housekeeping/plan-an-event-agenda/README.md)
+- Step 3 - [Set up Event Registration Page](/housekeeping/event/README.md)
+- Step 4 - [Sending Confirmation Email for workshop](/housekeeping/email/README.md)
+- Step 5 - [Prepare Checklists for Docker Workshop](/housekeeping/checklist/README.md)
+- Step 6 - [Post Event Follow-up](/housekeeping/postevent/README.md)
+- Step 7 - [Community Leader Survey](/housekeeping/clsurvey/README.md)
+- Step 8- [Attendee Survey](/housekeeping/attendeesurvey/README.md)
 
 
 ## Recommended Agenda
