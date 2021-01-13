@@ -41,5 +41,5 @@ Finding the right venue for your event can take up quite a bit of your time. Tha
 - Use an online tool, such as Unique Venues, EventUp, weworks etc. They help you parse through the many venues to find the one right for you.
 
 
-
+[Step 2 - Plan an event Agenda](../plan-an-event-agenda/)
 
