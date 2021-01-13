@@ -16,6 +16,10 @@ Once the user register for the event, Community Leaders need to ensure that the 
 
 
 
+[Step 5 - Prearing Checklists for the workshop](../checklist/)
+
+
+
 
 
 
