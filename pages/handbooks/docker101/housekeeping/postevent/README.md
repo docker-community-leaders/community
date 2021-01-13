@@ -5,20 +5,17 @@ permalink: /handbooks/docker101/housekeeping/postevent/
 
 # Post-Event Follow-up
 
-## 1  Send a Thank You email to everyone who registered and attended the event
+### 1  Send a Thank You email 
 
 - “Thank you for attending” post on the social media channels you’ve used for your event.
 -  Send a "Thank you" email to all those who registered and attended the event
 - Don't forget to send email to those who registered but couldn't attend the event. Send them relevant link which they can refer to.
 - Share the pics you took during the event and share it on social media(LinkedIn, Twitter, Facebook Public Docker Group etc)
 - Ensure that you don’t want to be spamming your attendees with too many separate emails.
-
-## 2 Send a Thank You email to everyone who helped you for conducting this event
-
 - Send thanks email to sponsor/vendors if this workshop is part of the Meetup event. A personal thanks goes a long way toward building a long-lasting relationship.
 - Don't forget to thank core team and volunteers who helped you with the workshop
 
-## 3 Post-event Review
+### 2 Post-event Review
 
 - Sit down with your team for a debrief session where you discuss how the event went. 
 - Consider inviting at least some of the volunteers. 
@@ -33,7 +30,7 @@ permalink: /handbooks/docker101/housekeeping/postevent/
 - Leave everyone full of ideas and pumped for your next event.
 
 
-## 4 Ask for feedback
+### 3 Ask for feedback
 
 - While the event is still fresh in everyone’s mind, get their feedback about it. 
 - Even if you don’t intend to organise similar events in the near future, knowing exactly what your guests and participants think will let you better evaluate whether it succeeded. 
@@ -46,7 +43,7 @@ permalink: /handbooks/docker101/housekeeping/postevent/
 - Your questions can include a rating of different aspects of the event, so you can even quantify these.
 - You may also consider getting feedback from your sponsors and speakers in a similar manner, especially if they’re likely to be a part of your future events.
 
-## 5  Follow up on social media
+### 4  Follow up on social media
 
 - Online chatter about your event won’t immediately quiet down after the event is over. 
 - People will be discussing the event and sharing their impressions for days to come. 
@@ -58,19 +55,19 @@ permalink: /handbooks/docker101/housekeeping/postevent/
 - Engaging in post-event social media chatter and keeping the buzz going will also help you build audience for your next event. 
 - Not to mention that it could be an invaluable source of marketing material - real-life photos, videos, and even catchy phrases that people use to describe your event.
 
-## 6  Collect marketing & media material
+### 5  Collect marketing & media material
 
 -  Share the most flattering photos and videos on your social media profiles and official event websites or pages. 
 - Attendees tend to enjoy finding themselves in the pictures and videos, so it’s a great way to generate more buzz.
 
-## 7 Create a highlight reel
+### 6 Create a highlight reel
 
 - Having a ton of material is only the first step. 
 - To turn it into an effective marketing tool, you’ll want to sift through the raw footage to pick out the best photos, videos, and other highlights of the event.
 - Hire a professional to spend a week or so after the event going through everything you’ve collected and putting together a highlight reel that showcases the event’s best moments.
 - While it takes time and skill to turn a mishmash of photos and videos into a coherent piece that captures the event’s highlights, it’ll prove invaluable in promoting future events.
 
-## 8 Start planning your next event
+### 7 Start planning your next event
 
 - Start putting all of that to good use and begin jotting down ideas for your next fantastic event. 
 - You can fix what was broken, do more of what worked well, finetune your promotional efforts, and try out new things.
