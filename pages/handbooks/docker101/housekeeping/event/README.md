@@ -5,7 +5,7 @@ permalink: /handbooks/docker101/housekeeping/event/
 
 # Set up Event Registration Page
 
-
+Every Community leader is expected to set up event registration page. Below are the few sample registration pages which might be useful.
 
 
 ## Sample Event Registration Page
