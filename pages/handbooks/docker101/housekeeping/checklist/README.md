@@ -16,12 +16,15 @@ S.No. | Name of Objectives | Status |
 
 ## During the workshop
 
-
+S.No. | Name of Objectives | Status | 
+:------------ | :-------------| :-------------|
 1 | Conducting Attendee Survey |  :white_check_mark: |
 
 
 ## After the workshop
 
+S.No. | Name of Objectives | Status | 
+:------------ | :-------------| :-------------|
 1 | Feedback Form |  :white_check_mark: |
 
 
