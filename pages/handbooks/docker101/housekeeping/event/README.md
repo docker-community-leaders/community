@@ -5,7 +5,22 @@ permalink: /handbooks/docker101/housekeeping/event/
 
 # Set up Event Registration Page
 
-Every Community leader is expected to set up event registration page. Below are the few sample registration pages which might be useful.
+Every Community leader is expected to set up event registration page. While building an event registration page, ensure that the below list of information are captured:
+
+- Title of the workshop
+- Date of the workshop
+- Short Description of the workshop
+- Format of the workshop(whether it will be LIVE or recorded)
+- Level of the audience(Beginners/Intermediate/Advanced)
+- Name of the speakers
+- A Form which ask users to supply:
+   - First Name
+   - Last Name
+   - Email Address
+   - Company Name
+   - Job Function
+   - Country
+
 
 
 ## Sample Event Registration Page
