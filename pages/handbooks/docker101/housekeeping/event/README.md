@@ -31,3 +31,6 @@ Every Community leader is expected to set up event registration page. While buil
 # Links
 
 - [Link1](https://goto.docker.com/workshop-getting-started-with-docker-210119.html?utm_medium=website)
+
+
+[Step 4 - Sending Confirmation Email](../email/)
