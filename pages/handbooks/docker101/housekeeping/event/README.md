@@ -10,4 +10,4 @@ Every Community leader is expected to set up event registration page. Below are 
 
 ## Sample Event Registration Page
 
-![My Image](/housekeeping/event/Screenshot%202021-01-13%20at%204.12.47%20PM.png)
+![My Image](/Screenshot%202021-01-13%20at%204.12.47%20PM.png)
