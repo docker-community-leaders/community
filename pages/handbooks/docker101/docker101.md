@@ -23,7 +23,7 @@ This is a community leader handbook to run Docker 101 workshop. This will cover 
 - Step 5 - [Prepare Checklists for Docker Workshop](/housekeeping/checklist/README.md)
 - Step 6 - [Post Event Follow-up](/housekeeping/postevent/README.md)
 - Step 7 - [Community Leader Survey](/housekeeping/clsurvey/README.md)
-- Step 8- [Attendee Survey](/housekeeping/attendeesurvey/README.md)
+- Step 8 - [Attendee Survey](/housekeeping/attendeesurvey/README.md)
 
 
 ## Recommended Agenda
