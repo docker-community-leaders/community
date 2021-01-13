@@ -14,7 +14,7 @@ This is a community leader handbook to run Docker 101 workshop. This will cover 
 - Length - 8 hours
 
 
-## Where/When/Who?
+## Planning the workshop
 
 - Step 1 - [Identify an event venue](/housekeeping/venue/README.md)
 - Step 2 - [Plan an event agenda](/housekeeping/plan-an-event-agenda/README.md)
