@@ -25,7 +25,7 @@ S.No. | Name of Objectives | Status |
 
 S.No. | Name of Objectives | Status | 
 :------------ | :-------------| :-------------|
-1 | Feedback Form |  :white_check_mark: |
+1 | Ask for the workshop feedback  |  :white_check_mark: |
 
 
 [Step 6 - Post-Event FollowUp](../postevent/)
