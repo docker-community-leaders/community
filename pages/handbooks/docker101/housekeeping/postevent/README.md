@@ -7,4 +7,4 @@ permalink: /handbooks/docker101/housekeeping/postevent/
 
 
 
-[Step 8 - Community Leader Survey](../clsurvey/)
+[Step 7 - Community Leader Survey](../clsurvey/)
