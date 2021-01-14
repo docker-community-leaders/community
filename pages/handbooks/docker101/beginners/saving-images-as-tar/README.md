@@ -128,4 +128,4 @@ $
 
 
 
-[Next >> Building Your First Alpine Image and Pushing it to DockerHub](../building/building-your-first-alpine-container/)
+[Next >> Building Your First Alpine Image and Pushing it to DockerHub](..//building/building-your-first-alpine-container.md)
