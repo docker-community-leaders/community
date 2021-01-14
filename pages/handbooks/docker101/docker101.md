@@ -72,7 +72,7 @@ S.No. | Name of Objectives | Status |
 - [Working with Docker Image](/beginners/workingwithdockerimage/workingwithdockerimage.md) 
 - [Saving Images and Containers as Tar Files for Sharing](/beginners/saving-images-as-tar/README.md)
 - [Building Your First Alpine Docker Image and Push it to DockerHub](/building/building-your-first-alpine-container.md)
-- [Quick Quiz](/beginners/quiz/README.md)
+- [Test Your Knowledge](/beginners/quiz1/README.md)
 
 
 
@@ -81,8 +81,7 @@ S.No. | Name of Objectives | Status |
 - [Accessing the Container Shell](/beginners/accessing-the-container/README.md)<br>
 - [Running a Command inside running Container](/beginners/running-command-inside-running-container/README.md)<br>
 - [Managing Docker Containers](/beginners/managing-containers/README.md)<br>
-
-- Tips & Tricks()
+- [Test Your Knowledge](/beginners/quiz2/README.md)
 
 
 ### Getting Started with Dockerfile - 3 hours
@@ -108,22 +107,19 @@ S.No. | Name of Objectives | Status |
    - [Lab #16: Entrypoint Vs RUN](https://dockerlabs.collabnix.com/beginners/dockerfile/entrypoint-vs-run.html)<br>
    - [Lab #17: USER instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/user.html)
 - [Writing Dockerfile with Hello Python Script Added](https://dockerlabs.collabnix.com/beginners/dockerfile/lab_dockerfile_python.html)<br>
-
-- Tips & Tricks()
+- [Test Your Knowledge](/beginners/quiz3/README.md)
 
 ### Creating Private Docker Registry - 30 min
 
 - [Building a Private Docker Registry](https://dockerlabs.collabnix.com/beginners/build-private-docker-registry.html)
 - [Building a Private Docker Registry with UI](https://dockerlabs.collabnix.com/beginners/portus/)
-
-- Tips & Tricks()
+- [Test Your Knowledge](/beginners/quiz3/README.md)
 
 ### Docker Volumes - 30 min
 
 - [Managing volumes through Docker CLI](https://collabnix.github.io/dockerlabs/beginners/volume/managing-volumes-via-docker-cli.html)<br>
 - [Creating Volume Mount from **docker run** command & sharing same Volume Mounts among multiple containers](https://collabnix.github.io/dockerlabs/beginners/volume/creating-volume-mount-from-dockercli.html)<br>
-
-- Tips & Tricks()
+- [Test Your Knowledge](/beginners/quiz4/README.md)
 
 ### Docker Networking - 1 hour
 
@@ -136,7 +132,6 @@ S.No. | Name of Objectives | Status |
    - [Lab #6: Connect a Docker container to bridge network](http://dockerlabs.collabnix.com/networking/A2-bridge-networking.html#step-2-connect-a-container)
    - [Lab #7: Test Network Connectivity](http://dockerlabs.collabnix.com/networking/A2-bridge-networking.html#step-3-test-network-connectivity)
    - [Lab #8: Configure NAT for external connectivity](http://dockerlabs.collabnix.com/networking/A2-bridge-networking.html#step-4-configure-nat-for-external-connectivity)
- 
- - Tips & Tricks() - Highlights/AttentionGrabber
+ - [Test Your Knowledge](/beginners/quiz5/README.md)
 
 
