@@ -72,8 +72,7 @@ S.No. | Name of Objectives | Status |
 - [Working with Docker Image](/beginners/workingwithdockerimage/workingwithdockerimage.md) 
 - [Saving Images and Containers as Tar Files for Sharing](/beginners/saving-images-as-tar/README.md)
 - [Building Your First Alpine Docker Image and Push it to DockerHub](/building/building-your-first-alpine-container.md)
-
-- Tips & Tricks()
+- [Quick Quiz](/beginners/quiz/README.md)
 
 
 
