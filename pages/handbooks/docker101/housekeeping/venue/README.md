@@ -3,35 +3,35 @@ title: Docker101 HandBooks
 permalink: /handbooks/docker101/housekeeping/venue/
 ---
 
-# Things to consider when searching for a venue
+## Things to consider when searching for a venue
 
 Choosing a venue for a workshop has the largest impact on your event. Hence, it is essential to plan and decide on the dates, place and amenities for a successful workshop. Here are few important considerations, community leaders should consider when searching for a venue:
 
 
 
-##  Book a venue 2-3 months in advance
+###  Book a venue 2-3 months in advance
 
 Book a venue at least 2-3 months in advance so that you will have enough time to plan for critical things, such as venue space, event page, and websites.
 
 
-## Find a location
+### Find a location
 
 Try your best to look out for a venue within a reasonable distance from most attendees’ homes or places of work. Ensure that there is a proper WiFi connectivity in the premises.
 
-## Parking
+### Parking
 
 It's always good to reserve nearby parking lots for your attendees. It is equally important to either include the cost in the ticket prices, or have attendees pay when they park.
 
-## Capacity and Minimums
+### Capacity and Minimums
 
 It is important to be able to make an estimation based on the number of registration for an event. Hence, capacity planning is an essential thing to plan beforehand.
 
-## Cost(optional)
+### Cost(optional)
 
 Being flexible on the event date can be a great way to negotiate with venues. They may have open dates on their calendar that they want to fill. By providing 2-3 date options, you are more likely to get discounted pricing.
 
 
-# Tips to search for a venue
+## Tips to search for a venue
 
 Finding the right venue for your event can take up quite a bit of your time. Thankfully there are a few shortcuts to help you save time:
 
