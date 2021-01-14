@@ -4,7 +4,7 @@ permalink: /handbooks/docker101/dockerhub/
 ---
 
 
-# How to create Dockerhub Account
+## How to create Dockerhub Account
 
 ### Open https://hub.docker.com and click on "Sign Up" for DockerHub
 
