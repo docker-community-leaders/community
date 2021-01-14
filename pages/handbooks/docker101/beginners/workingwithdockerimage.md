@@ -122,27 +122,5 @@ alpine              3.9                 5cb3aa00f899        7 days ago          
 ```
 
 
-## Explanation
-
-The [REPOSITORY[:TAG]] value must be an “exact match”. 
-
-
-
-## Did you Know?
-
-```
-
-```
-
-
-## Additional Reference
-
-
-## Where to get help:
-
-## Where to file issues:
-
-
-
 [Next: Saving Images and Containers as Tar Files for Sharing](../beginners/saving-images-as-tar/README.md)
 
