@@ -4,13 +4,13 @@ permalink: /handbooks/docker101/dockerhub/
 ---
 
 
-## How to create Dockerhub Account
+## Creating Dockerhub Account
 
-### Open https://hub.docker.com and click on "Sign Up" for DockerHub
+Open https://hub.docker.com and click on "Sign Up" for DockerHub
 
 ![My image](/dockerhub1.png)
 
-### Enter your username as DockerID and provide your email address( I would suggest you to provide your Gmail ID)
+Enter your username as DockerID and provide your email address( I would suggest you to provide your Gmail ID)
 
 ![My image](/dockerhub2.png)
 
@@ -20,7 +20,7 @@ I have added ajeetraina as my userID as shown below. Please note that we will re
 
 ![My image](/dockerhub3.png)
 
-### That's it. Head over to your Email account to validate this account.
+That's it. Head over to your Email account to validate this account.
 
 
 ![My image](/dockerhub4.png)
