@@ -51,4 +51,4 @@ docker attach <container-id>
 
 ```
 
-[Proceed >> Running a Command inside running Container](http://dockerlabs.collabnix.com/beginners/running-command-inside-running-container.html)
+[Proceed >> Running a Command inside running Container](../running-command-inside-running-container/README.md)
