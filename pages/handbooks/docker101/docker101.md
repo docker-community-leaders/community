@@ -16,7 +16,7 @@ This is a community leader handbook to run Docker 101 workshop. This will cover 
 
 ## Checklists 
 
-## Before the workshop
+### Before the workshop
 
 S.No. | Name of Objectives | Status | 
 :------------ | :-------------| :-------------|
@@ -25,14 +25,14 @@ S.No. | Name of Objectives | Status |
 3 | [Setting up Event Registration Page](/housekeeping/event/README.md) | ☑️ |
 4 | [Sending confirmation email for workshop](/housekeeping/email/README.md) |  ☑️ |
 
-## During the workshop
+### During the workshop
 
 S.No. | Name of Objectives | Status | 
 :------------ | :-------------| :-------------|
 1 | [Conducting Attendee Survey](/housekeeping/attendeesurvey/README.md) |  ☑️ |
 
 
-## After the workshop
+### After the workshop
 
 S.No. | Name of Objectives | Status | 
 :------------ | :-------------| :-------------|
