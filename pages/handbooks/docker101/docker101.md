@@ -29,14 +29,14 @@ S.No. | Name of Objectives | Status |
 
 S.No. | Name of Objectives | Status | 
 :------------ | :-------------| :-------------|
-1 | [Conducting Attendee Survey](/housekeeping/attendeesurvey/README.md) |  ☑️ |
+5 | [Conducting Attendee Survey](/housekeeping/attendeesurvey/README.md) |  ☑️ |
 
 
 ### After the workshop
 
 S.No. | Name of Objectives | Status | 
 :------------ | :-------------| :-------------|
-1 | [Community Leader Survey](/housekeeping/clsurvey/README.md)  |  ☑️ |
+6 | [Community Leader Survey](/housekeeping/clsurvey/README.md)  |  ☑️ |
 
 
 
