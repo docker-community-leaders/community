@@ -126,9 +126,6 @@ nginx               latest              568c4670fa80        2 weeks ago         
 $
 ```
 
-## Contributor
-
-[Ajeet Singh Raina](mailto:ajeetraina@gmail.com)
 
 
-[Building Your First Alpine Image and Pushing it to DockerHub](http://dockerlabs.collabnix.com/beginners/building-your-first-alpine-container.html)
+[Next >> Building Your First Alpine Image and Pushing it to DockerHub](../building/)
