@@ -14,16 +14,30 @@ This is a community leader handbook to run Docker 101 workshop. This will cover 
 - Length - 8 hours
 
 
-## Planning the workshop
+## Checklists 
 
-- Step 1 - [Identify an event venue](/housekeeping/venue/README.md)
-- Step 2 - [Plan an event agenda](/housekeeping/plan-an-event-agenda/README.md)
-- Step 3 - [Set up Event Registration Page](/housekeeping/event/README.md)
-- Step 4 - [Sending Confirmation Email for workshop](/housekeeping/email/README.md)
-- Step 5 - [Prepare Checklists for Docker Workshop](/housekeeping/checklist/README.md)
-- Step 6 - [Post Event Follow-up](/housekeeping/postevent/README.md)
-- Step 7 - [Community Leader Survey](/housekeeping/clsurvey/README.md)
-- Step 8 - [Attendee Survey](/housekeeping/attendeesurvey/README.md)
+## Before the workshop
+
+S.No. | Name of Objectives | Status | 
+:------------ | :-------------| :-------------|
+1 | [Identify an Event Venue](/housekeeping/venue/README.md) |  ☑️ |
+2 | [Planning an Event Agenda](/housekeeping/plan-an-event-agenda/README.md) |  ☑️ |
+3 | [Setting up Event Registration Page](/housekeeping/event/README.md) | ☑️ |
+4 | [Sending confirmation email for workshop](/housekeeping/email/README.md) |  ☑️ |
+
+## During the workshop
+
+S.No. | Name of Objectives | Status | 
+:------------ | :-------------| :-------------|
+1 | [Conducting Attendee Survey](/housekeeping/attendeesurvey/README.md) |  ☑️ |
+
+
+## After the workshop
+
+S.No. | Name of Objectives | Status | 
+:------------ | :-------------| :-------------|
+1 | [Community Leader Survey](/housekeeping/clsurvey/README.md)  |  ☑️ |
+
 
 
 ## Recommended Agenda
