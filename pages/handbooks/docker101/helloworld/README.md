@@ -42,7 +42,7 @@ $ docker run hello-world
 
 ```
 
-![alt text](https://raw.githubusercontent.com/collabnix/dockerlabs/master/beginners/images/b301_helloworld.png)
+![alt text](../beginners/images/b301_helloworld.png)
 
 
 
@@ -173,9 +173,6 @@ $ docker inspect 4ab
 ]
 ```
 
-<a href="https://asciinema.org/a/210117" target="_blank"><img src="https://github.com/collabnix/dockerlabs/blob/master/beginners/helloworld/helloworld.png" /></a>
 
 
-
-
-[Next: Working with Docker Images](/beginners/workingwithdockerimage/workingwithdockerimage.md)
+[Next: Working with Docker Images](../beginners/)
