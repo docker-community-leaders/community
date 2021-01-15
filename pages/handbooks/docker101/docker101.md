@@ -86,27 +86,27 @@ S.No. | Name of Objectives | Status |
 
 ### Getting Started with Dockerfile - 3 hours
 
-- [What is Dockerfile](/beginners/dockerfile/Writing-dockerfile.html#what-is-a-dockerfile)<br>
-- [Understanding Layering Concept with Dockerfile](/beginners/dockerfile/Layering-Dockerfile.html)
+- [What is Dockerfile](/beginners/dockerfile/Writing-dockerfile/)<br>
+- [Understanding Layering Concept with Dockerfile](/beginners/dockerfile/Layering-Dockerfile/)
 - Creating Docker Image with
-   - [Lab #1: Installing GIT](/beginners/dockerfile/lab1_dockerfile_git.html)<br>
-   - [Lab #2: ADD instruction](/beginners/dockerfile/Lab-2-Create-an-image-with-ADD-instruction.html)<br>
-   - [Lab #3: COPY instruction](/beginners/dockerfile/lab4_dockerfile_copy.html)<br>
-   - [Lab #4: CMD instruction](/beginners/dockerfile/lab4_cmd.html)<br>
-   - [Lab #5: ENTRYPOINT instruction](/beginners/dockerfile/Dockerfile-ENTRYPOINT.html)<br>
-   - [Lab #6: WORKDIR instruction](/beginners/dockerfile/WORKDIR_instruction.html)<br>
-   - [Lab #7: RUN instruction](/beginners/dockerfile/Lab-7-Create-an-image-with-EXPOSE-instruction.html)<br>
-   - [Lab #8: ARG instruction](/beginners/dockerfile/arg.html)<br>
-   - [Lab #9: ENV instruction](/beginners/dockerfile/Lab_%239:ENV_instruction.html)<br>
-   - [Lab #10: VOLUME instruction](/beginners/dockerfile/Lab%2310:VOLUME_instruction.html)<br>
-   - [Lab #11: EXPOSE instruction](/beginners/dockerfile/Lab%2311:EXPOSE_instruction.html)<br>
-   - [Lab #12: LABEL instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/Label_instruction.html)<br>
-   - [Lab #13: ONBUILD instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/onbuild.html)<br>
-   - [Lab #14: HEALTHCHECK instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/healthcheck.html)<br>
-   - [Lab #15: SHELL instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/Lab-14-Create-an-image-with-SHELL-instruction.html)<br>
-   - [Lab #16: Entrypoint Vs RUN](https://dockerlabs.collabnix.com/beginners/dockerfile/entrypoint-vs-run.html)<br>
-   - [Lab #17: USER instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/user.html)
-- [Writing Dockerfile with Hello Python Script Added](https://dockerlabs.collabnix.com/beginners/dockerfile/lab_dockerfile_python.html)<br>
+   - [Lab #1: Installing GIT](/beginners/dockerfile/lab1_dockerfile_git/)<br>
+   - [Lab #2: ADD instruction](/beginners/dockerfile/Lab-2-Create-an-image-with-ADD-instruction/)<br>
+   - [Lab #3: COPY instruction](/beginners/dockerfile/lab4_dockerfile_copy/)<br>
+   - [Lab #4: CMD instruction](/beginners/dockerfile/lab4_cmd/)<br>
+   - [Lab #5: ENTRYPOINT instruction](/beginners/dockerfile/Dockerfile-ENTRYPOINT/)<br>
+   - [Lab #6: WORKDIR instruction](/beginners/dockerfile/WORKDIR_instruction/)<br>
+   - [Lab #7: RUN instruction](/beginners/dockerfile/Lab-7-Create-an-image-with-EXPOSE-instruction/)<br>
+   - [Lab #8: ARG instruction](/beginners/dockerfile/arg/)<br>
+   - [Lab #9: ENV instruction](/beginners/dockerfile/Lab_ENV_instruction/)<br>
+   - [Lab #10: VOLUME instruction](/beginners/dockerfile/Lab_VOLUME_instruction/)<br>
+   - [Lab #11: EXPOSE instruction](/beginners/dockerfile/Lab_EXPOSE_instruction/)<br>
+   - [Lab #12: LABEL instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/Label_instruction/)<br>
+   - [Lab #13: ONBUILD instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/onbuild/)<br>
+   - [Lab #14: HEALTHCHECK instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/healthcheck/)<br>
+   - [Lab #15: SHELL instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/Lab-14-Create-an-image-with-SHELL-instruction/)<br>
+   - [Lab #16: Entrypoint Vs RUN](https://dockerlabs.collabnix.com/beginners/dockerfile/entrypoint-vs-run/)<br>
+   - [Lab #17: USER instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/user/)
+- [Writing Dockerfile with Hello Python Script Added](https://dockerlabs.collabnix.com/beginners/dockerfile/lab_dockerfile_python/)<br>
 - [Test Your Knowledge](/beginners/quiz3/README.md)
 
 ### Creating Private Docker Registry - 30 min
