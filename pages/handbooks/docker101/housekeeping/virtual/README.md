@@ -21,9 +21,13 @@ Once you successful login, click on "Dashboard"
 
 ![My Image](img/virtual.png)
 
+You will need to supply title, event description, schedule and agenda.
 
-### Step #4 Choose "Bevy Virtual" option from the drop-down menu
+
+### Step #4 Choose "Bevy Virtual" option from the drop-down menu under Virtual Event Platform
 
 
 ![My Image](img/virtual3.png)
+
+## Step #5 Click on "Publish"
 
