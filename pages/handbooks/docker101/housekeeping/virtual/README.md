@@ -24,10 +24,5 @@
 ### Select "virtual event" option from the top-down menu as shown below
 
 
-![My Image](img/virtual1.png)
-
-![My Image](img/virtual2.png)
-
-
 ![My Image](img/virtual3.png)
 
