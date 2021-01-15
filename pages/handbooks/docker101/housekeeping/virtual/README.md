@@ -8,20 +8,20 @@
 
 
 
-### Login using your DockerHub ID and password. 
+### Ste #2 Login using your DockerHub ID and password. 
 
 Once you successful login, click on "Dashboard"
 
 ![My Image](img/virtual01.png)
 
 
-### Select your chapter name on the left hand side of the screen
+### Step #3 Select your chapter name on the left hand side of the screen
 
 
 ![My Image](img/virtual.png)
 
 
-### Select "virtual event" option from the top-down menu as shown below
+### Step #4 Select "virtual event" option from the top-down menu as shown below
 
 
 ![My Image](img/virtual3.png)
