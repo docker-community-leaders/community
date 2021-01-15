@@ -101,12 +101,12 @@ S.No. | Name of Objectives | Status |
    - [Lab #10: VOLUME instruction](/beginners/dockerfile/Lab_VOLUME_instruction/README.md)<br>
    - [Lab #11: EXPOSE instruction](/beginners/dockerfile/Lab_EXPOSE_instruction/README.md)<br>
    - [Lab #12: LABEL instruction](/beginners/dockerfile/Label_instruction/README.md)<br>
-   - [Lab #13: ONBUILD instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/onbuild/README.md)<br>
-   - [Lab #14: HEALTHCHECK instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/healthcheck/README.md)<br>
-   - [Lab #15: SHELL instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/Lab-14-Create-an-image-with-SHELL-instruction/README.md)<br>
-   - [Lab #16: Entrypoint Vs RUN](https://dockerlabs.collabnix.com/beginners/dockerfile/entrypoint-vs-run/README.md)<br>
-   - [Lab #17: USER instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/user/README.md)
-- [Writing Dockerfile with Hello Python Script Added](https://dockerlabs.collabnix.com/beginners/dockerfile/lab_dockerfile_python/README.md)<br>
+   - [Lab #13: ONBUILD instruction](/beginners/dockerfile/onbuild/README.md)<br>
+   - [Lab #14: HEALTHCHECK instruction](/beginners/dockerfile/healthcheck/README.md)<br>
+   - [Lab #15: SHELL instruction](/beginners/dockerfile/Lab-14-Create-an-image-with-SHELL-instruction/README.md)<br>
+   - [Lab #16: Entrypoint Vs RUN](/beginners/dockerfile/entrypoint-vs-run/README.md)<br>
+   - [Lab #17: USER instruction](/beginners/dockerfile/user/README.md)
+- [Writing Dockerfile with Hello Python Script Added](/beginners/dockerfile/lab_dockerfile_python/README.md)<br>
 - [Test Your Knowledge](/beginners/quiz3/README.md)
 
 ### Creating Private Docker Registry - 30 min
