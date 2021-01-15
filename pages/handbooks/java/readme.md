@@ -10,7 +10,7 @@ This is a community leader handbook to run "Dockerizing Your Application for JAV
 ### Features of this workshop
 
 - Audience : 5 to 100
-- Technical Skills Required : Basic knowledge of JAVA, Docker 101
+- Technical Skills Required : Basic knowledge of Linux & JAVA
 - Length : 4 hours (including coffe and lunch breaks)
 
 
