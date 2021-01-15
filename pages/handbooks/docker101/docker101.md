@@ -116,21 +116,21 @@ S.No. | Name of Objectives | Status |
 
 ### Docker Volumes - 30 min
 
-- [Managing volumes through Docker CLI](https://collabnix.github.io/dockerlabs/beginners/volume/managing-volumes-via-docker-cli.html)<br>
-- [Creating Volume Mount from **docker run** command & sharing same Volume Mounts among multiple containers](https://collabnix.github.io/dockerlabs/beginners/volume/creating-volume-mount-from-dockercli.html)<br>
+- [Managing volumes through Docker CLI](/beginners/volume/managing-volumes-via-docker-cli/)<br>
+- [Creating Volume Mount from **docker run** command & sharing same Volume Mounts among multiple containers](/beginners/volume/creating-volume-mount-from-dockercli/)<br>
 - [Test Your Knowledge](/beginners/quiz4/README.md)
 
 ### Docker Networking - 1 hour
 
- - [The docker network Command](http://dockerlabs.collabnix.com/beginners/using-docker-network.html)<br>
- - [Lab #1: Listing the Networks](http://dockerlabs.collabnix.com/networking/A1-network-basics.html#step-2-list-networks)
- - [Lab #2: Inspecting a Network](http://dockerlabs.collabnix.com/networking/A1-network-basics.html#step-3-inspect-a-network)
- - [Lab #3: List network driver plugins](http://dockerlabs.collabnix.com/networking/A1-network-basics.html#step-4-list-network-driver-plugins)
- - [Lab #4: Docker Bridge Networking](http://dockerlabs.collabnix.com/networking/A2-bridge-networking.html)
-   - [Lab #5: Basics of Docker Bridge Networking](http://dockerlabs.collabnix.com/networking/A2-bridge-networking.html#step-1-the-default-bridge-network)
-   - [Lab #6: Connect a Docker container to bridge network](http://dockerlabs.collabnix.com/networking/A2-bridge-networking.html#step-2-connect-a-container)
-   - [Lab #7: Test Network Connectivity](http://dockerlabs.collabnix.com/networking/A2-bridge-networking.html#step-3-test-network-connectivity)
-   - [Lab #8: Configure NAT for external connectivity](http://dockerlabs.collabnix.com/networking/A2-bridge-networking.html#step-4-configure-nat-for-external-connectivity)
- - [Test Your Knowledge](/beginners/quiz5/README.md)
+ - [The docker network Command](/beginners/networking/using-docker-network/)<br>
+ - [Lab #1: Listing the Networks](/beginners/networking/A1-network-basics.html#step-2-list-networks)
+ - [Lab #2: Inspecting a Network](/beginners/networking/A1-network-basics.html#step-3-inspect-a-network)
+ - [Lab #3: List network driver plugins](/beginners/networking/A1-network-basics.html#step-4-list-network-driver-plugins)
+ - [Lab #4: Docker Bridge Networking](/beginners/networking/A2-bridge-networking.html)
+   - [Lab #5: Basics of Docker Bridge Networking](/beginners/networking/A2-bridge-networking.html#step-1-the-default-bridge-network)
+   - [Lab #6: Connect a Docker container to bridge network](/beginners/networking/A2-bridge-networking.html#step-2-connect-a-container)
+   - [Lab #7: Test Network Connectivity](/beginners/networking/A2-bridge-networking.html#step-3-test-network-connectivity)
+   - [Lab #8: Configure NAT for external connectivity](/beginners/networking/A2-bridge-networking.html#step-4-configure-nat-for-external-connectivity)
+ - [Test Your Knowledge](/beginners/networking/quiz5/README.md)
 
 
