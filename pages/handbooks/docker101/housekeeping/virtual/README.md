@@ -29,5 +29,5 @@ You will need to supply title, event description, schedule and agenda.
 
 ![My Image](img/virtual3.png)
 
-## Step #5 Click on "Publish"
+### Step #5 Click on "Publish".
 
