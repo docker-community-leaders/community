@@ -20,7 +20,7 @@ This is a community leader handbook to run Docker 101 workshop. This will cover 
 
 S.No. | Name of Objectives | Status | 
 :------------ | :-------------| :-------------|
-1 | [Identify an Event Venue](/housekeeping/venue/README.md) |  ☑️ |
+1 | [Getting Familiar with Bevy Virtual](/housekeeping/virtual/README.md) |  ☑️ |
 2 | [Planning an Event Agenda](/housekeeping/plan-an-event-agenda/README.md) |  ☑️ |
 3 | [Setting up Event Registration Page](/housekeeping/event/README.md) | ☑️ |
 4 | [Sending confirmation email for workshop](/housekeeping/email/README.md) |  ☑️ |
