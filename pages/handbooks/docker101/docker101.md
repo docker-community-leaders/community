@@ -100,7 +100,7 @@ S.No. | Name of Objectives | Status |
    - [Lab #9: ENV instruction](/beginners/dockerfile/Lab_ENV_instruction/README.md)<br>
    - [Lab #10: VOLUME instruction](/beginners/dockerfile/Lab_VOLUME_instruction/README.md)<br>
    - [Lab #11: EXPOSE instruction](/beginners/dockerfile/Lab_EXPOSE_instruction/README.md)<br>
-   - [Lab #12: LABEL instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/Label_instruction/README.md)<br>
+   - [Lab #12: LABEL instruction](/beginners/dockerfile/Label_instruction/README.md)<br>
    - [Lab #13: ONBUILD instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/onbuild/README.md)<br>
    - [Lab #14: HEALTHCHECK instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/healthcheck/README.md)<br>
    - [Lab #15: SHELL instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/Lab-14-Create-an-image-with-SHELL-instruction/README.md)<br>
