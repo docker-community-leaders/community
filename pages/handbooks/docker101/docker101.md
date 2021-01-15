@@ -25,6 +25,7 @@ S.No. | Name of Objectives | Status |
 3 | [Setting up Event Registration Page](/housekeeping/event/README.md) | ☑️ |
 4 | [Sending confirmation email for workshop](/housekeeping/email/README.md) |  ☑️ |
 
+
 ### During the workshop
 
 S.No. | Name of Objectives | Status | 
@@ -36,7 +37,8 @@ S.No. | Name of Objectives | Status |
 
 S.No. | Name of Objectives | Status | 
 :------------ | :-------------| :-------------|
-6 | [Community Leader Survey](/housekeeping/clsurvey/README.md)  |  ☑️ |
+6 | [Post-Event FollowUp](/housekeeping/postevent/) |  ☑️ |
+7 | [Community Leader Survey](/housekeeping/clsurvey/README.md)  |  ☑️ |
 
 
 
