@@ -4,7 +4,7 @@ title: Welcome to Docker Community
 permalink: /
 ---
 
-# Docker Community Repository
+# Get Involved
 
 🐳 🐳 🐳  <br> Welcome to the Docker Community repo! 
 
