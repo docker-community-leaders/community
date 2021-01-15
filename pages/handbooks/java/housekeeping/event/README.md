@@ -3,34 +3,38 @@ title: Docker101 HandBooks
 permalink: /handbooks/docker101/housekeeping/event/
 ---
 
-# Set up Event Registration Page
+# Set up Bevy Virtual Event Page
 
-Every Community leader is expected to set up event registration page. While building an event registration page, ensure that the below list of information are captured:
+### Step #1 Open [events.docker.com](https://events.docker.com) on your browser
 
-- Title of the workshop
-- Date of the workshop
-- Short Description of the workshop
-- Format of the workshop(whether it will be LIVE or recorded)
-- Level of the audience(Beginners/Intermediate/Advanced)
-- Name of the speakers
-- A Form which ask users to supply:
-   - First Name
-   - Last Name
-   - Email Address
-   - Company Name
-   - Job Function
-   - Country
+![My Image](img/virtual1.png)
 
 
 
-## Sample Event Registration Page
+### Ste #2 Select your local chapter
+
+Once you successful login, click on "Dashboard"
+
+![My Image](img/virtual01.png)
 
 
-![My Image](img/event_sample.png)
+### Step #3 Select "virtual event" option from the top-down menu as shown below
 
-# Links
 
-- [Link1](https://goto.docker.com/workshop-getting-started-with-docker-210119.html?utm_medium=website)
+
+![My Image](img/virtual.png)
+
+You will need to supply title, event description, schedule and agenda.
+
+
+### Step #4 Choose "Bevy Virtual" option from the drop-down menu under Virtual Event Platform
+
+
+![My Image](img/virtual3.png)
+
+### Step #5 Click on "Publish".
+
+
 
 
 [Step 4 - Sending Confirmation Email](../email/)
