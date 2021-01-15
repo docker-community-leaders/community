@@ -107,7 +107,7 @@ S.No. | Name of Objectives | Status |
    - [Lab #16: Entrypoint Vs RUN](/beginners/dockerfile/entrypoint-vs-run/README.md)<br>
    - [Lab #17: USER instruction](/beginners/dockerfile/user/README.md)
 - [Writing Dockerfile with Hello Python Script Added](/beginners/dockerfile/lab_dockerfile_python/README.md)<br>
-- [Test Your Knowledge](/beginners/quiz3/README.md)
+- [Test Your Knowledge](/beginners/dockerfile/quiz3/README.md)
 
 ### Creating Private Docker Registry - 30 min
 
