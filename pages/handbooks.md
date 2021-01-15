@@ -11,13 +11,12 @@ permalink: /handbooks/
  - [Docker workshop for Beginners](handbooks/docker101/docker101.md)
  
  
-### Docker Workshop for Python Developers
+### Dockerizing your application for Java
 
-- [Docker workshop for Python Developers](handbooks/python/readme.md)
+- [Docker workshop for Java Developers](handbooks/java/readme.md)
 
 
-### Docker workshop for Go Developers
-- [Docker workshop for Go Developers](handbooks/go/readme.md)
+
 
  
 
