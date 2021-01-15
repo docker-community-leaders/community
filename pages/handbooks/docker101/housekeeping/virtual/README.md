@@ -10,12 +10,11 @@
 
 ### Login using your DockerHub ID and password
 
+### Once you successful login, click on "Dashboard"
 
 ![My Image](img/virtual.png)
 
 
-
-### Once you successful login, click on "Dashboard"
 ### Select your chapter name on the left hand side of the screen
 
 
