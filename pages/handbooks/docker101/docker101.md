@@ -37,7 +37,7 @@ S.No. | Name of Objectives | Status |
 
 S.No. | Name of Objectives | Status | 
 :------------ | :-------------| :-------------|
-6 | [Post-Event FollowUp](/housekeeping/postevent/) |  ☑️ |
+6 | [Post-Event FollowUp](/housekeeping/postevent/README.md) |  ☑️ |
 7 | [Community Leader Survey](/housekeeping/clsurvey/README.md)  |  ☑️ |
 
 
