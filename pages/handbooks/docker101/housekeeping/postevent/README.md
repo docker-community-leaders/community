@@ -7,13 +7,14 @@ permalink: /handbooks/docker101/housekeeping/postevent/
 
 ### #1  Send a Thank You email 
 
-- “Thank you for attending” post on the social media channels you’ve used for your event.
--  Send a "Thank you" email to all those who registered and attended the event
-- Don't forget to send email to those who registered but couldn't attend the event. Send them relevant link which they can refer to.
-- Share the pics you took during the event and share it on social media(LinkedIn, Twitter, Facebook Public Docker Group etc)
-- Ensure that you don’t want to be spamming your attendees with too many separate emails.
-- Send thanks email to sponsor/vendors if this workshop is part of the Meetup event. A personal thanks goes a long way toward building a long-lasting relationship.
-- Don't forget to thank core team and volunteers who helped you with the workshop
+S.No. | Name of Objectives | Status | 
+:------------ | :-------------| :-------------|
+1 | “Thank you for attending” post on the social media channels |  ☑️ |
+2 | "Thank you" email to all those who registered and attended the event |  ☑️ |
+3 | Share the pics you took during the event and share it on social media(LinkedIn, Twitter, Facebook Public Docker Group etc |  ☑️ |
+4 | Send thanks email to sponsor/vendors if this workshop is part of the Meetup event. |  ☑️ |
+5 | Thank core team and volunteers who helped you with the workshop |  ☑️ |
+
 
 ### #2 Post-event Review
 
