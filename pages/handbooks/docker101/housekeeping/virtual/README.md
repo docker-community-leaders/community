@@ -8,7 +8,7 @@
 
 
 
-### Ste #2 Login using your DockerHub ID and password. 
+### Ste #2 Select your local chapter
 
 Once you successful login, click on "Dashboard"
 
