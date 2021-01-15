@@ -15,13 +15,14 @@ Once you successful login, click on "Dashboard"
 ![My Image](img/virtual01.png)
 
 
-### Step #3 Select your chapter name on the left hand side of the screen
+### Step #3 Select "virtual event" option from the top-down menu as shown below
+
 
 
 ![My Image](img/virtual.png)
 
 
-### Step #4 Select "virtual event" option from the top-down menu as shown below
+### Step #4 Choose "Bevy Virtual" option from the drop-down menu
 
 
 ![My Image](img/virtual3.png)
