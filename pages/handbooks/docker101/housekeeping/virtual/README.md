@@ -1,7 +1,19 @@
 # Getting Familiar with Bevy Virtual
 
+## Creating a Virtual Event
 
-When you create an event on events.docker.com, you will now see the option for a virtual event (this removes the location requirement and provides a spot for a link, which is only made available to those that RSVP AND the link is included in the add to calendar option for attendees).
+- Open [events.docker.com](https://events.docker.com) on your browser
+- Login using your DockerHub ID and password
+- Once you successful login, click on "Dashboard"
+- Select your chapter name on the left hand side of the screen
+- Select "virtual event" option from the top-down menu as shown below
 
 ![My Image](img/virtual.png)
+
+![My Image](img/virtual1.png)
+
+![My Image](img/virtual2.png)
+
+
+![MyImage](img/virtual3.png)
 
