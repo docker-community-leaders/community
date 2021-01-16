@@ -48,7 +48,7 @@ S.No. | Name of Objectives | Status |
 | Description | Timing |
 | --- | --- |
 | Welcome | 8:45 AM to 9:00 AM |
-| [Setting up Infrastructure](java/infrastructure/README.md) | 9:00 AM to 9:30 AM |
+| [Setting up Infrastructure](java/infra/README.md) | 9:00 AM to 9:30 AM |
 | [Basics of Docker](#basics-of-docker---1-hour) | 9:30 AM to 10:30 AM |
 | [Building a Docker Image](#building-a-docker-image---1-hour) | 10:15 AM to 11:15 AM |
 | Coffee/Tea Break | 11:15 AM to 11:30 AM |
