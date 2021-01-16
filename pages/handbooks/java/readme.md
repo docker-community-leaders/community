@@ -54,14 +54,11 @@ S.No. | Name of Objectives | Status |
 | Coffee/Tea Break | 11:15 AM to 11:30 AM |
 | [Building a Docker Image for Java 11](#building-a-docker-image-for-java-11---1-hour) | 11:30 AM to 12:30 PM|
 | Lunch | 1:00 PM to 2:00 PM |
-| Getting Started with Dockerfile| 2:00 PM to 3:30 PM |
 | [Multi-container Application using Docker Compose](#multi-container-application-using-docker-compose---30-min) | 3:30 PM to 4:30 PM|
 | [Multi-container Application using Docker Compose & Swarm Mode](#multi-container-application-using-docker-compose-and-swarm---30-min) | 4:00 PM to 4:30 PM |
 | Coffee/Tea Break | 4:00 PM to 4:30 PM |
 | [Java IDE](#java-ide---1-hour) | 4:45 PM to 5:45 PM |
 | [CI-CD using Docker](#ci-cd-using-docker) | 5:45 PM to 6:00 PM |
-
-
 
 
 
@@ -85,7 +82,10 @@ S.No. | Name of Objectives | Status |
 - [Test Your Knowledge](/docker/infra/quiz2/README.md)
 
 
-### [Building and Running a Docker Container] - 1 hour
+### [Building and Running a Docker Container](#building-and-running-a-docker-container) - 1 hour
  - [Build a Docker Image](/docker/build-a-docker-image/README.md)
  - [Build a Docker Image for JAVA 11](/docker/build-a-docker-image/README.md)
  - [Running a JAVA 11 Docker Container](/docker/running-a-JAVA-11-docker-container/README.md)
+
+
+### 
