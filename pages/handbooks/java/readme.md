@@ -90,18 +90,36 @@ S.No. | Name of Objectives | Status |
 
 ### [Multi-Container Application using Docker Compose](#multi-container-application-using-docker-compose) - 1 hour
 - [What is Docker Compose](/compose/what-is-docker-compose/README.md)
-- [Configuration file](/compose/configuration-file/README.md)
-- [Start application](/compose/start-application/README.md)
-- [Verify application](/compose/verify-application/README.md)
-- [Shutdown application](/compose/shutdown-application/README.md)
+- [Configuration file](/compose/configuration/README.md)
+- [Start application](/compose/start/README.md)
+- [Verify application](/compose/verify/README.md)
+- [Shutdown application](/compose/shutdown/README.md)
 
 
 ### Deploy Application using Docker Swarm Mode
 - [Initialize Swarm](/swarm/initialize-swarm/README.md)
-- [Multi-container application](/swarm/initialize-swarm/README.md)
-- [Verify service and containers in application](/swarm/initialize-swarm/README.md)
-- [Access application](/swarm/initialize-swarm/README.md)
-- [Stop application](/swarm/stop-swarm/README.md)
-- [Remove application completely](/swarm/remove-application-completely/README.md)
+- [Multi-container application](/swarm/multicontainer/README.md)
+- [Verify service and containers in application](/swarm/verify//README.md)
+- [Access application](/swarm/access/README.md)
+- [Stop application](/swarm/stop-/README.md)
+- [Remove application completely](/swarm/remove/README.md)
+
+
+### Docker & Netbeans
+- [Configure Docker Host](/netbeans/configure/README.md)
+- [Pull an Image](/netbeans/pull/README.md)
+- [Run a Container](/netbeans/run/README.md)
+- [Build an Image](/netbeans/build/README.md)
+
+
+### Docker and IntelliJ IDEA
+- [Install Docker Plugin in IDEA](/intellij/install-docker-plugin/README.md)
+- [Pull an Image](/intellij/pull/README.md)
+- [Run a Container](/intellij/run/README.md)
+- [Build an Image](/intellij/build/README.md)
+
+
+
+
 
 
