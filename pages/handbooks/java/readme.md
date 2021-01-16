@@ -96,7 +96,7 @@ S.No. | Name of Objectives | Status |
 - [Shutdown application](/compose/shutdown/README.md)
 
 
-### Deploy Application using Docker Swarm Mode
+### [Deploy Application using Docker Swarm Mode](#deploy-application-using-docker-swarm-mode) - 1 hour
 - [Initialize Swarm](/swarm/initialize-swarm/README.md)
 - [Multi-container application](/swarm/multicontainer/README.md)
 - [Verify service and containers in application](/swarm/verify//README.md)
@@ -105,20 +105,25 @@ S.No. | Name of Objectives | Status |
 - [Remove application completely](/swarm/remove/README.md)
 
 
-### Docker & Netbeans
+### [Docker & Netbeans](#docker-and-netbeans)- 1 hour
 - [Configure Docker Host](/netbeans/configure/README.md)
 - [Pull an Image](/netbeans/pull/README.md)
 - [Run a Container](/netbeans/run/README.md)
 - [Build an Image](/netbeans/build/README.md)
 
 
-### Docker and IntelliJ IDEA
+### [Docker and IntelliJ IDEA](docker-and-intelliJ) - 1 hour
 - [Install Docker Plugin in IDEA](/intellij/install-docker-plugin/README.md)
 - [Pull an Image](/intellij/pull/README.md)
 - [Run a Container](/intellij/run/README.md)
 - [Build an Image](/intellij/build/README.md)
 
-
+### [Docker & Eclipse](#docker-and-eclipse) - 1 hour
+- [Install Docker Tooling in Eclipse](/eclipse/install/README.md)
+- [Docker Perspective and View](/eclipse/docker/README.md)
+- [Pull an Image](/eclipse/pull/README.md)
+- [Run a Container](/eclipse/run/README.md)
+- [Build an Image](/eclipse/build/README.md)
 
 
 
