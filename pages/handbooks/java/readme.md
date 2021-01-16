@@ -63,4 +63,29 @@ S.No. | Name of Objectives | Status |
 
 
 
+
+
 ## Pre-requisite:
+
+### [Setting up Infrastructure](#setting-up-infrastructure) - 30 min
+
+- [Hardware & Software](/infra/hardware/README.md)
+- [Installing Docker](/infra/installing-docker/README.md)
+- [Downloading the required Docker Images](/infra/downloading-docker-images/README.md)
+- [Installing Other Software](/infra/installing-other-software/README.md)
+- [Test Your Knowledge](infra/quiz1/README.md)
+
+
+### [Basics of Docker](#basics-of-docker) - 30 min
+- [Main Components](/docker/components/README.md)
+- [Docker Image](/docker/docker-image/README.md)
+- [Docker Container](/docker/docker-container/README.md)
+- [Docker Engine](/docker/docker-engine/README.md)
+- [Docker Client](/docker/docker-client/README.md)
+- [Test Your Knowledge](/docker/infra/quiz2/README.md)
+
+
+### [Building and Running a Docker Container] - 1 hour
+ - [Build a Docker Image](/docker/build-a-docker-image/README.md)
+ - [Build a Docker Image for JAVA 11](/docker/build-a-docker-image/README.md)
+ - [Running a JAVA 11 Docker Container](/docker/running-a-JAVA-11-docker-container/README.md)
