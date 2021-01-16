@@ -88,4 +88,20 @@ S.No. | Name of Objectives | Status |
  - [Running a JAVA 11 Docker Container](/docker/running-a-JAVA-11-docker-container/README.md)
 
 
-### 
+### [Multi-Container Application using Docker Compose](#multi-container-application-using-docker-compose) - 1 hour
+- [What is Docker Compose](/compose/what-is-docker-compose/README.md)
+- [Configuration file](/compose/configuration-file/README.md)
+- [Start application](/compose/start-application/README.md)
+- [Verify application](/compose/verify-application/README.md)
+- [Shutdown application](/compose/shutdown-application/README.md)
+
+
+### Deploy Application using Docker Swarm Mode
+- [Initialize Swarm](/swarm/initialize-swarm/README.md)
+- [Multi-container application](/swarm/initialize-swarm/README.md)
+- [Verify service and containers in application](/swarm/initialize-swarm/README.md)
+- [Access application](/swarm/initialize-swarm/README.md)
+- [Stop application](/swarm/stop-swarm/README.md)
+- [Remove application completely](/swarm/remove-application-completely/README.md)
+
+
