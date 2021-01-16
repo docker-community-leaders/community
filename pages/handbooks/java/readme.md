@@ -48,17 +48,17 @@ S.No. | Name of Objectives | Status |
 | Description | Timing |
 | --- | --- |
 | Welcome | 8:45 AM to 9:00 AM |
-| [Setting up Infrastructure](java/infra/README.md) | 9:00 AM to 9:30 AM |
+| [Setting up Infrastructure](#setting-up-infrastructure--30-min) | 9:00 AM to 9:30 AM |
 | [Basics of Docker](#basics-of-docker---1-hour) | 9:30 AM to 10:30 AM |
-| [Building a Docker Image](#building-a-docker-image---1-hour) | 10:15 AM to 11:15 AM |
-| Coffee/Tea Break | 11:15 AM to 11:30 AM |
-| [Building a Docker Image for Java 11](#building-a-docker-image-for-java-11---1-hour) | 11:30 AM to 12:30 PM|
+| [Building a Docker Image](#building-and-running-a-docker-container---1-hour) | 10:30 AM to 11:30 AM |
+| Coffee/Tea Break | 11:30 AM to 11:45 AM |
+| [Multi-container Application using Docker Compose](#multi-container-application-using-docker-compose---1-hour) | 11:45 PM to 1:00 PM|
 | Lunch | 1:00 PM to 2:00 PM |
-| [Multi-container Application using Docker Compose](#multi-container-application-using-docker-compose---30-min) | 3:30 PM to 4:30 PM|
-| [Multi-container Application using Docker Compose & Swarm Mode](#multi-container-application-using-docker-compose-and-swarm---30-min) | 4:00 PM to 4:30 PM |
-| Coffee/Tea Break | 4:00 PM to 4:30 PM |
-| [Java IDE](#java-ide---1-hour) | 4:45 PM to 5:45 PM |
-| [CI-CD using Docker](#ci-cd-using-docker) | 5:45 PM to 6:00 PM |
+| [Deploy Application using Docker Swarm Mode](#multi-container-application-using-docker-compose-and-swarm---30-min) | 2:00 PM to 2:30 PM |
+| [Docker & Netbeans](#docker-and-netbeans---1-hour) | 2:30 PM to 3:30 PM |
+| Coffee/Tea Break | 3:30 PM to 3:45 PM |
+| [Docker & IntelliJ](#docker-and-intellij--1-hour) | 3:45 PM to 4:45 PM |
+| [Networking--30-minutes) | 4:45 PM to 5:15 PM |
 
 
 
