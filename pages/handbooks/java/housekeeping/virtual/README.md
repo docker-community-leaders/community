@@ -19,3 +19,5 @@
 - [Bevy Chapter Structure](https://help.bevylabs.com/article/459-bevy-chapter-structure)
 - [Add & edit homepage sliders and marketing promos](https://help.bevylabs.com/article/338-add-and-edit-homepage-and-marketing-sliders)
 - [Get to know the analytics dashboard](https://help.bevylabs.com/article/388-get-to-know-the-analytics-dashboard)
+
+[Next >> [Planning an Event Agenda](/housekeeping/plan-an-event-agenda/README.md)
