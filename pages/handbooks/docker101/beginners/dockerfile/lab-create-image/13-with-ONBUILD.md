@@ -1,4 +1,4 @@
-### ONBUILD Making wedding clothes for others
+# Lab #13: Create an image with ONBUILD instruction
 
 Format: `ONBUILD <other instructions>`.
 
@@ -187,7 +187,8 @@ Step 15 : ONBUILD CMD rvm all do bundle exec rails server
 Successfully built 23c388fb84c1
 ```
 
+## Contributor
 
-## Contributor - [Sangam Biradar](https://www.linkedin.com/in/sangambiradar14/)
+[Sangam Biradar](https://www.linkedin.com/in/sangambiradar14/)
 
-Next >> [healthcheck](https://dockerlabs.collabnix.com/beginners/dockerfile/healthcheck.html)
+Next >> [Lab #14: HEALTHCHECK instruction](14-with-HEALTHCHECK.md)

@@ -1,4 +1,4 @@
-# How is ENTRYPOINT instruction under Dockerfile different from RUN instruction?
+# How is ENTRYPOINT different from the RUN instruction?
 
 ## Tested Infrastructure
 
@@ -48,6 +48,6 @@ This clearly state that ENTRYPOINT is meant to provide the executable while CMD 
 
 ## Contributor
 
-- [Ajeet Singh Raina](mailto:ajeetraina@gmail.com)
+[Ajeet Singh Raina](mailto:ajeetraina@gmail.com)
 
-Next >> [Lab #17: USER instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/user.html)
+Next >>[Writing Dockerfile with Hello Python Script Added](../lab_dockerfile_python/README.md)

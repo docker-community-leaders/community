@@ -7,6 +7,4 @@
 
 
 
-[Lab #1: Create an image with GIT installed](/beginners/dockerfile/lab1_dockerfile_git/README.md)<br>
-
-
+[Lab #1: Create an image with GIT installed](../lab-create-image/01-with-git.md)

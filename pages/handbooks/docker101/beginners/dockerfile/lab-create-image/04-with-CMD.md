@@ -1,11 +1,6 @@
----
-layout: default
-title: Beginners Track - Accessing the Container Shell
-description: collabnix | DockerLab | Docker - Beginners Track
----
+# Lab #4: Create an image with CMD instruction
 
-# Accessing the Container Shell
-
+## Pre-requisite:
 
 ## Tested Infrastructure
 
@@ -14,15 +9,12 @@ description: collabnix | DockerLab | Docker - Beginners Track
     <th class="tg-yw4l"><b>Platform</b></th>
     <th class="tg-yw4l"><b>Number of Instance</b></th>
     <th class="tg-yw4l"><b>Reading Time</b></th>
-    
   </tr>
   <tr>
     <td class="tg-yw4l"><b> Play with Docker</b></td>
     <td class="tg-yw4l"><b>1</b></td>
     <td class="tg-yw4l"><b>5 min</b></td>
-    
   </tr>
-  
 </table>
 
 ## Pre-requisite
@@ -31,24 +23,30 @@ description: collabnix | DockerLab | Docker - Beginners Track
 - Open [PWD](https://labs.play-with-docker.com/) Platform on your browser 
 - Click on **Add New Instance** on the left side of the screen to bring up Alpine OS instance on the right side
 
-
-## Create Ubuntu Container
-
-```
-docker run -dit ubuntu 
-```
-
-## Accessing the container shell
+## Creating Dockerfile
 
 ```
-docker exec -t <container-id> bash
+FROM alpine:3.6
+
+RUN apk update
+CMD ["top"]
 ```
 
-## Accesssing the container shell
+## Building Docker Container
 
 ```
-docker attach <container-id>
-
+docker build -t ajeetraina/lab3_cmd . -f Dockerfile_cmd
 ```
 
-[Proceed >> Running a Command inside running Container](http://dockerlabs.collabnix.com/beginners/running-command-inside-running-container.html)
+## Running the Docker container
+
+```
+docker run ajeetraina/lab3_cmd:latest
+```
+
+## Contributor
+
+  - [Ajeet S Raina](https://github.com/ajeetraina)
+  - [Gaurav Gahlot](https://gauravgahlot.in)
+
+[Lab #5: ENTRYPOINT instruction](05-with-ENTRYPOINT.md)

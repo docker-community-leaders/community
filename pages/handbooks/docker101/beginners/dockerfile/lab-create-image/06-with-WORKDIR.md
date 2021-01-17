@@ -1,8 +1,6 @@
-# Lab #6: WORKDIR instruction
-
+# Lab #6: Create an image with WORKDIR instruction
 
 The `WORKDIR` directive in `Dockerfile` defines the working directory for the rest of the instructions in the Dockerfile. The WORKDIR instruction wont create a new layer in the image but will add metadata to the image config. If the WORKDIR doesn’t exist, it will be created even if it’s not used in any subsequent Dockerfile instruction. you can have multiple WORKDIR in same Dockerfile. If a relative path is provided, it will be relative to the previous WORKDIR instruction.
-
 
 ```
 WORKDIR /path/to/workdir
@@ -19,13 +17,11 @@ If no WORKDIR is specified in the Dockerfile then the default path is `/`. The W
     <th class="tg-yw4l"><b>Platform</b></th>
     <th class="tg-yw4l"><b>Number of Instance</b></th>
     <th class="tg-yw4l"><b>Reading Time</b></th>
-    
   </tr>
   <tr>
     <td class="tg-yw4l"><b> Play with Docker</b></td>
     <td class="tg-yw4l"><b>1</b></td>
     <td class="tg-yw4l"><b>5 min</b></td>
-    
   </tr>
   
 </table>
@@ -119,6 +115,7 @@ $ docker run -it workdir:v4 pwd
 ```
 
 ## Contributor
+
 [Savio Mathew](https://www.linkedin.com/in/saviovettoor)
 
-Next >> [Lab #7: RUN instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/Lab%237:RUN_instruction.html)
+Next >> [Lab #7: RUN instruction](07-with-RUN.md)

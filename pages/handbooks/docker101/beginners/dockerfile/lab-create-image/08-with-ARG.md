@@ -9,8 +9,6 @@ The `ARG` directive in `Dockerfile` defines the parameter name and defines its d
 
 The build parameters have the same effect as `ENV`, which is to set the environment variables. The difference is that the environment variables of the build environment set by `ARG` will not exist in the future when the container is running. But don't use `ARG` to save passwords and the like, because `docker history` can still see all the values.
 
-
-
 ## Pre-requisite:
 
 ## Tested Infrastructure
@@ -78,8 +76,9 @@ Welcome Savio, to Docker World!
 ```
 <b>NOTE:</b> ARG is the only one instruction which can come before FROM instruction, but then arg value can be used only by FROM.
 
-## Contributor -
-[Sangam Biradar](https://www.linkedin.com/in/sangambiradar14/)<br>
-[Savio Mathew](https://www.linkedin.com/in/saviovettoor)
+## Contributor
 
-Next >> [Lab #9: ENV instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/Lab_%239:ENV_instruction.html)
+  - [Sangam Biradar](https://www.linkedin.com/in/sangambiradar14/)
+  - [Savio Mathew](https://www.linkedin.com/in/saviovettoor)
+
+Next >> [Lab #9: ENV instruction](09-with-ENV.md)

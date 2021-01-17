@@ -1,4 +1,5 @@
 # Lab #3: Create an image with COPY instruction
+
 The COPY instruction copies files or directories from source and adds them to the filesystem of the container at destinatio.
 
 Two form of COPY instruction
@@ -98,6 +99,7 @@ COPY --from=nginx:latest /etc/nginx/nginx.conf /nginx.conf
 ```
 
 ## Contributor
+
 [Savio Mathew](https://www.linkedin.com/in/saviovettoor)
 
-Next » [Lab #4: CMD instruction](https://dockerlabs.collabnix.com//beginners/dockerfile/lab4_cmd.html)
+Next » [Lab #4: CMD instruction](04-with-CMD.md)

@@ -1,4 +1,4 @@
-# Lab #5 : Create an image with ENTRYPOINT instruction
+# Lab #5: Create an image with ENTRYPOINT instruction
 
 The `ENTRYPOINT` instruction make your container run as an executable. <br>
 ENTRYPOINT can be configured in two forms:
@@ -99,7 +99,9 @@ Hi, your ENTRYPOINT instruction in Shell Form !
 $ docker container run --entrypoint "/bin/echo" entrypoint:v2 "Hello, Welocme to Docker Meetup! "
 Hello, Welocme to Docker Meetup! 
 ```
-## Contributor 
+
+## Contributor
+
 [Savio Mathew](https://www.linkedin.com/in/saviovettoor)
 
-[Lab #6: WORKDIR instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/WORKDIR_instruction.html)
+[Lab #6: WORKDIR instruction](06-with-WORKDIR.md)

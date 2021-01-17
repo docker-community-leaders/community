@@ -1,4 +1,4 @@
-# Lab #10: VOLUME instruction
+# Lab #10: Create an image with VOLUME instruction
 
 ## Pre-requisite:
 
@@ -8,14 +8,12 @@
   <tr>
     <th class="tg-yw4l"><b>Platform</b></th>
     <th class="tg-yw4l"><b>Number of Instance</b></th>
-    <th class="tg-yw4l"><b>Reading Time</b></th>
-    
+    <th class="tg-yw4l"><b>Reading Time</b></th>    
   </tr>
   <tr>
     <td class="tg-yw4l"><b> Play with Docker</b></td>
     <td class="tg-yw4l"><b>1</b></td>
-    <td class="tg-yw4l"><b>5 min</b></td>
-    
+    <td class="tg-yw4l"><b>5 min</b></td>    
   </tr>
   
 </table>
@@ -80,6 +78,7 @@ $ docker container exec -it volume-test ls myvol
 ```
 
 ## Contributor
+
 [Savio Mathew](https://www.linkedin.com/in/saviovettoor)
 
-Next >> [Lab #11: EXPOSE instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/Lab%2311:EXPOSE_instruction.html)
+Next >> [Lab #11: EXPOSE instruction](11-with-EXPOSE.md)

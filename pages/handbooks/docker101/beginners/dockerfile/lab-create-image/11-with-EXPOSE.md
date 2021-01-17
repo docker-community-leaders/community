@@ -1,4 +1,4 @@
-# Lab #11: EXPOSE instruction
+# Lab #11: Create an image with EXPOSE instruction
 
 The `EXPOSE` instruction expose a port, the protocol can be UDP or TCP associated with the indicated port, default is TCP with no specification. The EXPOSE won't be able to map the ports on the host machine. Regardless of the EXPOSE settings, EXPOSE port can be override using <b>-p</b> flag while starting the container.
 
@@ -10,14 +10,12 @@ The `EXPOSE` instruction expose a port, the protocol can be UDP or TCP associate
   <tr>
     <th class="tg-yw4l"><b>Platform</b></th>
     <th class="tg-yw4l"><b>Number of Instance</b></th>
-    <th class="tg-yw4l"><b>Reading Time</b></th>
-    
+    <th class="tg-yw4l"><b>Reading Time</b></th>    
   </tr>
   <tr>
     <td class="tg-yw4l"><b> Play with Docker</b></td>
     <td class="tg-yw4l"><b>1</b></td>
-    <td class="tg-yw4l"><b>5 min</b></td>
-    
+    <td class="tg-yw4l"><b>5 min</b></td>    
   </tr>
   
 </table>
@@ -71,6 +69,7 @@ CONTAINER ID        IMAGE               COMMAND                  CREATED        
 ```
 
 ## Contributor
+
 [Savio Mathew](https://www.linkedin.com/in/saviovettoor)
 
-Next >> [Lab #12: LABEL instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/Label_instruction.html)
+Next >> [Lab #12: LABEL instruction](12-with-LABEL.md)

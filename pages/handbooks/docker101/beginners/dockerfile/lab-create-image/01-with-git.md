@@ -91,10 +91,11 @@ Please press "Enter" key twice so as to enter into container shell
 / # git --version
 git version 2.13.7
 ```
+
 ## Contributor
 
 [Ajeet S Raina](https://github.com/ajeetraina)
 
-[Lab #2: Create an image with ADD instruction](https://dockerlabs.collabnix.com/beginners/dockerfile/Lab-2-Create-an-image-with-ADD-instruction.html)<br>
+[Lab #2: Create an image with ADD instruction](02-with-ADD.md)
 
 

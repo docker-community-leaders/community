@@ -1,4 +1,4 @@
-# Lab 17: USER Instruction under Dockerfile
+# Lab 16: Create an image with USER Instruction
 
 
 The `USER` directive is similar to `WORKDIR`, which changes the state of the environment and affects future layers. `WORKDIR` is to change the working directory, and `USER` is the identity of the commands such as `RUN`, `CMD` and `ENTRYPOINT`.
@@ -54,8 +54,8 @@ CMD [ "exec", "gosu", "redis", "redis-server" ]
 - Click on **Add New Instance** on the left side of the screen to bring up Alpine OS instance on the right side
 
 
-## Contributor - [Sangam Biradar](https://www.linkedin.com/in/sangambiradar14/)
+## Contributor 
 
-Next >>[Writing Dockerfile with Hello Python Script Added](https://dockerlabs.collabnix.com/beginners/dockerfile/lab_dockerfile_python.html)
+[Sangam Biradar](https://www.linkedin.com/in/sangambiradar14/)
 
-
+Next >> [ENTRYPOINT vs RUN](../entrypoint-vs-run/README.md)

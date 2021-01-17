@@ -1,7 +1,10 @@
-
 # Writing Dockerfile with Hello Python Script Added
 
 ## Pre-requisite:
+
+- Create an account with [DockerHub](https://hub.docker.com)
+- Open [PWD](https://labs.play-with-docker.com/) Platform on your browser 
+- Click on **Add New Instance** on the left side of the screen to bring up Alpine OS instance on the right side
 
 ## Tested Infrastructure
 
@@ -9,24 +12,14 @@
   <tr>
     <th class="tg-yw4l"><b>Platform</b></th>
     <th class="tg-yw4l"><b>Number of Instance</b></th>
-    <th class="tg-yw4l"><b>Reading Time</b></th>
-    
+    <th class="tg-yw4l"><b>Reading Time</b></th>    
   </tr>
   <tr>
     <td class="tg-yw4l"><b> Play with Docker</b></td>
     <td class="tg-yw4l"><b>1</b></td>
-    <td class="tg-yw4l"><b>5 min</b></td>
-    
-  </tr>
-  
+    <td class="tg-yw4l"><b>5 min</b></td>    
+  </tr>  
 </table>
-
-## Pre-requisite
-
-- Create an account with [DockerHub](https://hub.docker.com)
-- Open [PWD](https://labs.play-with-docker.com/) Platform on your browser 
-- Click on **Add New Instance** on the left side of the screen to bring up Alpine OS instance on the right side
-
 
 ```
 [node1] (local) root@192.168.0.38 ~
@@ -52,6 +45,7 @@ $ vi Dockerfile
 ```
 
 ## Writing a Dockerfile
+
 #### Setting a Base Image using FROM keyword
 
 ```
@@ -95,6 +89,7 @@ print ("Overriden Hello")
 ```
 
 #### Specifying default execution environment for the container using CMD and ENTRYPOINT
+
 These keywords let us define the default execution environment for a container when it just initiates from an image or just starts.
 If a command is specified with CMD keyword, it is the first command which a container executes as soon as it instantiates from an image. However, command and arguments provided with CMD can be overridden if user specifies his own commands while running the container using 'docker run' command.'
 
@@ -155,7 +150,4 @@ $
 ```
 Here, user specified another file to be run with python (default application for this container). So, the file specified with CMD got overridden and we obtained the output from /home/a.py.
 
-
-
-Next >>[Building a Private Docker Registry](https://dockerlabs.collabnix.com/beginners/build-private-docker-registry.html)
-
+Next >>[Building a Private Docker Registry](../../build-private-docker-registry/README.md)
