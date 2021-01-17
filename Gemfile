@@ -18,6 +18,7 @@ ruby RUBY_VERSION
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", group: :jekyll_plugins
 
+group :jekyll_plugins do
 gem 'jekyll-gist'
 
 # If you have any plugins, put them here!
