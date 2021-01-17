@@ -51,7 +51,7 @@ color: "#2697ed"
 # color: "#8c1515" # primary color for header, buttons
 
 plugins:
-  - jekyll-tabs     
+  - jekyll-gist
 
 # Build settings
 markdown: kramdown
