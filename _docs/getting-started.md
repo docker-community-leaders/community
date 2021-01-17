@@ -96,4 +96,68 @@ This page is intended for people who want to contribute content to this Docker C
   keep authenticating to GitHub. You need to do this again after every reboot.
 
 
+## Using the GitHub web UI
+
+**Note:** The GitHub web UI is suitable for quick updates to a single file. If
+your update is more complex or you need to update more than one file within one
+pull request (PR), then the command line provides a better experience.
+
+Follow these steps to edit a page using the GitHub UI:
+
+1. Sign in to GitHub if you haven't yet done so.
+
+1. Go to the page that you want to edit on the
+  [Docker Community Site](https://docker-community-leaders.github.io/community).
+
+1. Click **Edit this page**.
+
+1. If this is the first time you're updating a file in the Community
+  site repository, a screen opens asking you to *fork* the repository. A
+  fork is a copy of the repository where you can make your updates before
+  submitting them for review. You only have to fork the repository once:
+
+    * Click **Fork this repository**.
+    * If GitHub asks you **Where should we fork the site** and offers your
+      username as an option, click the link on your username.	
+    * Wait a few seconds while GitHub makes a copy of the repository at	
+     `https://github.com/yourusername/website`. This copy is your *fork*	
+     of the `docker-community-leaders/community` repository.
+
+1. The GitHub editor interface opens for the selected page.
+  Make your updates to the content.
+
+1. Click **Preview changes** at the top of the editing area to see the effect of your changes.
+
+1. If you need to make more changes, click **Edit file** at the top of the preview area.
+
+1. When you are ready to submit your changes, scroll down to the 
+  **Propose file change**
+   section at the bottom of the editing area.
+
+      * Enter a short description of your update. This short description becomes the 
+        title of your pull request (PR).
+
+      * In the second text box (for the extended description), enter a more detailed
+        description.
+
+1. Click **Propose file change**. A new screen appears, offering you the 
+  opportunity to open a pull request.
+
+1. Click **Create pull request**. 
+
+1. Optionally, edit the pull request title and description.
+
+1. Make sure **Allow edits from maintainers** remains checked.
+
+1. Click **Create pull request** again. You have now sent a request to the repository
+  maintainers to review your change.
+
+1. Check the online preview of your changes:
+
+      * Wait for the automated PR workflow to do some checks. When it's ready,
+        you should see a comment like this: **deploy/netlify — Deploy preview ready!**
+      * Click **Details** to the right of "Deploy preview ready" to see a preview
+        of your updates.
+
+
 
