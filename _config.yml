@@ -52,6 +52,7 @@ color: "#2697ed"
 
 plugins:
   - jekyll-gist
+  - jekyll-language-plugin
 
 # Build settings
 markdown: kramdown
