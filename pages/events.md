@@ -5,7 +5,7 @@ permalink: /events/
 ---
 
 
-[](https://youtu.be/3UZ0TUPP0ks)
+![](https://www.youtube.com/watch?v=3UZ0TUPP0ks)
 
 method 2 
 
