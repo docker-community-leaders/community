@@ -60,4 +60,4 @@ docker run --rm hello
 
 This example creates the hello-world image used in the tutorials. If you want to test it out, you can clone the image repo.
 
-Next » [Accessing the Container Shell](http://dockerlabs.collabnix.com/beginners/accessing-the-container.html)
+Next » [Accessing the Container Shell](../accessing-the-container/README.md)
