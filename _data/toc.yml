@@ -2,12 +2,12 @@
   url: docs
   links:
     - title: "Getting Started"
-      url: "docs/getting-started.md"
+      url: "docs/getting-started.html"
       children:	
         - title: Using CLI	
-          url: "docs/getting-started.md#using-the-command-line"	
+          url: "docs/getting-started.html#using-the-command-line"	
         - title: Using GitHub Desktop	
-          url: "docs/getting-started.md#using-the-github-web-ui"
+          url: "docs/getting-started.html#using-the-github-web-ui"
       
    
     
