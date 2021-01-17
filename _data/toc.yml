@@ -1,13 +1,8 @@
 - title: Documentation
-  url: _docs
+  url: docs
   links:
     - title: "Getting Started"
-      url: "_docs/getting-started.md#how-to-contribute-to-docker-community-site"
-      children:
-        - title: Using CLI
-          url: "_docs/getting-started.md#using-the-command-line"
-        - title: Using GitHub Desktop
-          url: "_docs/getting-started.md#using-the-github-web-ui"
-  
+      url: "docs/getting-started.md"
+      
    
     
