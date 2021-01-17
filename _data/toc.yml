@@ -4,17 +4,10 @@
     - title: "Getting Started"
       url: "docs/getting-started"
       children:
-        - title: Features
-          url: "docs/getting-started#contributors-guide"
-        - title: Development
-          url: "docs/getting-started#code-of-conduct"
-        - title: Customization
-          url: "docs/getting-started#cheatsheet"
-    - title: "Community Leaders"
-      url: "docs/leaders"
-      children:
-        - title: Profile
-          url: "docs/leaders/profiles"
-        - title: Tags Page
-          url: "tags"
+        - title: Using CLI
+          url: "getting-started.md#using-the-command-line"
+        - title: Using GitHub Desktop
+          url: "docs/getting-started.md#using-the-github-web-ui"
+  
+   
     
