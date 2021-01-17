@@ -6,7 +6,7 @@
       children:	
         - title: Using CLI	
           url: "docs/getting-started.html#using-the-command-line"	
-        - title: Using GitHub Desktop	
+        - title: Using GitHub Web UI
           url: "docs/getting-started.html#using-the-github-web-ui"
       
    
