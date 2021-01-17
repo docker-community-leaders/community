@@ -120,7 +120,7 @@ Follow these steps to edit a page using the GitHub UI:
     * If GitHub asks you **Where should we fork the site** and offers your
       username as an option, click the link on your username.	
     * Wait a few seconds while GitHub makes a copy of the repository at	
-     `https://github.com/yourusername/website`. This copy is your *fork*	
+     `https://github.com/yourusername/community`. This copy is your *fork*	
      of the `docker-community-leaders/community` repository.
 
 1. The GitHub editor interface opens for the selected page.
