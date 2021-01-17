@@ -5,7 +5,7 @@
       url: "docs/getting-started"
       children:
         - title: Using CLI
-          url: "getting-started.md#using-the-command-line"
+          url: "docs/getting-started.md#using-the-command-line"
         - title: Using GitHub Desktop
           url: "docs/getting-started.md#using-the-github-web-ui"
   
