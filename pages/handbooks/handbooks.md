@@ -1,6 +1,6 @@
 ---
 title: HandBooks 
-permalink: pages/handbooks/
+permalink: /pages/handbooks/
 ---
 
 # List of Handbooks for Community Leaders
