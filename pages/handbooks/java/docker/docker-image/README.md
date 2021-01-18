@@ -28,16 +28,15 @@ Create a new directory `hellodocker`.
 
 In that directory, create a new text file `Dockerfile`. Use the following contents:
 
-[source, text]
-----
+```
 FROM ubuntu:latest
 
 CMD ["/bin/echo", "hello world"]
-----
+```
 
 This image uses `ubuntu` as the base image. `CMD` command defines the command that needs to run. It provides a different entry point of `/bin/echo` and gives the argument "`hello world`".
 
-Build the image using the command:
+## Build the image using the command:
 
 ```
   docker image build . -t helloworld
@@ -67,7 +66,7 @@ Successfully built e61f88f3a0f7
 Successfully tagged helloworld:latest
 ```
 
-List the images available using `docker image ls`:
+## List the images available using `docker image ls`:
 
 ```
 REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
@@ -114,27 +113,27 @@ busybox             latest              54511612f1c4        9 days ago          
 
 ### Create a simple Java application
 
-[NOTE]
-====
-If you are running OpenJDK 9, `mvn package` may fail with
-[source, text]
-----
+Please Note: If you are running OpenJDK 9, `mvn package` may fail with
+
+```
 [ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.1:compile (default-compile) on project helloworld: Compilation failure: Compilation failure:
 [ERROR] Source option 1.5 is no longer supported. Use 1.6 or later.
 [ERROR] Target option 1.5 is no longer supported. Use 1.6 or later.
-----
+```
+
 because support for Java 5 http://openjdk.java.net/jeps/182[was dropped in JDK9].
 
 You can add
-[source, xml]
-----
+
+```
   <properties>
     <maven.compiler.source>1.6</maven.compiler.source>
     <maven.compiler.target>1.6</maven.compiler.target>
   </properties>
-----
+```
+
 to the generated `pom.xml` to target 1.6 instead. See also the link:chapters/ch03-build-image-java-9.adoc[Build a Docker Image for Java 9] chapter.
-====
+
 
 ## Create a new Java project:
 
