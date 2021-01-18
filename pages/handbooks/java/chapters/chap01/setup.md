@@ -58,9 +58,9 @@ Install them only if you plan to attempt them.
 
 - Install [git](https://git-scm.com/)
 - Download and install Java IDE of your choice:
-   - [NetBeans 8.2 `Java SE` version](https://netbeans.org/downloads/)
-   - [IntelliJ IDEA Community or Ultimate](https://www.jetbrains.com/idea/download/)
-   - [Eclipse IDE for Java EE Developers](https://www.eclipse.org/downloads/eclipse-packages/)
-- Download and install [Maven] (https://maven.apache.org/download.cgi)
-- Download the OpenJDK build of [JDK 9 for Linux x64](https://download.java.net/java/GA/jdk9/9/binaries/openjdk-9_linux-x64_bin.tar.gz)
-- Download the early-access Open JDK build of [JDK 9 for Alpine Linux](https://jdk.java.net/9/)
+   - [NetBeans 12.2 `Java SE` version](https://netbeans.apache.org/download/index.html)
+   - [IntelliJ IDEA Community or Ultimate](https://www.jetbrains.com/idea/download/#section=mac)
+   - [Eclipse IDE for Java EE Developers](https://www.eclipse.org/downloads/packages/)
+- Download and install [Apache Maven 3.6.3] (https://maven.apache.org/download.cgi)
+- Download the OpenJDK build of [JDK 15 for Linux x64](https://download.java.net/java/GA/jdk15.0.1/51f4f36ad4ef43e39d0dfdbaf6549e32/9/GPL/openjdk-15.0.1_linux-x64_bin.tar.gz)
+- Download the early-access Open JDK build of [JDK 15 for Linux](https://download.java.net/java/early_access/jdk17/5/GPL/openjdk-17-ea+5_linux-x64_bin.tar.gz)
