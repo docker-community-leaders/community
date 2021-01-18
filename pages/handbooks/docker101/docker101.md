@@ -80,8 +80,8 @@ S.No. | Name of Objectives | Status |
 
 ### Getting Started with Dockerfile - 3 hours
 
-- [What is a Dockerfile?](/beginners/dockerfile/what-is-dockerfile/)
-- [Understanding Layering Concept with Dockerfile](/beginners/dockerfile/layering-dockerfile/)
+- [What is a Dockerfile?](/beginners/dockerfile/what-is-dockerfile/README.md)
+- [Understanding Layering Concept with Dockerfile](/beginners/dockerfile/layering-dockerfile/README.md)
 - Creating Docker Image with
    - [Installing GIT](/beginners/dockerfile/lab-create-image/01-with-git.md)
    - [ADD instruction](/beginners/dockerfile/lab-create-image/02-with-ADD.md)
