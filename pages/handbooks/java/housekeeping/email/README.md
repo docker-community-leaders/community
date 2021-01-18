@@ -12,7 +12,7 @@ Once the user register for the event, Community Leaders need to ensure that the 
 - The email should carry workshop title and date of the workshop
 - Gentle reminder as the date of workshop come closer
 
-## Sample Confirmation email for the workshop
+## Sample Emails Format
 
 #### Example #1
 
