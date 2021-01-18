@@ -135,8 +135,7 @@ m0m44axt35cg        webapp_web          replicated          1/1                 
 
 More details about the service can be obtained using `docker service inspect webapp_web`:
 
-[source, yml]
-----
+```
 [
     {
         "ID": "m0m44axt35cgjetcjwzls7u9r",
@@ -271,7 +270,7 @@ More details about the service can be obtained using `docker service inspect web
         }
     }
 ]
-----
+```
 
 Logs for the service can be seen using `docker service logs -f webapp_web`:
 
@@ -290,7 +289,7 @@ webapp_web.1.lf3y5k7pkpt9@moby    | 2017-10-07 00:17:57,094 INFO  [org.jboss.as.
 
 Make sure to wait for the last log statement to show.
 
-== Access application
+## Access application
 
 Now that the WildFly and MySQL servers have been configured, let's access the application. You need to specify IP address of the host where WildFly is running (`localhost` in our case).
 
@@ -322,7 +321,7 @@ The output is shown as:
 
 This shows all employees stored in the database.
 
-== Stop application
+## Stop application
 
 If you only want to stop the application temporarily while keeping any networks that were created as part of this application, the recommended way is to set the amount of service replicas to 0.
 
