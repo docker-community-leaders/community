@@ -72,4 +72,4 @@ CONTAINER ID        IMAGE               COMMAND                  CREATED        
 
 [Savio Mathew](https://www.linkedin.com/in/saviovettoor)
 
-Next >> [Lab #12: LABEL instruction](12-with-LABEL.md)
+Next >> [Create an image with LABEL instruction](12-with-LABEL.md)

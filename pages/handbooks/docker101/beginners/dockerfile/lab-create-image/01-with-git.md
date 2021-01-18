@@ -96,6 +96,4 @@ git version 2.13.7
 
 [Ajeet S Raina](https://github.com/ajeetraina)
 
-[Lab #2: Create an image with ADD instruction](02-with-ADD.md)
-
-
+Next >> [Create an image with ADD instruction](02-with-ADD.md)

@@ -120,4 +120,4 @@ healthy
   - [Sangam Biradar](https://www.linkedin.com/in/sangambiradar14/)
   - [Balasundaram](mailto:balasundarammaster@gmail.com)
 
-Next >> [Lab #15: SHELL instruction](15-with-SHELL.md)
+Next >> [Create an image with SHELL instruction](15-with-SHELL.md)

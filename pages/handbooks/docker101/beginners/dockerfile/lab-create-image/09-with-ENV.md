@@ -63,4 +63,4 @@ Welcome to Docker Workshop
 
 [Savio Mathew](https://www.linkedin.com/in/saviovettoor)
 
-[Lab #10: VOLUME instruction](10-with-VOLUME.md)
+Next >> [Create an image with VOLUME instruction](10-with-VOLUME.md)

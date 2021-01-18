@@ -89,28 +89,28 @@ S.No. | Name of Objectives | Status |
 
 ### Getting Started with Dockerfile - 3 hours
 
-- [What is Dockerfile](/beginners/dockerfile/Writing-dockerfile/README.md)<br>
-- [Understanding Layering Concept with Dockerfile](/beginners/dockerfile/Layering-Dockerfile/README.md)
+- [What is a Dockerfile?](/beginners/dockerfile/what-is-dockerfile/)
+- [Understanding Layering Concept with Dockerfile](/beginners/dockerfile/layering-dockerfile/)
 - Creating Docker Image with
-   - [Lab #1: Installing GIT](/beginners/dockerfile/lab1_dockerfile_git/README.md)<br>
-   - [Lab #2: ADD instruction](/beginners/dockerfile/Lab-2-Create-an-image-with-ADD-instruction/README.md)<br>
-   - [Lab #3: COPY instruction](/beginners/dockerfile/lab4_dockerfile_copy/README.md)<br>
-   - [Lab #4: CMD instruction](/beginners/dockerfile/lab4_cmd/README.md)<br>
-   - [Lab #5: ENTRYPOINT instruction](/beginners/dockerfile/Dockerfile-ENTRYPOINT/README.md)<br>
-   - [Lab #6: WORKDIR instruction](/beginners/dockerfile/WORKDIR_instruction/README.md)<br>
-   - [Lab #7: RUN instruction](/beginners/dockerfile/Lab-7-Create-an-image-with-EXPOSE-instruction/README.md)<br>
-   - [Lab #8: ARG instruction](/beginners/dockerfile/arg/README.md)<br>
-   - [Lab #9: ENV instruction](/beginners/dockerfile/Lab_ENV_instruction/README.md)<br>
-   - [Lab #10: VOLUME instruction](/beginners/dockerfile/Lab_VOLUME_instruction/README.md)<br>
-   - [Lab #11: EXPOSE instruction](/beginners/dockerfile/Lab_EXPOSE_instruction/README.md)<br>
-   - [Lab #12: LABEL instruction](/beginners/dockerfile/Label_instruction/README.md)<br>
-   - [Lab #13: ONBUILD instruction](/beginners/dockerfile/onbuild/README.md)<br>
-   - [Lab #14: HEALTHCHECK instruction](/beginners/dockerfile/healthcheck/README.md)<br>
-   - [Lab #15: SHELL instruction](/beginners/dockerfile/Lab-14-Create-an-image-with-SHELL-instruction/README.md)<br>
-   - [Lab #16: Entrypoint Vs RUN](/beginners/dockerfile/entrypoint-vs-run/README.md)<br>
-   - [Lab #17: USER instruction](/beginners/dockerfile/user/README.md)
-- [Writing Dockerfile with Hello Python Script Added](/beginners/dockerfile/lab_dockerfile_python/README.md)<br>
-- [Test Your Knowledge](/beginners/dockerfile/quiz3/README.md)
+   - [Installing GIT](/beginners/dockerfile/lab-create-image/01-with-git.md)
+   - [ADD instruction](/beginners/dockerfile/lab-create-image/02-with-ADD.md)
+   - [COPY instruction](/beginners/dockerfile/lab-create-image/03-with-COPY.md)
+   - [CMD instruction](/beginners/dockerfile/lab-create-image/04-with-CMD.md)
+   - [ENTRYPOINT instruction](/beginners/dockerfile/lab-create-image/05-with-ENTRYPOINT.md)
+   - [WORKDIR instruction](/beginners/dockerfile/lab-create-image/06-with-WORKDIR.md)
+   - [RUN instruction](/beginners/dockerfile/lab-create-image/07-with-EXPOSE.md)
+   - [ARG instruction](/beginners/dockerfile/lab-create-image/08-with-ARG.md)
+   - [ENV instruction](/beginners/dockerfile/lab-create-image/09-with-ENV.md)
+   - [VOLUME instruction](/beginners/dockerfile/lab-create-image/10-with-VOLUME.md)
+   - [EXPOSE instruction](/beginners/dockerfile/lab-create-image/11-with-EXPOSE.md)
+   - [LABEL instruction](/beginners/dockerfile/lab-create-image/12-with-LABEL.md)
+   - [ONBUILD instruction](/beginners/dockerfile/lab-create-image/13-with-ONBUILD.md)
+   - [HEALTHCHECK instruction](/beginners/dockerfile/lab-create-image/14-with-HEALTHCHECK.md)
+   - [SHELL instruction](/beginners/dockerfile/lab-create-image/15-with-SHELL.md)
+   - [USER instruction](/beginners/dockerfile/lab-create-image/16-with-USER.md)
+- [ENTRYPOINT vs RUN](/beginners/dockerfile/entrypoint-vs-run/)
+- [Writing Dockerfile with Hello Python Script Added](/beginners/dockerfile/lab_dockerfile_python/)
+- [Test Your Knowledge](/beginners/dockerfile/quiz3/)
 
 ### Creating Private Docker Registry - 30 min
 

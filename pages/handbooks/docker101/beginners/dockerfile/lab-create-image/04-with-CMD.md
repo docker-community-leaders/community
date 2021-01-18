@@ -49,4 +49,4 @@ docker run ajeetraina/lab3_cmd:latest
   - [Ajeet S Raina](https://github.com/ajeetraina)
   - [Gaurav Gahlot](https://gauravgahlot.in)
 
-[Lab #5: ENTRYPOINT instruction](05-with-ENTRYPOINT.md)
+Next >> [Create an image with ENTRYPOINT instruction](05-with-ENTRYPOINT.md)

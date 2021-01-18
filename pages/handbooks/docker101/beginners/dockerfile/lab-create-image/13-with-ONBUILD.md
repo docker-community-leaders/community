@@ -191,4 +191,4 @@ Successfully built 23c388fb84c1
 
 [Sangam Biradar](https://www.linkedin.com/in/sangambiradar14/)
 
-Next >> [Lab #14: HEALTHCHECK instruction](14-with-HEALTHCHECK.md)
+Next >> [Create an image with HEALTHCHECK instruction](14-with-HEALTHCHECK.md)

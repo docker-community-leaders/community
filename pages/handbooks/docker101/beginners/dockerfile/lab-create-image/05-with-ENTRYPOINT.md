@@ -104,4 +104,4 @@ Hello, Welocme to Docker Meetup!
 
 [Savio Mathew](https://www.linkedin.com/in/saviovettoor)
 
-[Lab #6: WORKDIR instruction](06-with-WORKDIR.md)
+Next >> [Create an image with WORKDIR instruction](06-with-WORKDIR.md)

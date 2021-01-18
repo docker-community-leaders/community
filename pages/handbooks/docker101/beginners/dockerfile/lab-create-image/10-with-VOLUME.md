@@ -81,4 +81,4 @@ $ docker container exec -it volume-test ls myvol
 
 [Savio Mathew](https://www.linkedin.com/in/saviovettoor)
 
-Next >> [Lab #11: EXPOSE instruction](11-with-EXPOSE.md)
+Next >> [Create an image with EXPOSE instruction](11-with-EXPOSE.md)

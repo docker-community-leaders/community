@@ -58,4 +58,4 @@ CMD [ "exec", "gosu", "redis", "redis-server" ]
 
 [Sangam Biradar](https://www.linkedin.com/in/sangambiradar14/)
 
-Next >> [ENTRYPOINT vs RUN](../entrypoint-vs-run/README.md)
+Next >> [ENTRYPOINT vs RUN](../entrypoint-vs-run/)

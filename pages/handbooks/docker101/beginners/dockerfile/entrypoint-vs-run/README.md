@@ -50,4 +50,4 @@ This clearly state that ENTRYPOINT is meant to provide the executable while CMD 
 
 [Ajeet Singh Raina](mailto:ajeetraina@gmail.com)
 
-Next >>[Writing Dockerfile with Hello Python Script Added](../lab_dockerfile_python/README.md)
+Next >> [Writing Dockerfile with Hello Python Script Added](../lab_dockerfile_python/)

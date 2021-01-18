@@ -5,6 +5,4 @@
 - Execution of these instructions takes place on a base image. 
 - On building the Dockerfile, the successive actions form a new image from the base parent image.
 
-
-
-[Lab #1: Create an image with GIT installed](../lab-create-image/01-with-git.md)
+[Next: Understanding Layering Concept with Dockerfile](../layering-dockerfile/)

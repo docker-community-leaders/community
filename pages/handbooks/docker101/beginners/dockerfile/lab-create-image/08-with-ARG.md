@@ -81,4 +81,4 @@ Welcome Savio, to Docker World!
   - [Sangam Biradar](https://www.linkedin.com/in/sangambiradar14/)
   - [Savio Mathew](https://www.linkedin.com/in/saviovettoor)
 
-Next >> [Lab #9: ENV instruction](09-with-ENV.md)
+Next >> [Create an image with ENV instruction](09-with-ENV.md)

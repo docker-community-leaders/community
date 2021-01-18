@@ -105,4 +105,4 @@ its now 7.08MB
 
 [Savio Mathew](https://www.linkedin.com/in/saviovettoor)
 
-Next » [Lab #8: ARG instruction](08-with-ARG.md)
+Next >> [Create an image with ARG instruction](08-with-ARG.md)

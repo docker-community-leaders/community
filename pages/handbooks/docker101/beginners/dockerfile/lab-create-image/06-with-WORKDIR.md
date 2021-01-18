@@ -118,4 +118,4 @@ $ docker run -it workdir:v4 pwd
 
 [Savio Mathew](https://www.linkedin.com/in/saviovettoor)
 
-Next >> [Lab #7: RUN instruction](07-with-RUN.md)
+Next >> [Create an image with RUN instruction](07-with-RUN.md)
