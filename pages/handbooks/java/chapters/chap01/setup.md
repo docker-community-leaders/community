@@ -56,11 +56,21 @@ So prefix all commands with `sudo`.
 The software in this section is specific to certain parts of the workshop.
 Install them only if you plan to attempt them.
 
-- Install [git](https://git-scm.com/)
+S.No. | Name of Software | Link to Follow | 
+:------------ | :-------------| :-------------|
+1 | Git|  [Link](https://git-scm.com) |
+
+
 - Download and install Java IDE of your choice:
-   - [NetBeans 12.2 `Java SE` version](https://netbeans.apache.org/download/index.html)
-   - [IntelliJ IDEA Community or Ultimate](https://www.jetbrains.com/idea/download/#section=mac)
-   - [Eclipse IDE for Java EE Developers](https://www.eclipse.org/downloads/packages/)
-- Download and install [Apache Maven 3.6.3] (https://maven.apache.org/download.cgi)
-- Download the OpenJDK build of [JDK 15 for Linux x64](https://download.java.net/java/GA/jdk15.0.1/51f4f36ad4ef43e39d0dfdbaf6549e32/9/GPL/openjdk-15.0.1_linux-x64_bin.tar.gz)
-- Download the early-access Open JDK build of [JDK 15 for Linux](https://download.java.net/java/early_access/jdk17/5/GPL/openjdk-17-ea+5_linux-x64_bin.tar.gz)
+
+S.No. | Name of Software | Link to Follow | 
+:------------ | :-------------| :-------------|
+1 |  NetBeans 12.2 `Java SE` version | [Link](https://netbeans.apache.org/download/index.html)  |
+2 |  IntelliJ IDEA Community or Ultimate | [Link](https://www.jetbrains.com/idea/download/#section=mac)  |
+3 |  Eclipse IDE for Java EE Developers | [Link](https://www.eclipse.org/downloads/packages/)  |
+4 |  Apache Maven 3.6.3 | [Link](https://maven.apache.org/download.cgi)  |
+5 |  JDK 15 for Linux x64 | [Link](https://download.java.net/java/GA/jdk15.0.1/51f4f36ad4ef43e39d0dfdbaf6549e32/9/GPL/openjdk-15.0.1_linux-x64_bin.tar.gz)  |
+
+
+
+
