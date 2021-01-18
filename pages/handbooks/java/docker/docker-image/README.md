@@ -216,18 +216,18 @@ This shows the exactly same output that was printed when the Java class was invo
 
 ## Package and run Java Application using Docker Maven Plugin
 
+[Docker Maven Plugin](https://github.com/fabric8io/docker-maven-plugin) allows you to manage Docker images and containers using Maven. It comes with predefined goals:
 
-https://github.com/fabric8io/docker-maven-plugin[Docker Maven Plugin] allows you to manage Docker images and containers using Maven. It comes with predefined goals:
+| S. No | Goal | Description |
+:------------ | :-------------| :-------------|
+| 1| `docker:build` | Build images | 
+| 2 |`docker:start` | Create and start containers| 
+| 3 |`docker:stop` | Stop and destroy containers| 
+| 4 |`docker:push` | Push images to a registry| 
+| 5 |`docker:remove` | Remove images from local docker host| 
+| 6 | `docker:logs` | Show container logs | 
+|==================
 
-| Goal | Description | 
-:------------ | :-------------| 
-
-| `docker:build` | Build images
-| `docker:start` | Create and start containers
-| `docker:stop` | Stop and destroy containers
-| `docker:push` | Push images to a registry
-| `docker:remove` | Remove images from local docker host
-| `docker:logs` | Show container logs 
 
 
 
