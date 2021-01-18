@@ -56,8 +56,4 @@ To view an image’s labels, use the `docker inspect` command.
 },
 ```
 
-## Contributor
-
-[Gaurav Gahlot](https://gauravgahlot.in)
-
 Next >> [Create an image with ONBUILD instruction](13-with-ONBUILD.md) 

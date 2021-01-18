@@ -76,9 +76,5 @@ Welcome Savio, to Docker World!
 ```
 <b>NOTE:</b> ARG is the only one instruction which can come before FROM instruction, but then arg value can be used only by FROM.
 
-## Contributor
-
-  - [Sangam Biradar](https://www.linkedin.com/in/sangambiradar14/)
-  - [Savio Mathew](https://www.linkedin.com/in/saviovettoor)
 
 Next >> [Create an image with ENV instruction](09-with-ENV.md)

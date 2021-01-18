@@ -113,7 +113,3 @@ docker rmi $(docker images -q)
 docker volume rm $(docker volume ls -q)
 ```
  
-
-## Contributor -
-
-Sangam biradar -https://engineitops.github.io

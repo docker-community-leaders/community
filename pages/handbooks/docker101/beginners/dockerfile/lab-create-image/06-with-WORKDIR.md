@@ -114,8 +114,4 @@ $ docker build -t workdir:v4 .
 $ docker run -it workdir:v4 pwd
 ```
 
-## Contributor
-
-[Savio Mathew](https://www.linkedin.com/in/saviovettoor)
-
 Next >> [Create an image with RUN instruction](07-with-RUN.md)

@@ -181,9 +181,5 @@ Count   Total Space  Path                                                       
                                                                                         -rwxr-xr-x         0:0     102 kB  │   ├── gzip
  ```
 
-## Contributor
-
-[Prashansa Kulshrestha](https://github.com/Prashansa-K/)<br>
-[Ajeet S Raina](https://github.com/ajeetraina)
 
 Next >> [Create an image with GIT installed](../lab-create-image/01-with-git.md)

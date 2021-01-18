@@ -285,6 +285,3 @@ IMAGE         CREATED            CREATED BY                     SIZE
   * doesn't create an extra process
   * doesn't require `/bin/sh` to exist in the container
   
-  ## Contributor - 
-
-  Sangam biradar - smbiradar14@gmail.com -www.codexplus.in 

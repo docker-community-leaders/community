@@ -77,8 +77,4 @@ $ touch /var/lib/docker/volumes/ed09456a448934218f03acbdaa31f465ebbb92e0d45e8284
 $ docker container exec -it volume-test ls myvol
 ```
 
-## Contributor
-
-[Savio Mathew](https://www.linkedin.com/in/saviovettoor)
-
 Next >> [Create an image with EXPOSE instruction](11-with-EXPOSE.md)

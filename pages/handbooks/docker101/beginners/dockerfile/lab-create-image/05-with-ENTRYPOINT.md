@@ -100,8 +100,4 @@ $ docker container run --entrypoint "/bin/echo" entrypoint:v2 "Hello, Welocme to
 Hello, Welocme to Docker Meetup! 
 ```
 
-## Contributor
-
-[Savio Mathew](https://www.linkedin.com/in/saviovettoor)
-
 Next >> [Create an image with WORKDIR instruction](06-with-WORKDIR.md)

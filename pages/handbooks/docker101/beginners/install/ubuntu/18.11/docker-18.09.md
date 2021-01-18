@@ -75,6 +75,3 @@ Server: Docker Engine - Community
   Experimental:     false
   ```
   
-  ## Contributor
-  
-  [Ajeet S Raina](ajetraina@gmail.com)

@@ -115,9 +115,5 @@ sleep 5; docker inspect --format='{{.State.Health.Status}}' nginx-proxy
 healthy
 ```
 
-## Contributors
-
-  - [Sangam Biradar](https://www.linkedin.com/in/sangambiradar14/)
-  - [Balasundaram](mailto:balasundarammaster@gmail.com)
 
 Next >> [Create an image with SHELL instruction](15-with-SHELL.md)

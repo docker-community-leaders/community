@@ -59,8 +59,4 @@ $ docker container run --env WELCOME_MESSAGE="Welcome to Docker Workshop" env:v1
 Welcome to Docker Workshop
 ```
 
-## Contributor
-
-[Savio Mathew](https://www.linkedin.com/in/saviovettoor)
-
 Next >> [Create an image with VOLUME instruction](10-with-VOLUME.md)
