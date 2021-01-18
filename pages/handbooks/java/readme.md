@@ -1,6 +1,6 @@
 ---
 title: Dockerizing your application for Java 
-permalink: /handbooks/java/
+permalink: pages/handbooks/java/
 ---
 
 ## What is this handbook for?
