@@ -4,7 +4,7 @@ permalink: /handbooks/java/chapters/chap01/
 ---
 
 
-## Setup Environments
+## Setup Docker Environments
 
 This section describes the hardware and software needed for this workshop, and how to configure them.
 This workshop is designed for a BYOL (Bring Your Own Laptop) style hands-on-lab.
@@ -23,9 +23,12 @@ The installation instructions would differ slightly in that case and are explain
 
 Docker runs natively on Mac, Windows and Linux.
 
-- If you're using Mac, go to this [link](https://www.docker.com/products/docker-desktop) and choose "Download for Mac" option
-- If you're using Windows, go to this [link](https://www.docker.com/products/docker-desktop) and choose "Download for Windows" option
-- If you're using Linux, select "View Linux Engine" to go this [link](https://hub.docker.com/search?q=&type=edition&offering=community&operating_system=linux) to download it for your preferred OS distro.
+
+S.No. | OS Environment | Link to Follow | 
+:------------ | :-------------| :-------------|
+1 | MacOS |  [Link](https://www.docker.com/products/docker-desktop)  |
+2 | Windows |  [Link](https://www.docker.com/products/docker-desktop)  |
+3 | Linux |  [Link](https://hub.docker.com/search?q=&type=edition&offering=community&operating_system=linux)  |
 
 Most of the labs tutorials have been tested on Docker Desktop for Mac.
 
