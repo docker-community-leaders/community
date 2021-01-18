@@ -67,19 +67,19 @@ S.No. | Name of Objectives | Status |
 ### [Setting up Infrastructure](#setting-up-infrastructure) - 30 min
 
 - [Setup a Docker Environment](/chapters/chap01/setup.md)
-- [Test Your Knowledge](infra/quiz1/README.md)
+
 
 
 ### [Basics of Docker](#basics-of-docker) - 30 min
 - [Main Components of Docker System](/docker/components/README.md)
-- [Test Your Knowledge](/docker/infra/quiz2/README.md)
+
 
 
 ### [Building and Running a Docker Container](#building-and-running-a-docker-container) - 1 hour
  - [Build a Docker Image](/docker/docker-image/README.md)
  - [Running a Docker Container](/docker/docker-run-container/README.md)
  - [Running a JAVA 11 Docker Container](/docker/docker-image-java/README.md)
- - [Test Your Knowledge](/docker/quiz3/README.md)
+
 
 
 ### [Multi-Container Application using Docker Compose](#multi-container-application-using-docker-compose) - 1 hour
@@ -88,7 +88,6 @@ S.No. | Name of Objectives | Status |
 - [Start application](/compose/what-is-docker-compose/README.md#start-application)
 - [Verify application](/compose/what-is-docker-compose/README.md#verify-application)
 - [Shutdown application](/compose/what-is-docker-compose/README.md#shutdown-application)
-- [Test Your Knowledge](/compose/quiz4/README.md)
 
 ### [Deploy Application using Docker Swarm Mode](#deploy-application-using-docker-swarm-mode) - 1 hour
 - [Initialize Swarm](/swarm/initialize-swarm/README.md)
@@ -97,7 +96,7 @@ S.No. | Name of Objectives | Status |
 - [Access application](/swarm/access/README.md)
 - [Stop application](/swarm/stop-/README.md)
 - [Remove application completely](/swarm/remove/README.md)
-- [Test Your Knowledge](/swarm/quiz5/README.md)
+
 
 
 ### [Docker & Netbeans](#docker-and-netbeans)- 1 hour
@@ -105,7 +104,7 @@ S.No. | Name of Objectives | Status |
 - [Pull an Image](/netbeans/pull/README.md)
 - [Run a Container](/netbeans/run/README.md)
 - [Build an Image](/netbeans/build/README.md)
- -[Test Your Knowledge](/netbeans/quiz6/README.md)
+ 
 
 
 ### [Docker and IntelliJ IDEA](docker-and-intelliJ) - 1 hour
@@ -113,7 +112,7 @@ S.No. | Name of Objectives | Status |
 - [Pull an Image](/intellij/pull/README.md)
 - [Run a Container](/intellij/run/README.md)
 - [Build an Image](/intellij/build/README.md)
-- [Test Your Knowledge](/intellij/quiz7/README.md)
+
 
 ### [Docker & Eclipse](#docker-and-eclipse) - 1 hour
 - [Install Docker Tooling in Eclipse](/eclipse/install/README.md)
@@ -121,7 +120,7 @@ S.No. | Name of Objectives | Status |
 - [Pull an Image](/eclipse/pull/README.md)
 - [Run a Container](/eclipse/run/README.md)
 - [Build an Image](/eclipse/build/README.md)
-- [Test Your Knowledge](/eclipse/quiz8/README.md)
+
 
 
 
