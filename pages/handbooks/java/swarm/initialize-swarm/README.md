@@ -1,9 +1,7 @@
-:toc:
 
-:imagesdir: images
 
-[[Swarm_Mode]]
-= Deploy application using Swarm mode
+
+# Deploy application using Swarm mode
 
 Docker Engine includes swarm mode for natively managing a cluster of Docker Engines. The Docker CLI can be used to create a swarm, deploy application services to a swarm, and manage swarm behavior. Complete details are available at: https://docs.docker.com/engine/swarm/. It's important to understand the https://docs.docker.com/engine/swarm/key-concepts/[Swarm mode key concepts] before starting with this chapter.
 
@@ -11,7 +9,7 @@ Swarm is typically a cluster of multiple Docker Engines. But for simplicity we'l
 
 This section will deploy an application that will provide a CRUD/REST interface on a data bucket in https://www.mysql.com/[MySQL]. This is achieved by using a Java EE application deployed on http://wildfly.org[WildFly] to access the database.
 
-== Initialize Swarm
+## Initialize Swarm
 
 Initialize Swarm mode using the following command:
 
