@@ -66,10 +66,7 @@ S.No. | Name of Objectives | Status |
 
 ### [Setting up Infrastructure](#setting-up-infrastructure) - 30 min
 
-- [Hardware & Software](/infra/hardware/README.md)
-- [Installing Docker](/infra/installing-docker/README.md)
-- [Downloading the required Docker Images](/infra/downloading-docker-images/README.md)
-- [Installing Other Software](/infra/installing-other-software/README.md)
+- [Setup a Docker Environment](/chapters/chap01/setup.md)
 - [Test Your Knowledge](infra/quiz1/README.md)
 
 
