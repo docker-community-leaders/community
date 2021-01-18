@@ -1,4 +1,4 @@
-# Build a Docker Image with JDK 12
+# Build a Docker Image with JDK 9
 
 This chapter explains how to create a Docker image with JDK 9.
 
