@@ -342,15 +342,15 @@ Default entry point for a container is `/bin/sh`, the default shell.
 
 Running a container as `docker container run -it ubuntu` uses that command and starts the default shell. The output is shown as:
 
-```console
-> docker container run -it ubuntu
+```
+docker container run -it ubuntu
 root@88976ddee107:/#
 ```
 
 `ENTRYPOINT` allows to override the entry point to some other command, and even customize it. For example, a container can be started as:
 
-```console
-> docker container run -it --entrypoint=/bin/cat ubuntu /etc/passwd
+```
+docker container run -it --entrypoint=/bin/cat ubuntu /etc/passwd
 root:x:0:0:root:/root:/bin/bash
 daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
 bin:x:2:2:bin:/bin:/usr/sbin/nologin
