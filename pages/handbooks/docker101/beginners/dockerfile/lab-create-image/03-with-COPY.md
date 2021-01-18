@@ -98,8 +98,5 @@ Welcome to Docker Labs !
 COPY --from=nginx:latest /etc/nginx/nginx.conf /nginx.conf
 ```
 
-## Contributor
-
-[Savio Mathew](https://www.linkedin.com/in/saviovettoor)
 
 Next >> [Create an image with CMD instruction](04-with-CMD.md)
