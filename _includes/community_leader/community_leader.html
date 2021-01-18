@@ -1,6 +1,6 @@
-<div class="community-leader">
-    {% assign author_id = include.name | prepend: "/CommunityLeader/" | append: "/" %}
-    {% assign author = site.CommunityLeader | where: "url", author_id | first %}
+<div class="card team member">
+    {% assign author_id = include.name | prepend: "/staff_members/" | append: "/" %}
+    {% assign author = site.staff_members | where: "url", author_id | first %}
     <div class="avatar">
         <img class="team avatar" src="{% include relative-src.html src=author.image_path %}"></img>
         <div class="team social">
@@ -23,4 +23,3 @@
         <p class="team blurb">{{ author.blurb }}</p>
     </div>
 </div>
-
