@@ -54,7 +54,10 @@ plugins:
   - jekyll-gist
   - jekyll-language-plugin
   - jekyll-spaceship
-  
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-paginate
   
   
 # Where things are
