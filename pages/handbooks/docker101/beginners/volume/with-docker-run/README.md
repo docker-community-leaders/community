@@ -132,4 +132,4 @@ $ exit
 $ docker rm -f new-container
 ```
 
-Next >> [The docker network Command](http://dockerlabs.collabnix.com/beginners/using-docker-network.html)
+Next >> [Test your knowledge](../quiz4/)
