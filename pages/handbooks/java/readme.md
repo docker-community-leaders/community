@@ -84,7 +84,7 @@ S.No. | Name of Objectives | Status |
 
 ### [Multi-Container Application using Docker Compose](#multi-container-application-using-docker-compose) - 1 hour
 - [What is Docker Compose](/compose/what-is-docker-compose/README.md)
-- [Configuration file](/compose/configuration/README.md)
+- [Configuration file](compose/what-is-docker-compose/README.md)
 - [Start application](/compose/start/README.md)
 - [Verify application](/compose/verify/README.md)
 - [Shutdown application](/compose/shutdown/README.md)
