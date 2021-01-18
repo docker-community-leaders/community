@@ -22,6 +22,10 @@ group :jekyll_plugins do
 gem 'jekyll-gist'
 gem 'jekyll-spaceship'
 gem 'jekyll-language-plugin'
+gem 'jekyll-sitemap'
+gem 'jekyll-seo-tag'
+gem 'jekyll-feed'
+gem 'jekyll-paginate'
 
 # If you have any plugins, put them here!
 # group :jekyll_plugins do
