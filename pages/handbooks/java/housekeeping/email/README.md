@@ -14,7 +14,7 @@ Once the user register for the event, Community Leaders need to ensure that the 
 
 ## Sample Emails Format
 
-####  1 week before the events
+###  1 week before the events
 
 <i>
 Dear [Candidate Name](), <br>
@@ -47,31 +47,6 @@ Thanks,
 The Docker Meetup Team
 </i>
 
-### 4 Hours before the events
-
-<i>
-Dear [Candidate Name](), <br>
-<br>
-
-Docker 101 workshop that you signed up for is happening today.
-
-#### Confirmed Session:
-
-Docker 101 Workshop for Beginners - 9:00AM <Month>, <Day>
-
-[Join Here]()
-
-
-Please join by clicking on the link above.
-
-If you are unable to join today's session, you can sign up for other time slots by clicking on this link here.
-
-We look forward to seeing you!
-
-Thanks,
-
-The Docker Meetup Team
-</i>
 
 
 [Step 6 - Post-Event FollowUp](../postevent/)
