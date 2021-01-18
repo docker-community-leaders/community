@@ -8,12 +8,12 @@ permalink: /pages/handbooks/
 
 ### Docker Workshops
 
- - [Docker workshop for Beginners](/docker101/docker101.md)
+ - [Docker workshop for Beginners](./docker101/docker101.md)
  
  
 ### Dockerizing your application for Java
 
-- [Docker workshop for Java Developers](/java/readme.md)
+- [Docker workshop for Java Developers](./java/readme.md)
 
 
 
