@@ -54,6 +54,8 @@
           </main>
         </div>
       </div>
+     {% if link.social_icon %}{% include social-icon.html icon=link.social_icon %}{% endif %}
+
       {% include footer.html %}
     </div>
     {% include scripts.html %}
