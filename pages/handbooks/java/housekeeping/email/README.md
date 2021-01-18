@@ -14,7 +14,7 @@ Once the user register for the event, Community Leaders need to ensure that the 
 
 ## Sample Emails Format
 
-#### Example #1: 1 week before the events
+####  1 week before the events
 
 <i>
 Dear [Candidate Name](), <br>
@@ -47,7 +47,7 @@ Thanks,
 The Docker Meetup Team
 </i>
 
-#### Example #2 4 Hours before the events
+### 4 Hours before the events
 
 <i>
 Dear [Candidate Name](), <br>
