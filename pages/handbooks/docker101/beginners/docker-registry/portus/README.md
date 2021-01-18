@@ -118,10 +118,5 @@ Once you login to Portus, you will need to provide Docker Registry details:
  First, create user who would be point of contact for each of these teams who will be pushing their Docker Image.
  Then, create team names accordingly.
  
- 
- 
-## Contributor
- 
- - [Ajeet Singh Raina](mailto:ajeetraina@gmail.com)
- 
- Next >> [Managing volumes through Docker CLI](https://collabnix.github.io/dockerlabs/beginners/volume/managing-volumes-via-docker-cli.html)
+
+Next >> [Managing volumes through Docker CLI](/beginners/volume/manage-via-cli/)
