@@ -100,10 +100,10 @@ S.No. | Name of Objectives | Status |
 
 
 ### [Docker & Netbeans](#docker-and-netbeans)- 1 hour
-- [Configure Docker Host](/netbeans/configure/README.md)
-- [Pull an Image](/netbeans/pull/README.md)
-- [Run a Container](/netbeans/run/README.md)
-- [Build an Image](/netbeans/build/README.md)
+- [Configure Docker Host](/netbeans/README.md#configure-docker-host)
+- [Pull an Image](/netbeans/README.md#pull-an-image)
+- [Run a Container](/netbeans/README.md#run-a-container)
+- [Build an Image](/netbeans/README.md#build-an-image)
  
 
 
