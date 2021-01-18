@@ -25,13 +25,11 @@ S.No. | Name of Objectives | Status |
 3 | [Setting up Event Registration Page](/housekeeping/event/README.md) | ☑️ |
 4 | [Sending confirmation email for workshop](/housekeeping/email/README.md) |  ☑️ |
 
-
 ### During the workshop
 
 S.No. | Name of Objectives | Status | 
 :------------ | :-------------| :-------------|
 5 | [Conducting Attendee Survey](/housekeeping/attendeesurvey/README.md) |  ☑️ |
-
 
 ### After the workshop
 
@@ -41,10 +39,7 @@ S.No. | Name of Objectives | Status |
 7 | [Community Leader Survey](/housekeeping/clsurvey/README.md)  |  ☑️ |
 8 | [Attendee Survey](/housekeeping/attendeesurvey/README.md)  |  ☑️ |
 
-
-
 ## Recommended Agenda
-
 
 | Description | Timing |
 | --- | --- |
@@ -70,22 +65,18 @@ S.No. | Name of Objectives | Status |
 
 ### Getting Started with Docker Image - 1 hour
 
-
 - [Running Hello World Example](/helloworld/README.md)  
 - [Working with Docker Image](/beginners/workingwithdockerimage/workingwithdockerimage.md) 
 - [Saving Images and Containers as Tar Files for Sharing](/beginners/saving-images-as-tar/README.md)
 - [Building Your First Alpine Docker Image and Push it to DockerHub](/building/building-your-first-alpine-container.md)
 - [Test Your Knowledge](/beginners/quiz1/README.md)
 
-
-
 ###  Accessing & Managing Docker Container - 1 hour
 
-- [Accessing the Container Shell](/beginners/accessing-the-container/README.md)<br>
-- [Running a Command inside running Container](/beginners/running-command-inside-running-container/README.md)<br>
-- [Managing Docker Containers](/beginners/managing-containers/README.md)<br>
+- [Accessing the Container Shell](/beginners/accessing-the-container/README.md)
+- [Running a Command inside running Container](/beginners/running-command-inside-running-container/README.md)
+- [Managing Docker Containers](/beginners/managing-containers/README.md)
 - [Test Your Knowledge](/beginners/quiz2/README.md)
-
 
 ### Getting Started with Dockerfile - 3 hours
 
@@ -125,7 +116,7 @@ S.No. | Name of Objectives | Status |
 
 ### Docker Networking - 1 hour
 
- - [The docker network Command](/beginners/networking/using-docker-network/README.md)<br>
+ - [The docker network Command](/beginners/networking/using-docker-network/)
  - [Lab #1: Listing the Networks](/beginners/networking/A1-network-basics.html#step-2-list-networks)
  - [Lab #2: Inspecting a Network](/beginners/networking/A1-network-basics.html#step-3-inspect-a-network)
  - [Lab #3: List network driver plugins](/beginners/networking/A1-network-basics.html#step-4-list-network-driver-plugins)
