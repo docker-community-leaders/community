@@ -16,7 +16,7 @@ Once the user register for the event, Community Leaders need to ensure that the 
 
 #### Example #1
 
-
+<i>
 Dear [Candidate Name](), <br>
 <br>
 
@@ -38,7 +38,7 @@ We look forward to seeing you!
 Thanks,
 
 The Docker Meetup Team
-
+</i>
 
 
 [Step 6 - Post-Event FollowUp](../postevent/)
