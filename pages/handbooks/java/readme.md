@@ -84,10 +84,10 @@ S.No. | Name of Objectives | Status |
 
 ### [Multi-Container Application using Docker Compose](#multi-container-application-using-docker-compose) - 1 hour
 - [What is Docker Compose](/compose/what-is-docker-compose/README.md)
-- [Configuration file](compose/what-is-docker-compose/README.md)
-- [Start application](/compose/start/README.md)
-- [Verify application](/compose/verify/README.md)
-- [Shutdown application](/compose/shutdown/README.md)
+- [Configuration file](compose/what-is-docker-compose/README.md#configuration-file)
+- [Start application](/compose/start/README.md#start-application)
+- [Verify application](/compose/verify/README.md#verify-application)
+- [Shutdown application](/compose/shutdown/README.md#shutdown-application)
 - [Test Your Knowledge](/compose/quiz4/README.md)
 
 ### [Deploy Application using Docker Swarm Mode](#deploy-application-using-docker-swarm-mode) - 1 hour
