@@ -37,3 +37,4 @@
 - [Using Bevy Virtual as a Speaker](https://help.bevylabs.com/article/493-speaker-permissions-in-bevy-virtual)
 - [Virtual Event Type](https://help.bevylabs.com/article/428-virtual-event-type)
 
+[Step 2 - Plan an Event Agenda](../plan-an-event-agenda)
