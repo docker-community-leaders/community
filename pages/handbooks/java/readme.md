@@ -71,11 +71,7 @@ S.No. | Name of Objectives | Status |
 
 
 ### [Basics of Docker](#basics-of-docker) - 30 min
-- [Main Components](/docker/components/README.md)
-- [Docker Image](/docker/docker-image/README.md)
-- [Docker Container](/docker/docker-container/README.md)
-- [Docker Engine](/docker/docker-engine/README.md)
-- [Docker Client](/docker/docker-client/README.md)
+- [Main Components of Docker System](/docker/components/README.md)
 - [Test Your Knowledge](/docker/infra/quiz2/README.md)
 
 
