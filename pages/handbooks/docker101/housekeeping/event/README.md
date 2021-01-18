@@ -33,6 +33,4 @@ You will need to supply title, event description, schedule and agenda.
 ### Step #5 Click on "Publish".
 
 
-
-
-[Step 4 - Sending Confirmation Email](../email/)
+Next >> [Sending Confirmation Email](../email/)

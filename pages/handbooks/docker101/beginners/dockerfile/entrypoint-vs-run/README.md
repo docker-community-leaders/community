@@ -46,8 +46,4 @@ Let's run it passing a command line argument
 
 This clearly state that ENTRYPOINT is meant to provide the executable while CMD is to pass the default arguments to the executable.
 
-## Contributor
-
-[Ajeet Singh Raina](mailto:ajeetraina@gmail.com)
-
-Next >>[Writing Dockerfile with Hello Python Script Added](../lab_dockerfile_python/README.md)
+Next >> [Writing Dockerfile with Hello Python Script Added](../lab_dockerfile_python/)

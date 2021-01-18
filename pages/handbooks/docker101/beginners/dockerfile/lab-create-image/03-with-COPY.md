@@ -102,4 +102,4 @@ COPY --from=nginx:latest /etc/nginx/nginx.conf /nginx.conf
 
 [Savio Mathew](https://www.linkedin.com/in/saviovettoor)
 
-Next » [Lab #4: CMD instruction](04-with-CMD.md)
+Next >> [Create an image with CMD instruction](04-with-CMD.md)

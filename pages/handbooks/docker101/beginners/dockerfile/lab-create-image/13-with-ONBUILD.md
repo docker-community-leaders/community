@@ -187,8 +187,5 @@ Step 15 : ONBUILD CMD rvm all do bundle exec rails server
 Successfully built 23c388fb84c1
 ```
 
-## Contributor
 
-[Sangam Biradar](https://www.linkedin.com/in/sangambiradar14/)
-
-Next >> [Lab #14: HEALTHCHECK instruction](14-with-HEALTHCHECK.md)
+Next >> [Create an image with HEALTHCHECK instruction](14-with-HEALTHCHECK.md)

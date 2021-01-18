@@ -68,8 +68,5 @@ CONTAINER ID        IMAGE               COMMAND                  CREATED        
 24983e09bd86        expose:v1           "nginx -g 'daemon of…"   46 seconds ago      Up 45 seconds       0.0.0.0:32768->80/tcp, 0.0.0.0:32768->80/udp   expose-inst-Publish
 ```
 
-## Contributor
 
-[Savio Mathew](https://www.linkedin.com/in/saviovettoor)
-
-Next >> [Lab #12: LABEL instruction](12-with-LABEL.md)
+Next >> [Create an image with LABEL instruction](12-with-LABEL.md)

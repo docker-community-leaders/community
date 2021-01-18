@@ -204,8 +204,3 @@ ba4a5822d7c9        nginx               "nginx -g 'daemon of…"   6 minutes ago
 
 Cheers ~
 
-## Contributor
-
-- [Ajeet Singh Raina](mailto:ajeetraina@gmail.com)
-
-

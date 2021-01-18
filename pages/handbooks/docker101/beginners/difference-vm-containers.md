@@ -37,12 +37,6 @@ Since containers are nothing other than OS processes, This is the reason why lif
 
 Prime differnce between Containers and Virtual Machine is the virtualization of *Operating System* and *Hardware* respectively. While using Virtual machine each virtual machine has its own underlying operating system whereas, While using containers, Each container runs on same underlying operating system instance, While underlying OS is the same containers can still have different OS environment in their respective namespace.
 
-## Contributors:
-
-- Ajeet Singh Raina
-- Akshit Grover
-
-
 ## Further References
 
 * https://blog.netapp.com/blogs/containers-vs-vms/

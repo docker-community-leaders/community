@@ -44,9 +44,4 @@ docker build -t ajeetraina/lab3_cmd . -f Dockerfile_cmd
 docker run ajeetraina/lab3_cmd:latest
 ```
 
-## Contributor
-
-  - [Ajeet S Raina](https://github.com/ajeetraina)
-  - [Gaurav Gahlot](https://gauravgahlot.in)
-
-[Lab #5: ENTRYPOINT instruction](05-with-ENTRYPOINT.md)
+Next >> [Create an image with ENTRYPOINT instruction](05-with-ENTRYPOINT.md)

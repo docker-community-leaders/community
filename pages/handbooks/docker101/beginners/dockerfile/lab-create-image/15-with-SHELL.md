@@ -130,8 +130,5 @@ PS E:\docker\build\shell>
   - The `SHELL` instruction can also be used on Linux should an alternate shell be required such `zsh`, `csh`, `tcsh` and others.
   - The `SHELL` feature was added in Docker 1.12.
 
-## Contributor
 
-[Gaurav Gahlot](https://gauravgahlot.in/)
-
-Next >> [Lab #16: USER instruction](16-with-USER.md)
+Next >> [Create an image with USER instruction](16-with-USER.md)

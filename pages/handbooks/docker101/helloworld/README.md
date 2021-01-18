@@ -175,4 +175,4 @@ $ docker inspect 4ab
 
 
 
-[Next: Working with Docker Images](../beginners/)
+Next >> [Working with Docker Images](../beginners/)

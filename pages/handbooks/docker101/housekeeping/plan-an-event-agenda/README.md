@@ -11,4 +11,4 @@ permalink: /handbooks/docker101/housekeeping/plan-an-event-agenda/
 - If you are having issues with your page, do not have a page or need admin permissions please contact William over Docker community Slack or send email to william.quiviger(AT)docker.com
 
 
-[Step 3 - Set up an event registration page](../event/)
+Next >> [Set up an event registration page](../event/)

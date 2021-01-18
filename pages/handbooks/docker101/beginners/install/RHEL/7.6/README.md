@@ -117,8 +117,3 @@ Experimental:      false
 sudo docker run hello-world
 ```
 
-## Contributor
-
-[Haribabu Mannam](mannam.hari@gmail.com)
-
-

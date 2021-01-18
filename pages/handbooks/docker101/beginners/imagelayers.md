@@ -30,5 +30,4 @@ are free to use as per need from the community.
 
 This is what docker image is at its core.
 
-## Contributor - [Saiyam Pathak](https://www.linkedin.com/in/saiyam-pathak-97685a64/)
 

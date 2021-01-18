@@ -100,8 +100,4 @@ Please press "Enter" key twice so as to enter into container shell
 
 ADD Command lets you to add a tar directly from a link and explode to the container.
 
-## Contributor
-
-[Saiyam Pathak](https://www.linkedin.com/in/saiyam-pathak-97685a64/)
-
-[Lab #3: Create a Docker image with COPY instruction](03-with-COPY.md)
+Next >> [Create an image with COPY instruction](03-with-COPY.md)

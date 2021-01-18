@@ -16,12 +16,5 @@ Once the user register for the event, Community Leaders need to ensure that the 
 
 
 
-[Step 6 - Post-Event FollowUp](../postevent/)
-
-
-
-
-
-
-
+Next >> [Post-Event FollowUp](../postevent/)
 

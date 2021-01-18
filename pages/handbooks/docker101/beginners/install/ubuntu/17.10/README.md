@@ -25,6 +25,4 @@
 
 <TB>
   
- ## Contributor
- 
- - [Ajeet Singh Raina](ajeetraina@gmail.com)
+
