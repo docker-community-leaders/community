@@ -150,4 +150,4 @@ $
 ```
 Here, user specified another file to be run with python (default application for this container). So, the file specified with CMD got overridden and we obtained the output from /home/a.py.
 
-Next >> [Test your knowledge](../quiz3/)
+Next >> [Test your knowledge](../quiz3/README.md)
