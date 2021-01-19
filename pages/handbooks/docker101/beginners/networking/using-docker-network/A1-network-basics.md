@@ -133,4 +133,4 @@ Runtimes: runc
 The output above shows the **bridge**, **host**, **null**, and **overlay** drivers.
 
 
-Next >> [Lab #4: Docker Bridge Networking](../A2-bridge-networking.md)
+Next >> [Lab #4: Docker Bridge Networking](../A2-bridge-networking/)
