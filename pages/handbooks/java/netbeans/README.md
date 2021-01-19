@@ -1,7 +1,3 @@
----
-title: Java HandBooks
-permalink: /handbooks/java/netbeans/
----
 
 
 
