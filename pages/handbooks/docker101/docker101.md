@@ -117,14 +117,14 @@ S.No. | Name of Objectives | Status |
 ### Docker Networking - 1 hour
 
  - [The docker network Command](/beginners/networking/using-docker-network/README.md)
- - [Lab #1: Listing the Networks](/beginners/networking/A1-network-basics.html#step-2-list-networks)
- - [Lab #2: Inspecting a Network](/beginners/networking/A1-network-basics.html#step-3-inspect-a-network)
- - [Lab #3: List network driver plugins](/beginners/networking/A1-network-basics.html#step-4-list-network-driver-plugins)
- - [Lab #4: Docker Bridge Networking](/beginners/networking/A2-bridge-networking.html)
-   - [Lab #5: Basics of Docker Bridge Networking](/beginners/networking/A2-bridge-networking.html#step-1-the-default-bridge-network)
-   - [Lab #6: Connect a Docker container to bridge network](/beginners/networking/A2-bridge-networking.html#step-2-connect-a-container)
-   - [Lab #7: Test Network Connectivity](/beginners/networking/A2-bridge-networking.html#step-3-test-network-connectivity)
-   - [Lab #8: Configure NAT for external connectivity](/beginners/networking/A2-bridge-networking.html#step-4-configure-nat-for-external-connectivity)
+ - [Lab #1: Listing the Networks](/beginners/networking/using-docker-network/A1-network-basics.html#step-2-list-networks)
+ - [Lab #2: Inspecting a Network](/beginners/networking/using-docker-network/A1-network-basics.html#step-3-inspect-a-network)
+ - [Lab #3: List network driver plugins](/beginners/networking/using-docker-network/A1-network-basics.html#step-4-list-network-driver-plugins)
+ - [Lab #4: Docker Bridge Networking](/beginners/networking/using-docker-network/A2-bridge-networking.html)
+   - [Lab #5: Basics of Docker Bridge Networking](/beginners/networking/using-docker-network/A2-bridge-networking.html#step-1-the-default-bridge-network)
+   - [Lab #6: Connect a Docker container to bridge network](/beginners/networking/using-docker-network/A2-bridge-networking.html#step-2-connect-a-container)
+   - [Lab #7: Test Network Connectivity](/beginners/networking/using-docker-network/A2-bridge-networking.html#step-3-test-network-connectivity)
+   - [Lab #8: Configure NAT for external connectivity](/beginners/networking/using-docker-network/A2-bridge-networking.html#step-4-configure-nat-for-external-connectivity)
  - [Test Your Knowledge](/beginners/networking/quiz6/README.md)
 
 
