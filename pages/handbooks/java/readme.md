@@ -72,6 +72,7 @@ S.No. | Name of Objectives | Status |
 
 ### [Basics of Docker](#basics-of-docker) - 30 min
 - [Main Components of Docker System](/docker/components/README.md)
+- [Test Your Knowledge](/docker/quiz2/README.md)
 
 
 
