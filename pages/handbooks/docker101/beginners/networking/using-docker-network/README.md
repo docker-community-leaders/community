@@ -166,5 +166,5 @@ $ docker network ls
 $ exit
 $ exit
 ```
-Next >> [Lab #1: Listing the Networks](../A1-network-basics.md#step-2-list-networks)
+Next >> [Lab #1: Listing the Networks](../using-docker-network/A1-network-basics.md#step-2-list-networks)
 
