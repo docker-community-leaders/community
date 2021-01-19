@@ -17,4 +17,4 @@ description: Quiz for Beginners Track
 
 # Quiz
 
-Next >> [Building a Private Docker Registry](../../build-private-docker-registry/README.md)
+Next >> [Building a Private Docker Registry](../../docker-registry/README.md)
