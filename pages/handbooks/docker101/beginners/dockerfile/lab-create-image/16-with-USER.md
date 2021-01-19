@@ -54,4 +54,4 @@ CMD [ "exec", "gosu", "redis", "redis-server" ]
 - Click on **Add New Instance** on the left side of the screen to bring up Alpine OS instance on the right side
 
 
-Next >> [ENTRYPOINT vs RUN](../entrypoint-vs-run/)
+Next >> [ENTRYPOINT vs RUN](../entrypoint-vs-run/README.md)
