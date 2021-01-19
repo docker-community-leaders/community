@@ -105,14 +105,14 @@ S.No. | Name of Objectives | Status |
 
 ### Creating Private Docker Registry - 30 min
 
-- [Building a Private Docker Registry](/beginners/docker-registry/)
-- [Building a Private Docker Registry with UI](/beginners/docker-registry/portus/)
+- [Building a Private Docker Registry](/beginners/docker-registry/README.md)
+-  [Test Your Knowledge](/beginners/dockerfile/quiz4/README.md)
 
 ### Docker Volumes - 30 min
 
 - [Managing volumes through Docker CLI](/beginners/volume/manage-via-cli/)
 - [Creating Volume Mount from **docker run** command & sharing same Volume Mounts among multiple containers](/beginners/volume/with-docker-run)
-- [Test Your Knowledge](/beginners/volume/quiz4/)
+- [Test Your Knowledge](/beginners/volume/quiz5/README.md)
 
 ### Docker Networking - 1 hour
 
@@ -125,6 +125,6 @@ S.No. | Name of Objectives | Status |
    - [Lab #6: Connect a Docker container to bridge network](/beginners/networking/A2-bridge-networking.html#step-2-connect-a-container)
    - [Lab #7: Test Network Connectivity](/beginners/networking/A2-bridge-networking.html#step-3-test-network-connectivity)
    - [Lab #8: Configure NAT for external connectivity](/beginners/networking/A2-bridge-networking.html#step-4-configure-nat-for-external-connectivity)
- - [Test Your Knowledge](/beginners/networking/quiz5/README.md)
+ - [Test Your Knowledge](/beginners/networking/quiz6/README.md)
 
 
