@@ -132,4 +132,4 @@ $ exit
 $ docker rm -f new-container
 ```
 
-Next >> [Test your knowledge](../quiz4/)
+Next >> [Test your knowledge](../quiz4/README.md)
