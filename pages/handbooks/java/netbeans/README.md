@@ -1,3 +1,10 @@
+---
+title: Java HandBooks
+permalink: /handbooks/java/netbeans/
+---
+
+
+
 ## Docker and NetBeans
 
 This chapter will show you basic Docker tooling with NetBeans:
