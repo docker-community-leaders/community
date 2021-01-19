@@ -106,7 +106,7 @@ S.No. | Name of Objectives | Status |
 ### Creating Private Docker Registry - 30 min
 
 - [Building a Private Docker Registry](/beginners/docker-registry/README.md)
--  [Test Your Knowledge](/beginners/dockerfile/quiz4/README.md)
+-  [Test Your Knowledge](/beginners/docker-registry/quiz4/README.md)
 
 ### Docker Volumes - 30 min
 
