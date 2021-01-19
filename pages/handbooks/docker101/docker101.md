@@ -110,13 +110,13 @@ S.No. | Name of Objectives | Status |
 
 ### Docker Volumes - 30 min
 
-- [Managing volumes through Docker CLI](/beginners/volume/manage-via-cli/)
-- [Creating Volume Mount from **docker run** command & sharing same Volume Mounts among multiple containers](/beginners/volume/with-docker-run)
+- [Managing volumes through Docker CLI](/beginners/volume/manage-via-cli/README.md)
+- [Creating Volume Mount from **docker run** command & sharing same Volume Mounts among multiple containers](/beginners/volume/with-docker-run/README.md)
 - [Test Your Knowledge](/beginners/volume/quiz5/README.md)
 
 ### Docker Networking - 1 hour
 
- - [The docker network Command](/beginners/networking/using-docker-network/)
+ - [The docker network Command](/beginners/networking/using-docker-network/README.md)
  - [Lab #1: Listing the Networks](/beginners/networking/A1-network-basics.html#step-2-list-networks)
  - [Lab #2: Inspecting a Network](/beginners/networking/A1-network-basics.html#step-3-inspect-a-network)
  - [Lab #3: List network driver plugins](/beginners/networking/A1-network-basics.html#step-4-list-network-driver-plugins)
