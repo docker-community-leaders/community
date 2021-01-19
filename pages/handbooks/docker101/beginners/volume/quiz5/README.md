@@ -11,10 +11,9 @@ description: Quiz for Beginners Track
 | S. No.   |    Question. |      Response
 :--------| :--------------|:---------------|
 | 1   | Why is Docker volume so important? | |
-| 2   | What is difference between CMD and ENTRYPOINT? | |
-| 3   | What is the purpose of WORKDIR under Dockerfile? | |
-| 4   | If you have several Dockerfile under the same directories. How do you specify it for building Docker Image | |
-| 5   | What is the purpose of USER instruction? | |
+| 2   | Is it posisble to share volumes across Docker containers? How? | |
+| 3   | How do you inspect Docker volumes | |
+
 
 # Quiz
 
