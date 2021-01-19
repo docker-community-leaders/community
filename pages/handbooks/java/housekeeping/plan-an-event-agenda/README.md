@@ -3,7 +3,7 @@ title: Docker101 Housekeeping stuffs
 permalink: /handbooks/docker101/housekeeping/plan-an-event-agenda/
 ---
 
-# Plan an Event Agenda
+# Plan For Your Event
 
 - Your event must be posted on your [city’s Chapter page](https://events.docker.com/chapters/)
 - Try to create event 1 month before the event
