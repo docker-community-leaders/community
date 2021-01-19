@@ -1,4 +1,4 @@
-# How is ENTRYPOINT instruction under Dockerfile different from RUN instruction?
+# Lab 17 - How is ENTRYPOINT instruction under Dockerfile different from RUN instruction?
 
 ## Tested Infrastructure
 
