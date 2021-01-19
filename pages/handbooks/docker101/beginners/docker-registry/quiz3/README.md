@@ -15,4 +15,4 @@ description: Quiz for Beginners Track
 | 4   | How do you implement GitLab with local registry? Provide high level explanation | |
 
 
-
+[ Next >> Managing volumes through Docker CLI](../../volume/manage-via-cli/README.md)
