@@ -2,10 +2,6 @@
 
 # Lab Meta
 
-> **Difficulty**: Intermediate
-
-> **Time**: Approximately 15 minutes
-
 In this lab you'll learn how to build, manage, and use **bridge** networks.
 
 You will complete the following steps as part of this lab.
