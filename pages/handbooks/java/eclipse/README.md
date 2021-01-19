@@ -1,9 +1,4 @@
-:toc:
-
-:imagesdir: images
-
-[[Docker_Eclipse]]
-== Docker and Eclipse
+# Docker and Eclipse
 
 This chapter will show you basic Docker tooling with Eclipse:
 
@@ -13,7 +8,7 @@ This chapter will show you basic Docker tooling with Eclipse:
 
 Watch a quick video explaining the key steps in https://www.youtube.com/watch?v=XmhEZiS26os.
 
-=== Install Docker Tooling in Eclipse
+## Install Docker Tooling in Eclipse
 
 Download http://www.eclipse.org/downloads/eclipse-packages/[Eclipse IDE for Java EE Developers] and install.
 
@@ -21,21 +16,21 @@ Go to "`Help`" menu, "`Install New Software...`".
 
 Select Eclipse update site for the release, search for Docker, select "`Docker Tooling`".
 
-image::docker-eclipse-update-site-selection.png[]
+![My Image](docker-eclipse-update-site-selection.png)
 
 Click on "`Next>`", "`Next>`", accept the license agreement, click on "`Finish`" to start the installation.
 
 Restart Eclipse for the installation to complete.
 
-=== Docker Perspective and View
+## Docker Perspective and View
 
 Go to "`Window`", "`Perspective`", "`Open Perspective`", "`Other...`", "`Docker Tooling`".
 
-image::docker-eclipse-docker-perspective.png[]
+![My Image](docker-eclipse-docker-perspective.png)
 
 Click on "`OK`" to see the perspective.
 
-image::docker-eclipse-docker-perspective-default-look.png[]
+![My Image](docker-eclipse-docker-perspective-default-look.png)
 
 This has three views:
 
@@ -47,21 +42,21 @@ Click on the text in Docker Explorer to create a new connection. If you are on M
 
 If you are using Docker for Mac/Windows, then the default values are shown:
 
-image::docker-eclipse-docker-connection.png[]
+![My Image](docker-eclipse-docker-connection.png)
 
 Click on "`Test Connection`" to test the connection.
 
-image::docker-eclipse-docker-connection-test.png[]
+![My Image](docker-eclipse-docker-connection-test.png)
 
 If you are using Toolbox, enter the values as shown:
 
-image::docker-eclipse-docker-connection-toolbox.png[]
+![My Image](docker-eclipse-docker-connection-toolbox.png)
 
 The exact value of TCP Connection can be found using `docker-machine ls` command. The path for authentication is the directory name where certificates for your Docker Machine, `couchbase` in this case, are stored.
 
 Click on "`Test Connection`" to make sure the connection is successfully configured.
 
-image::docker-eclipse-docker-connection-test-toolbox.png[]
+![My Image](docker-eclipse-docker-connection-test-toolbox.png)
 
 In either case, the configuration can be completed once the connection is tested. Click on "`Finish`" to complete the configuration.
 
@@ -69,7 +64,7 @@ Docker Explorer is updated to show the connection.
 
 Containers and Images configured for the Docker Machine are shown in tabs. They can be expanded to see the list in Explorer itself.
 
-=== Pull an Image
+## Pull an Image
 
 Expand the connection to see "`Containers`" and "`Images`".
 
@@ -77,15 +72,15 @@ Right-click on "`Images`" and select "`Pull...`".
 
 Type the image name and click on "`Finish`".
 
-image::docker-eclipse-pull-image.png[]
+![My Image](docker-eclipse-pull-image.png)
 
 This image is now shown in Explorer and Docker Images tab.
 
-image::docker-eclipse-pulled-image.png[]
+![My Image](docker-eclipse-pulled-image.png)
 
 Any existing images on the Docker Host will be shown here.
 
-=== Run a Container
+## Run a Container
 
 Select an image, right-click on it, and click on "`Run...`". It shows the options that can be configured for running the container. Some of them are:
 
@@ -97,26 +92,26 @@ Select an image, right-click on it, and click on "`Run...`". It shows the option
 
 Uncheck "`Publish all exposed ports`" box to map to corresponding ports.
 
-image::docker-eclipse-run-container-config.png[]
+![My Image](docker-eclipse-run-container-config.png)
 
 Click on "`Finish`" to run the container.
 
 Right-click on the started container, select "`Display Log`" to show the log.
 
-image::docker-eclipse-container-display-log.png[]
+![My Image](docker-eclipse-container-display-log.png)
 
 The container can be paused, stopped and killed from here as well.
 
 To see more details about the container, right-click on the container, select "`Show In`", "`Properties`".
 
-image::docker-eclipse-container-properties.png[]
+![My Image](docker-eclipse-container-properties.png)
 
-=== Build an Image
+## Build an Image
 
 In Docker Images tab, click on the hammer icon on top right.
 
 Give the image name, specify an empty directory, click on "`Edit Dockerfile`" to edit the contents of Dockerfile
 
-image::docker-eclipse-build-image.png[]
+![My Image](docker-eclipse-build-image.png)
 
 Click on "`Save`" and "`Finish`" to create the image.
