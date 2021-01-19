@@ -111,16 +111,16 @@ S.No. | Name of Objectives | Status |
 ### [Docker and IntelliJ IDEA](docker-and-intelliJ) - 1 hour
 - [Install Docker Plugin in IDEA](/intellij/README.md)
 - [Pull an Image](/intellij/README.md#pull-an-image)
-- [Run a Container](/intellij/run/README.md#run-a-container)
-- [Build an Image](/intellij/build/README.md#build-an-image)
+- [Run a Container](/intellij/README.md#run-a-container)
+- [Build an Image](/intellij/README.md#build-an-image)
 
 
 ### [Docker & Eclipse](#docker-and-eclipse) - 1 hour
 - [Install Docker Tooling in Eclipse](/eclipse/README.md)
 - [Docker Perspective and View](/eclipse/README.md#docker-perspective-and-view)
-- [Pull an Image](/eclipse/pull/README.md#pull-an-image)
-- [Run a Container](/eclipse/run/README.md#run-a-container)
-- [Build an Image](/eclipse/build/README.md#build-an-image)
+- [Pull an Image](/eclipse/README.md#pull-an-image)
+- [Run a Container](/eclipse/README.md#run-a-container)
+- [Build an Image](/eclipse/README.md#build-an-image)
 
 
 
