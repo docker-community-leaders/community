@@ -10,7 +10,7 @@ permalink: /pages/handbooks/
 
  - [Docker workshop for Beginners](./docker101/docker101.md)
  - Docker workshop for Intermediate - Coming soon
- - Docker workshop for Advanced Users - Coming soon
+ - Docker workshop for Advanced Users - 
  
 
 ### Docker Desktop Workshops
@@ -22,9 +22,13 @@ permalink: /pages/handbooks/
 ### Docker Workshops for Developers
 
 - [Docker workshop for Java Developers](./java/readme.md)
-- Docker Workshop for Go Developers
-- Docker Workshop for Python Developers
-- Docker Workshop for Ruby Developers
+- Docker for Go Developers
+- Docker for Python Developers
+- Docker for Ruby Developers
+
+## Kubernetes Workshops 
+
+- Kubernetes workshop for Beginners - Coming soon
 
 
 
