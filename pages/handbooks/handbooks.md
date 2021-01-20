@@ -19,9 +19,12 @@ permalink: /pages/handbooks/
  
  
  
-### Dockerizing your application for Java
+### Docker Workshops for Developers
 
 - [Docker workshop for Java Developers](./java/readme.md)
+- Docker Workshop for Go Developers
+- Docker Workshop for Python Developers
+- Docker Workshop for Ruby Developers
 
 
 
