@@ -9,6 +9,14 @@ permalink: /pages/handbooks/
 ### Docker Workshops
 
  - [Docker workshop for Beginners](./docker101/docker101.md)
+ - Docker workshop for Intermediate - Coming soon
+ - Docker workshop for Advanced Users - Coming soon
+ 
+
+### Docker Desktop Workshops
+
+- Docker Desktop for Developers - Coming soon
+ 
  
  
 ### Dockerizing your application for Java
