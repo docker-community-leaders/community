@@ -1,6 +1,5 @@
 ---
 title: Hello World
-permalink: /handbooks/docker101/helloworld/
 ---
 
 
