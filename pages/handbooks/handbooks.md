@@ -26,7 +26,7 @@ permalink: /pages/handbooks/
 - Docker for Python Developers
 - Docker for Ruby Developers
 
-## Kubernetes Workshops 
+### Kubernetes Workshops 
 
 - Kubernetes workshop for Beginners - Coming soon
 
