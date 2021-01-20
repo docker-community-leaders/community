@@ -10,7 +10,7 @@ permalink: /pages/handbooks/
 
  - [Docker workshop for Beginners](./docker101/docker101.md)
  - Docker workshop for Intermediate - Coming soon
- - Docker workshop for Advanced Users - 
+ - Docker workshop for Advanced Users 
  
 
 ### Docker Desktop Workshops
