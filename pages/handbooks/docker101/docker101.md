@@ -6,7 +6,7 @@ permalink: /handbooks/docker101/
 
 This handbook will help you run a Docker 101 workshop from A to Z. This will cover every aspect of conducting workshop starting from setting up an event page till the completion of the successful workshop. 
 
-### Features of this workshop
+### Characteristics of this workshop
 
 - Audience : 5 to 100
 - Technical Skills Required : Basic knowledge of Linux, Basic concepts of Docker
