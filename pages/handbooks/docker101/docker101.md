@@ -4,9 +4,7 @@ permalink: /handbooks/docker101/
 ---
 ## Docker101 Workshop Handbook
 
-### What is the purpose of this handbook?
-
-This is a community leader handbook to run Docker 101 workshop. This will cover every aspect of conducting workshop starting from setting up an event page till the completion of the successful workshop. 
+This handbook will help you run a Docker 101 workshop from A to Z. This will cover every aspect of conducting workshop starting from setting up an event page till the completion of the successful workshop. 
 
 ### Features of this workshop
 
